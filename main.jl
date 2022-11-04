@@ -1,6 +1,7 @@
-# libraries
+#= libraries
 using Pkg
 Pkg.add("CSV")
+=#
 
 # import genes (txt)
 genes_raw = open("genes/genestest2.txt","r")
@@ -20,7 +21,7 @@ for file in files
     i = 1
     # PER LINE
     for line in data_by_line
-        # cleanup
+        # line_cleanup
         line_lc = lowercase(line)
         line_sans_g = replace(line_lc, "-" => "")
         line_sans_d = replace(line_sans_g, "." => "")
@@ -29,6 +30,7 @@ for file in files
         println("Paragraph ", i, ": ", "\n")
         # PER GENE
         for gene in genes
+            # gene_cleanup
             gene_sans_dash = replace(gene, "-" => "")
             gene_sans_dot = replace(gene_sans_dash, "." => "")
             gene_clean = gene_sans_dot
@@ -44,3 +46,4 @@ for file in files
     i = 1
     f += 1
 end
+f = 0
