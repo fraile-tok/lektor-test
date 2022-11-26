@@ -16,51 +16,55 @@ function slicematrix(A::AbstractMatrix{T}) where T
     return B
 end
 slicedmdf = slicematrix(mdf)
-genes = slicedmdf
-for gene in genes
+genelist = slicedmdf
+for gene in genelist
     filter!(!ismissing, gene)
 end
 
 # get files
-files = readdir("articles/")
-popfirst!(files)
+filelist = readdir("articles/")
+popfirst!(filelist)
 cd("articles/")
 
-# PER FILE
-f = 1
-for file in files
-    data_raw = open(file, "r")
-    data_by_line = readlines(data_raw)
-    println("File ", f, ": ", file)
-    i = 1
-    # PER LINE
-    for line in data_by_line
-        # cleanup
-        line_lc = lowercase(line)
-        line_sans_g = replace(line_lc, "-" => "")
-        line_sans_d = replace(line_sans_g, "." => "")
-        line_clean = line_sans_d
-        println("Paragraph ", i, ": ", line,"\n")
-        for gene in genes
-            count = 0 
-            aliases = gene
-            for alias in aliases
-                alias_sans_dash = replace(alias, "-" => "")
-                alias_sans_dot = replace(alias_sans_dash, "." => "")
-                alias_clean = lowercase(alias_sans_dot)
-                occurs = occursin(alias_clean, line_clean)
-                if (occurs == true)
-                    count += 1
+function searchgenes(files, genes)
+    # PER FILE
+    global f = 1
+    for file in files
+        data_raw = open(file, "r")
+        data_by_line = readlines(data_raw)
+        println("File ", f, ": ", file)
+        global l = 1
+        # PER LINE
+        for line in data_by_line
+            # cleanup
+            line_lc = lowercase(line)
+            line_sans_g = replace(line_lc, "-" => "")
+            line_sans_d = replace(line_sans_g, "." => "")
+            line_clean = line_sans_d
+            println("Paragraph ", l, ": ", line,"\n")
+            for gene in genes
+                count = 0 
+                aliases = gene
+                for alias in aliases
+                    alias_sans_dash = replace(alias, "-" => "")
+                    alias_sans_dot = replace(alias_sans_dash, "." => "")
+                    alias_clean = lowercase(alias_sans_dot)
+                    occurs = occursin(alias_clean, line_clean)
+                    if (occurs == true)
+                        count += 1
+                    end
+                end
+                if (count >= 1)
+                    println(gene[1], ": ", count)
                 end
             end
-            if (count >= 1)
-                println(gene[1], ": ", count)
-            end
+            println("\n")
+            global l += 1
         end
-        println("\n")
-        i += 1
+        global l = 1
+        global f += 1
     end
-    i = 1
-    f += 1
+    global f = 0
 end
-f = 0
+
+searchgenes(filelist, genelist)
