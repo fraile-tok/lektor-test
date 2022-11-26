@@ -30,7 +30,7 @@ function searchgenes(files, genes)
     for file in files
         data_raw = open(file, "r")
         data_by_line = readlines(data_raw)
-        println("File ", f, ": ", file)
+        println("File ", f, ": ")
         global l = 1
         # PER LINE
         for line in data_by_line
@@ -39,7 +39,7 @@ function searchgenes(files, genes)
             line_sans_g = replace(line_lc, "-" => "")
             line_sans_d = replace(line_sans_g, "." => "")
             line_clean = line_sans_d
-            println("Paragraph ", l, ": ", line,"\n")
+            println("Paragraph ", l, ": ","\n")
             for gene in genes
                 filter!(!ismissing, gene) # refactored missing filter
                 count = 0 
