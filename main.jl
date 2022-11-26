@@ -17,15 +17,13 @@ function slicematrix(A::AbstractMatrix{T}) where T
 end
 slicedmdf = slicematrix(mdf)
 genelist = slicedmdf
-for gene in genelist
-    filter!(!ismissing, gene)
-end
 
-# get files
+# File Import
 filelist = readdir("articles/")
 popfirst!(filelist)
 cd("articles/")
 
+# SearchGenes Func Declaration
 function searchgenes(files, genes)
     # PER FILE
     global f = 1
@@ -43,6 +41,7 @@ function searchgenes(files, genes)
             line_clean = line_sans_d
             println("Paragraph ", l, ": ", line,"\n")
             for gene in genes
+                filter!(!ismissing, gene) # refactored missing filter
                 count = 0 
                 aliases = gene
                 for alias in aliases
