@@ -21,16 +21,21 @@ genelist = slicedmdf
 # File Import
 filelist = readdir("articles/")
 popfirst!(filelist)
-cd("articles/")
 
 # SearchGenes Func Declaration
-function searchgenes(files, genes)
+function searchgenes(files, genes, resultsname) # searchgenes(array of files, array of genes, name for the results file)
+    # GO FOR RESULTS
+    cd("results/")
+    resultsfile = open(resultsname, "a")
+    # GO FOR FILES
+    cd("../articles/")
     # PER FILE
     global f = 1
     for file in files
         data_raw = open(file, "r")
         data_by_line = readlines(data_raw)
-        println("File ", f, ": ")
+        # println("File ", f, ": ")
+        write(resultsfile, "\nFile ", string(f), ":\n")
         global l = 1
         # PER LINE
         for line in data_by_line
@@ -39,9 +44,10 @@ function searchgenes(files, genes)
             line_sans_g = replace(line_lc, "-" => "")
             line_sans_d = replace(line_sans_g, "." => "")
             line_clean = line_sans_d
-            println("Paragraph ", l, ": ","\n")
+            #println("Paragraph ", l, ":\n")
+            write(resultsfile, "  Paragraph ", string(l), ":\n")
             for gene in genes
-                filter!(!ismissing, gene) # refactored missing filter
+                filter!(!ismissing, gene) # deletes missing values from gene arrays (aliases lists)
                 count = 0 
                 aliases = gene
                 for alias in aliases
@@ -54,16 +60,19 @@ function searchgenes(files, genes)
                     end
                 end
                 if (count >= 1)
-                    println(gene[1], ": ", count)
+                    #println(gene[1], ": ", count)
+                    write(resultsfile, "    ", gene[1], ": ", string(count), "\n")
                 end
             end
-            println("\n")
+            #println("\n")
             global l += 1
         end
         global l = 1
         global f += 1
     end
     global f = 0
+    close(resultsfile)
+    cd("../")
 end
 
-searchgenes(filelist, genelist)
+searchgenes(filelist, genelist, "results.txt")
