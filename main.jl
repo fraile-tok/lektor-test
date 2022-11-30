@@ -3,8 +3,10 @@ using Pkg
 Pkg.add("CSV")
 Pkg.add("DataFrames")
 
-# Genes Import, DF -> Matrix -> Vector w/missing -> Vector wo/missing
 using CSV, DataFrames
+import Dates
+
+# Genes Import, DF -> Matrix -> Vector w/missing -> Vector wo/missin
 df = CSV.read("genes/csvimport-test.csv", DataFrame; header=false)
 mdf = Matrix(df)
 function slicematrix(A::AbstractMatrix{T}) where T
@@ -27,6 +29,9 @@ function searchgenes(files, genes, resultsname) # searchgenes(array of files, ar
     # GO FOR RESULTS
     cd("results/")
     resultsfile = open(resultsname, "a")
+    # RESULTS HEADER
+    searchdate = string(Dates.now())
+    write(resultsfile, "SearchGenes function ran on ", searchdate,"\n")
     # GO FOR FILES
     cd("../articles/")
     # PER FILE
@@ -35,20 +40,21 @@ function searchgenes(files, genes, resultsname) # searchgenes(array of files, ar
         data_raw = open(file, "r")
         data_by_line = readlines(data_raw)
         # println("File ", f, ": ")
-        write(resultsfile, "\nFile ", string(f), ":\n")
+        write(resultsfile, "\n  File ", string(f), ":")
         global l = 1
         # PER LINE
         for line in data_by_line
+            linescore = 0
             # cleanup
             line_lc = lowercase(line)
             line_sans_g = replace(line_lc, "-" => "")
             line_sans_d = replace(line_sans_g, "." => "")
             line_clean = line_sans_d
             #println("Paragraph ", l, ":\n")
-            write(resultsfile, "  Paragraph ", string(l), ":\n")
+            write(resultsfile, "\n    Paragraph ", string(l), ": ")
             for gene in genes
                 filter!(!ismissing, gene) # deletes missing values from gene arrays (aliases lists)
-                count = 0 
+                genescore = 0 
                 aliases = gene
                 for alias in aliases
                     alias_sans_dash = replace(alias, "-" => "")
@@ -56,13 +62,19 @@ function searchgenes(files, genes, resultsname) # searchgenes(array of files, ar
                     alias_clean = lowercase(alias_sans_dot)
                     occurs = occursin(alias_clean, line_clean)
                     if (occurs == true)
-                        count += 1
+                        genescore += 1
+                        linescore += 1
                     end
                 end
-                if (count >= 1)
-                    #println(gene[1], ": ", count)
-                    write(resultsfile, "    ", gene[1], ": ", string(count), "\n")
+                if (genescore >= 1)
+                    #println(gene[1], ": ", score)
+                    write(resultsfile, "\n      ", gene[1], ": ", string(genescore))
                 end
+            end
+            if (linescore >= 1)
+                write(resultsfile, "")
+            else 
+                write(resultsfile, "No genes found.")
             end
             #println("\n")
             global l += 1
@@ -70,7 +82,7 @@ function searchgenes(files, genes, resultsname) # searchgenes(array of files, ar
         global l = 1
         global f += 1
     end
-    global f = 0
+    global f = 1
     close(resultsfile)
     cd("../")
 end
