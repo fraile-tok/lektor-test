@@ -42,6 +42,7 @@ function searchgenes(files, genes, resultsname) # searchgenes(array of files, ar
         # println("File ", f, ": ")
         write(resultsfile, "\n  File ", string(f), ":")
         global l = 1
+        filter!(!isempty, data_by_line)
         # PER LINE
         for line in data_by_line
             linescore = 0
