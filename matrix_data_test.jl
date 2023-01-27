@@ -9,7 +9,7 @@ import Dates
 # Genes Import, DF -> Matrix -> Vector w/missing -> Vector wo/missin
 df = CSV.read("genes/csvimport-test.csv", DataFrame; header=false)
 mdf = Matrix(df)
-function slicematrix(A::AbstractMatrix{T}) where T # TURNS MATRIX INTO ARRAY
+function slicematrix(A::AbstractMatrix{T}) where T
     m, n = size(A)
     B = Vector{T}[Vector{T}(undef, n) for _ in 1:m]
     for i in 1:m
@@ -17,15 +17,6 @@ function slicematrix(A::AbstractMatrix{T}) where T # TURNS MATRIX INTO ARRAY
     end
     return B
 end
-function matrixtodf(mat) # FOR RESULTS ARRAY; TURNS THEM INTO A DF
-    DF_mat = DataFrame(
-        mat[1:end, 1:end],
-        string.(mat[1, 1:end])
-    )
-    return DF_mat
-end
-
-# Genelist Prep
 slicedmdf = slicematrix(mdf)
 genelist = slicedmdf
 
@@ -45,7 +36,6 @@ function searchgenes(files, genes, resultsname) # searchgenes(array of files, ar
     cd("../articles/")
     # PER FILE
     global f = 1
-    global run_data = [] # run results array
     for file in files
         data_raw = open(file, "r")
         data_by_line = readlines(data_raw)
@@ -101,7 +91,15 @@ function searchgenes(files, genes, resultsname) # searchgenes(array of files, ar
         global l = 1
         global f += 1
 
-        println(matrixtodf(article_data)) # matrix is here to be used when needed
+        function MatrixToDataFrame(mat)
+            DF_mat = DataFrame(
+                mat[1:end, 1:end],
+                string.(mat[1, 1:end])
+            )
+            return DF_mat
+        end
+
+        println(MatrixToDataFrame(article_data))
         
     end
     global f = 1
@@ -110,5 +108,3 @@ function searchgenes(files, genes, resultsname) # searchgenes(array of files, ar
 end
 
 searchgenes(filelist, genelist, "results.txt")
-
-# lo correcto es que los artículos es analizar las matrices de una vez, en el mismo script
