@@ -7,7 +7,7 @@ using CSV, DataFrames
 import Dates
 
 # Genes Import, DF -> Matrix -> Vector w/missing -> Vector wo/missin
-df = CSV.read("genes/csvimport-test.csv", DataFrame; header=false)
+df = CSV.read("genes/full_gene_list.csv", DataFrame; header=false)
 mdf = Matrix(df)
 function slicematrix(A::AbstractMatrix{T}) where T # TURNS MATRIX INTO ARRAY
     m, n = size(A)
@@ -30,7 +30,7 @@ slicedmdf = slicematrix(mdf)
 genelist = slicedmdf
 
 # File Import
-filelist = readdir("articles/")
+filelist = readdir("article_load_test/")
 popfirst!(filelist)
 
 # SearchGenes Func Declaration
@@ -42,7 +42,7 @@ function searchgenes(files, genes, resultsname) # searchgenes(array of files, ar
     searchdate = string(Dates.now())
     write(resultsfile, "\n SearchGenes function ran on ", searchdate,"\n")
     # GO FOR FILES
-    cd("../articles/")
+    cd("../article_load_test/")
     # PER FILE
     global f = 1
     global run_data = [] # run results array
@@ -63,7 +63,9 @@ function searchgenes(files, genes, resultsname) # searchgenes(array of files, ar
                 linescore = 0
                 # cleanup
                 line_lc = lowercase(line)
-                line_sans_g = replace(line_lc, "-" => "")
+                line_sp1 = replace(line_lc, "(" => "")
+                line_sp = replace(line_sp1, ")" => "")
+                line_sans_g = replace(line_sp, "-" => "")
                 line_sans_d = replace(line_sans_g, "." => "")
                 line_clean = line_sans_d
                 #println("Paragraph ", l, ":\n")
@@ -109,6 +111,6 @@ function searchgenes(files, genes, resultsname) # searchgenes(array of files, ar
     cd("../")
 end
 
-searchgenes(filelist, genelist, "results.txt")
+searchgenes(filelist, genelist, "load_test.txt")
 
 # lo correcto es que los artículos es analizar las matrices de una vez, en el mismo script
