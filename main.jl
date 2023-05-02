@@ -17,21 +17,17 @@ function slicematrix(A::AbstractMatrix{T}) where T # TURNS MATRIX INTO ARRAY
     end
     return B
 end
-function matrixtodf(mat) # FOR RESULTS ARRAY; TURNS THEM INTO A DF
-    DF_mat = DataFrame(
-        mat[1:end, 1:end],
-        string.(mat[1, 1:end])
-    )
-    return DF_mat
-end
 
 # Genelist Prep
 slicedmdf = slicematrix(mdf)
 genelist = slicedmdf
 
 # File Import
-filelist = readdir("article_load_test/")
+filelist = readdir("articles/")
 popfirst!(filelist)
+
+# CSV Exporting
+results_template = CSV.read("results/results_template.csv", DataFrame; header=true)
 
 # SearchGenes Func Declaration
 function searchgenes(files, genes, resultsname) # searchgenes(array of files, array of genes, name for the results file)
@@ -42,7 +38,7 @@ function searchgenes(files, genes, resultsname) # searchgenes(array of files, ar
     searchdate = string(Dates.now())
     write(resultsfile, "\n SearchGenes function ran on ", searchdate,"\n")
     # GO FOR FILES
-    cd("../article_load_test/")
+    cd("../articles/")
     # PER FILE
     global f = 1
     global run_data = [] # run results array
@@ -52,10 +48,9 @@ function searchgenes(files, genes, resultsname) # searchgenes(array of files, ar
         # println("File ", f, ": ")
         write(resultsfile, "\n  File ", string(f), ":")
         global l = 1
-        global article_data = [] # generates array to keep article data
         # PER LINE
-        for line in data_by_line
-            global line_data = [] # generates array to keep paragraph data
+        for line in data_by_line #for line begins
+            global para_results = [] # generates array to keep paragraph results
             # if line is empty then skip
             if (line == "") 
                 global l += 2 # the line is skipped but the .txt paragraph numbers maintained
@@ -70,11 +65,13 @@ function searchgenes(files, genes, resultsname) # searchgenes(array of files, ar
                 line_clean = line_sans_d
                 #println("Paragraph ", l, ":\n")
                 write(resultsfile, "\n    Paragraph ", string(l), ": ")
-                for gene in genes
+                # PER GENE
+                for gene in genes #for gene begins
                     filter!(!ismissing, gene) # deletes missing values from gene arrays (aliases lists)
                     genescore = 0 
                     aliases = gene
-                    for alias in aliases
+                    # PER ALIAS
+                    for alias in aliases #for alias begins
                         alias_sans_dash = replace(alias, "-" => "")
                         alias_sans_dot = replace(alias_sans_dash, "." => "")
                         alias_clean = lowercase(alias_sans_dot)
@@ -83,34 +80,36 @@ function searchgenes(files, genes, resultsname) # searchgenes(array of files, ar
                             genescore += 1
                             linescore += 1
                         end
-                    end
+                    end #for alias ends
                     if (genescore >= 1)
                         #println(gene[1], ": ", score)
                         write(resultsfile, "\n      ", gene[1], ": ", string(genescore))
-                        push!(line_data, [gene[1], genescore]) # adds gene to paragraph results array
                     end
+                    push!(para_results,genescore)
                 end
                 if (linescore >= 1)
                     write(resultsfile, "")
-                    push!(article_data, line_data) # pushes paragraph array into article results array
                 else 
                     write(resultsfile, "No genes found.")
-                end
+                end #for gene ends
                 #println("\n")
+                push!(results_template,para_results)
                 global l += 1
             end
-        end
+        end #for line ends
+        cd("../results/")
+        CSV.write("results.csv", results_template)
         global l = 1
         global f += 1
+        #articledf = matrixtodf(article_data)
+        #println(articledf) # matrix is here to be used when needed
 
-        println(matrixtodf(article_data)) # matrix is here to be used when needed
-        
     end
     global f = 1
     close(resultsfile)
     cd("../")
 end
 
-searchgenes(filelist, genelist, "load_test.txt")
+searchgenes(filelist, genelist, "csv_results_testing.txt")
 
 # lo correcto es que los artículos es analizar las matrices de una vez, en el mismo script

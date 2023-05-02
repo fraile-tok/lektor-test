@@ -1,0 +1,114 @@
+
+ SearchGenes function ran on 2023-05-02T17:21:52.813
+
+  File 1:
+    Paragraph 1: No genes found.
+    Paragraph 2: No genes found.
+    Paragraph 3: 
+      akt: 1
+    Paragraph 4: No genes found.
+    Paragraph 5: 
+      dll1: 1
+      ifn-γ: 1
+      tgfβ: 1
+      tnf-α: 3
+    Paragraph 6: No genes found.
+    Paragraph 7: No genes found.
+    Paragraph 8: No genes found.
+    Paragraph 9: No genes found.
+    Paragraph 10: No genes found.
+    Paragraph 11: 
+      bcl2: 1
+    Paragraph 12: No genes found.
+    Paragraph 13: No genes found.
+    Paragraph 14: No genes found.
+    Paragraph 15: No genes found.
+    Paragraph 16: No genes found.
+    Paragraph 17: No genes found.
+    Paragraph 18: No genes found.
+    Paragraph 19: 
+      cd4: 1
+    Paragraph 20: 
+      tcr: 1
+      cd4: 1
+    Paragraph 21: No genes found.
+    Paragraph 22: 
+      pax5: 2
+      cd19: 1
+    Paragraph 23: 
+      il-2: 1
+      il-2r: 1
+    Paragraph 24: 
+      flt3l: 1
+      flt3: 1
+    Paragraph 25: 
+      il-7: 1
+    Paragraph 26: No genes found.
+    Paragraph 27: No genes found.
+    Paragraph 28: 
+      cd4: 1
+      cd19: 1
+    Paragraph 29: 
+      cd4: 1
+      il-2r: 1
+    Paragraph 30: 
+      bcl6: 1
+    Paragraph 31: No genes found.
+    Paragraph 32: No genes found.
+    Paragraph 33: No genes found.
+    Paragraph 34: No genes found.
+    Paragraph 35: 
+      xbp1: 1
+    Paragraph 36: No genes found.
+    Paragraph 37: No genes found.
+    Paragraph 38: No genes found.
+    Paragraph 39: 
+      cd19: 1
+    Paragraph 40: No genes found.
+    Paragraph 41: No genes found.
+    Paragraph 42: No genes found.
+    Paragraph 43: No genes found.
+    Paragraph 44: No genes found.
+    Paragraph 45: 
+      cd8: 1
+      cd4: 1
+    Paragraph 46: 
+      cd4: 2
+      ifn-γ: 1
+      il-2: 1
+      tgfβ: 1
+      il-12: 1
+      il-18: 1
+      tnfr2: 1
+      il-17: 1
+      il-23: 1
+      il-6: 1
+      tnf-α: 3
+      il-23r: 1
+      nf-xb: 1
+    Paragraph 47: 
+      tgfβ: 1
+      il-17: 1
+    Paragraph 48: 
+      cd4: 1
+    Paragraph 49: No genes found.
+    Paragraph 50: 
+      cd8: 1
+    Paragraph 51: 
+      cd4: 1
+    Paragraph 52: No genes found.
+    Paragraph 53: 
+      flt3l: 1
+      flt3: 1
+    Paragraph 54: 
+      il-7: 1
+    Paragraph 55: 
+      cd4: 1
+      il-2r: 1
+    Paragraph 56: 
+      bcl6: 1
+    Paragraph 57: No genes found.
+    Paragraph 58: No genes found.
+    Paragraph 59: No genes found.
+    Paragraph 60: 
+      xbp1: 1
