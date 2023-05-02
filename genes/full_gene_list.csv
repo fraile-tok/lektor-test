@@ -7,7 +7,7 @@ il-27,IL-27R,IL-27p28,,,
 nfat,Nuclear factor of activated T-cells,,,,
 il-7r,interleukin-7 receptor,cd127,,,
 il-7,interleukin-7,,,,
-tcf-1,HNF1A,HNF1,LFB1,MODY3,HNF4A
+tcf-1,,HNF1,LFB1,MODY3,HNF4A
 cd4,cluster of differentiation 4,imd79,,,
 runx3,aml2,cbfa3,,,
 runx1,alm1,cbfa2,evi1,,
