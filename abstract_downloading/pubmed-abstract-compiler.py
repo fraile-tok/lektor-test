@@ -47,7 +47,7 @@ run = True
 all_abstracts = list()
 loop_counter = 1
 
-while run:
+while loop_counter <= 10:
     print("this is efetch run number " + str(loop_counter))
     loop_counter += 1
     fetch_retstart = "&retstart=" + str(retstart)
@@ -67,8 +67,9 @@ while run:
     sleep(2)
     # update retstart to download the next chunk of abstracts
     retstart = retstart + retmax
-    if retstart > total_abstract_count:
-        run = False
+    
+    #if retstart > total_abstract_count:
+    #   run = False
 
 # write all_abstracts to a csv file for downstream data analysis
 with open("abstract_downloading/abstracts.csv", "wt") as abstracts_file, open ("abstract_downloading/partial_abstracts.csv", "wt") as partial_abstracts:

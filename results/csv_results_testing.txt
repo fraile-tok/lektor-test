@@ -225,3 +225,4133 @@
     Paragraph 59: No genes found.
     Paragraph 60: 
       xbp1: 1
+ SearchGenes function ran on 2023-05-15T21:36:28.752
+
+  File 1:
+    Paragraph 1: No genes found.
+    Paragraph 2: No genes found.
+    Paragraph 3: 
+      cd8: 1
+    Paragraph 4: No genes found.
+    Paragraph 5: No genes found.
+    Paragraph 6: No genes found.
+    Paragraph 7: No genes found.
+    Paragraph 8: 
+      cd8: 1
+    Paragraph 9: No genes found.
+    Paragraph 10: 
+      akt: 1
+    Paragraph 11: 
+      tcr: 1
+      cd4: 1
+    Paragraph 12: 
+      cd4: 1
+      ifn-γ: 1
+      il-2: 1
+      il-4r: 1
+      il-4: 1
+      socs1: 1
+      il-12: 1
+      tnf-α: 1
+      stat3: 1
+    Paragraph 13: 
+      cd4: 1
+    Paragraph 14: 
+      il-7: 1
+      cd4: 1
+      ifn-γ: 1
+      il-2: 1
+      il-23: 1
+      il-6: 1
+    Paragraph 15: 
+      il-17: 1
+      il-6: 1
+    Paragraph 16: 
+      dll1: 1
+      cd8: 1
+      il-10: 2
+      tgfβ: 1
+    Paragraph 17: 
+      bcr: 1
+    Paragraph 18: 
+      cd8: 1
+      cd4: 1
+    Paragraph 19: No genes found.
+    Paragraph 20: 
+      cd8: 1
+      cd4: 1
+      blimp1: 1
+      bcl6: 1
+    Paragraph 21: 
+      bcr: 1
+    Paragraph 22: No genes found.
+    Paragraph 23: 
+      cd4: 1
+    Paragraph 24: No genes found.
+    Paragraph 25: 
+      ifn-γ: 1
+      il-2: 1
+      il-2r: 1
+      il-10: 1
+      il-4: 1
+      il-12: 1
+      il-17: 1
+    Paragraph 26: No genes found.
+    Paragraph 27: 
+      cd8: 1
+      il-7r: 1
+      cd4: 1
+      il-2r: 1
+    Paragraph 28: 
+      dll1: 1
+    Paragraph 29: No genes found.
+    Paragraph 30: No genes found.
+    Paragraph 31: No genes found.
+    Paragraph 32: 
+      il-17: 1
+    Paragraph 33: No genes found.
+    Paragraph 34: 
+      dll1: 1
+      cd8: 1
+      gzmb: 1
+    Paragraph 35: No genes found.
+    Paragraph 36: No genes found.
+    Paragraph 37: 
+      cd8: 1
+      tcr: 1
+      gzmb: 1
+      il-2: 2
+      il-2r: 1
+    Paragraph 38: No genes found.
+    Paragraph 39: 
+      tcr: 2
+      runx1: 1
+    Paragraph 40: No genes found.
+    Paragraph 41: No genes found.
+    Paragraph 42: No genes found.
+    Paragraph 43: 
+      cd8: 1
+      jak1: 1
+      il-2: 1
+      socs1: 1
+      il-12: 1
+      il-23: 1
+      tnf-α: 1
+    Paragraph 44: 
+      cd8: 1
+      cd4: 1
+    Paragraph 45: 
+      ifn-γ: 1
+    Paragraph 46: 
+      il-10: 1
+      tgfβ: 1
+    Paragraph 47: No genes found.
+    Paragraph 48: No genes found.
+    Paragraph 49: 
+      cd8: 1
+    Paragraph 50: 
+      cd8: 1
+      cd4: 1
+    Paragraph 51: No genes found.
+    Paragraph 52: No genes found.
+    Paragraph 53: No genes found.
+    Paragraph 54: No genes found.
+    Paragraph 55: 
+      cd8: 1
+      cd4: 1
+      ifn-γ: 1
+      tnf-α: 2
+    Paragraph 56: No genes found.
+    Paragraph 57: No genes found.
+    Paragraph 58: 
+      cd8: 1
+      cd4: 1
+      il-4: 1
+    Paragraph 59: No genes found.
+    Paragraph 60: 
+      dll1: 1
+      cd8: 1
+      cd4: 1
+      il-2r: 1
+      foxp3: 1
+    Paragraph 61: 
+      ifn-γ: 1
+    Paragraph 62: 
+      cd8: 1
+      cd4: 1
+    Paragraph 63: No genes found.
+    Paragraph 64: 
+      cd4: 1
+    Paragraph 65: 
+      tcr: 2
+    Paragraph 66: No genes found.
+    Paragraph 67: 
+      ifn-γ: 2
+      tnf-α: 3
+      nf-xb: 1
+    Paragraph 68: No genes found.
+    Paragraph 69: No genes found.
+    Paragraph 70: 
+      cd8: 1
+      cd4: 1
+    Paragraph 71: 
+      ifn-γ: 1
+      t-bet: 2
+      stat1: 1
+      il-2: 1
+      stat3: 1
+      il-21: 1
+    Paragraph 72: 
+      cd4: 1
+      il-2: 1
+      il-23: 1
+    Paragraph 73: 
+      tcr: 2
+    Paragraph 74: No genes found.
+    Paragraph 75: No genes found.
+    Paragraph 76: No genes found.
+    Paragraph 77: 
+      runx3: 1
+    Paragraph 78: No genes found.
+    Paragraph 79: 
+      cd4: 1
+      stat3: 1
+    Paragraph 80: No genes found.
+    Paragraph 81: No genes found.
+    Paragraph 82: No genes found.
+    Paragraph 83: No genes found.
+    Paragraph 84: No genes found.
+    Paragraph 85: No genes found.
+    Paragraph 86: No genes found.
+    Paragraph 87: No genes found.
+    Paragraph 88: 
+      cd8: 1
+    Paragraph 89: No genes found.
+    Paragraph 90: 
+      cd8: 1
+      tcf-1: 1
+      cd4: 1
+    Paragraph 91: No genes found.
+    Paragraph 92: No genes found.
+    Paragraph 93: 
+      dll1: 1
+      cd8: 1
+      il-10: 1
+      foxp3: 1
+      tgfβ: 1
+    Paragraph 94: No genes found.
+    Paragraph 95: 
+      il-2: 1
+      il-4: 1
+    Paragraph 96: 
+      cd4: 1
+    Paragraph 97: No genes found.
+    Paragraph 98: 
+      cd8: 1
+      cd4: 1
+      il-2r: 1
+    Paragraph 99: 
+      foxp3: 1
+      tgfβ: 1
+      smad2: 1
+    Paragraph 100: 
+      tcr: 1
+      bcr: 1
+    Paragraph 101: 
+      bcl11b: 1
+      cd8: 1
+      tcf-1: 1
+      blimp1: 2
+    Paragraph 102: 
+      dll1: 1
+    Paragraph 103: No genes found.
+    Paragraph 104: No genes found.
+    Paragraph 105: 
+      cd8: 1
+    Paragraph 106: No genes found.
+    Paragraph 107: 
+      il-2: 1
+      il-10: 1
+      akt: 1
+      il-17: 1
+      irf4: 1
+    Paragraph 108: 
+      cd19: 1
+    Paragraph 109: No genes found.
+    Paragraph 110: 
+      cd8: 1
+      il-7: 1
+      cd4: 1
+      ifn-γ: 1
+      il-6: 1
+    Paragraph 111: No genes found.
+    Paragraph 112: 
+      dll1: 1
+      cd8: 1
+    Paragraph 113: 
+      cd8: 1
+      cd4: 1
+      il-2: 1
+      il-17: 1
+      tnf-α: 2
+    Paragraph 114: No genes found.
+    Paragraph 115: 
+      cd8: 1
+      cd4: 1
+    Paragraph 116: 
+      il-4: 1
+    Paragraph 117: No genes found.
+    Paragraph 118: No genes found.
+    Paragraph 119: 
+      tnf-α: 3
+    Paragraph 120: 
+      cd8: 1
+      cd4: 1
+      ifn-γ: 1
+    Paragraph 121: 
+      il-2: 1
+    Paragraph 122: 
+      cd8: 1
+      tcr: 1
+    Paragraph 123: No genes found.
+    Paragraph 124: No genes found.
+    Paragraph 125: No genes found.
+    Paragraph 126: 
+      dll1: 1
+      cd8: 2
+    Paragraph 127: No genes found.
+    Paragraph 128: 
+      cd8: 1
+      cd4: 1
+      tnf-α: 1
+    Paragraph 129: No genes found.
+    Paragraph 130: No genes found.
+    Paragraph 131: 
+      il-17: 1
+      tnf-α: 1
+    Paragraph 132: 
+      cd4: 1
+    Paragraph 133: 
+      cd4: 1
+    Paragraph 134: 
+      tnf-α: 2
+    Paragraph 135: No genes found.
+    Paragraph 136: No genes found.
+    Paragraph 137: No genes found.
+    Paragraph 138: No genes found.
+    Paragraph 139: No genes found.
+    Paragraph 140: 
+      irf4: 1
+    Paragraph 141: 
+      cd8: 1
+      gzmb: 1
+    Paragraph 142: No genes found.
+    Paragraph 143: 
+      cd8: 1
+      cd4: 1
+    Paragraph 144: 
+      cd8: 1
+      cd4: 1
+    Paragraph 145: 
+      il-6: 1
+    Paragraph 146: No genes found.
+    Paragraph 147: No genes found.
+    Paragraph 148: No genes found.
+    Paragraph 149: No genes found.
+    Paragraph 150: 
+      notch1: 1
+      cd4: 1
+      socs1: 1
+      tnf-α: 1
+      bcl6: 1
+    Paragraph 151: 
+      cd8: 1
+      cd4: 1
+    Paragraph 152: 
+      cd4: 1
+      gata3: 1
+      il-4: 1
+      stat6: 1
+    Paragraph 153: 
+      cd8: 1
+      cd4: 1
+      ifn-γ: 1
+      il-17: 1
+    Paragraph 154: 
+      cd8: 1
+      akt: 1
+      tnf-α: 1
+      stat3: 1
+    Paragraph 155: 
+      cd8: 1
+      cd4: 1
+    Paragraph 156: 
+      cd8: 1
+      cd4: 1
+    Paragraph 157: 
+      cd4: 1
+    Paragraph 158: No genes found.
+    Paragraph 159: 
+      cd8: 1
+      bcl2: 2
+    Paragraph 160: 
+      cd4: 1
+      gata3: 1
+      il-4: 1
+      il-17: 1
+    Paragraph 161: 
+      cd4: 1
+    Paragraph 162: No genes found.
+    Paragraph 163: 
+      cd8: 1
+      cd4: 1
+    Paragraph 164: 
+      il-2: 1
+      il-2r: 1
+    Paragraph 165: 
+      cd8: 1
+      cd4: 1
+    Paragraph 166: 
+      ifn-γ: 1
+    Paragraph 167: 
+      dll1: 1
+      bcl2: 1
+    Paragraph 168: 
+      ifn-γ: 1
+    Paragraph 169: No genes found.
+    Paragraph 170: 
+      jak1: 2
+      il-2: 1
+      il-17: 1
+      il-23: 1
+      il-6r: 1
+      il-6: 1
+    Paragraph 171: No genes found.
+    Paragraph 172: 
+      cd8: 1
+      cd4: 1
+    Paragraph 173: 
+      il-4: 1
+      cd19: 1
+    Paragraph 174: 
+      cd4: 1
+    Paragraph 175: 
+      cd8: 1
+    Paragraph 176: 
+      il-27: 1
+      gzmb: 1
+      IFN-β: 1
+      il-2: 1
+    Paragraph 177: 
+      cd8: 1
+      tcr: 1
+      cd4: 1
+    Paragraph 178: No genes found.
+    Paragraph 179: No genes found.
+    Paragraph 180: 
+      il-17: 1
+      stat3: 1
+    Paragraph 181: 
+      cd4: 1
+      foxp3: 1
+    Paragraph 182: 
+      cd8: 2
+    Paragraph 183: 
+      tnf-α: 2
+    Paragraph 184: 
+      cd8: 1
+      cd4: 1
+    Paragraph 185: 
+      cd8: 1
+      cd4: 1
+    Paragraph 186: 
+      dll1: 1
+      notch1: 1
+      ifn-γ: 1
+      t-bet: 2
+    Paragraph 187: 
+      cd4: 1
+    Paragraph 188: 
+      cd8: 1
+      cd4: 1
+    Paragraph 189: No genes found.
+    Paragraph 190: 
+      cd8: 1
+      cd4: 1
+    Paragraph 191: 
+      cd8: 1
+      tcf-1: 1
+    Paragraph 192: No genes found.
+    Paragraph 193: 
+      cd8: 1
+      cd4: 1
+    Paragraph 194: 
+      cd8: 1
+      foxp3: 1
+      stat3: 1
+    Paragraph 195: No genes found.
+    Paragraph 196: No genes found.
+    Paragraph 197: 
+      cd8: 1
+      cd4: 1
+    Paragraph 198: 
+      cd8: 1
+      cd4: 1
+      gzmb: 1
+      ifn-γ: 1
+    Paragraph 199: 
+      tcr: 2
+    Paragraph 200: 
+      cd4: 1
+      rorγt: 1
+    Paragraph 201: No genes found.
+    Paragraph 202: 
+      cd4: 1
+    Paragraph 203: 
+      akt: 1
+      il-6: 1
+    Paragraph 204: 
+      cd8: 1
+    Paragraph 205: 
+      dll1: 1
+      cd8: 1
+      tcr: 1
+    Paragraph 206: 
+      cd8: 1
+      cd4: 2
+    Paragraph 207: 
+      foxp3: 1
+      rorγt: 1
+      il-6: 1
+      stat3: 1
+    Paragraph 208: 
+      notch1: 1
+    Paragraph 209: No genes found.
+    Paragraph 210: 
+      il-17: 1
+      tnf-α: 1
+    Paragraph 211: 
+      tcr: 1
+    Paragraph 212: No genes found.
+    Paragraph 213: No genes found.
+    Paragraph 214: No genes found.
+    Paragraph 215: 
+      akt: 1
+      blimp1: 2
+      bcl6: 1
+    Paragraph 216: 
+      il-2: 1
+      il-10: 1
+      foxp3: 1
+      tgfβ: 1
+      il-4: 1
+      il-12r: 1
+      il-12: 1
+      tnf-α: 1
+      stat3: 1
+    Paragraph 217: 
+      cd8: 1
+      cd4: 1
+      il-6: 1
+      tnf-α: 1
+      stat3: 1
+    Paragraph 218: No genes found.
+    Paragraph 219: 
+      cd8: 1
+      il-2: 1
+    Paragraph 220: 
+      tnf-α: 1
+      b9: 1
+      cd19: 1
+    Paragraph 221: No genes found.
+    Paragraph 222: No genes found.
+    Paragraph 223: 
+      cd8: 2
+      cd4: 2
+      ifn-γ: 1
+      il-2: 1
+      il-10: 1
+      il-4: 1
+      il-12: 1
+      il-18: 1
+      tnf-α: 1
+    Paragraph 224: 
+      cd8: 1
+    Paragraph 225: 
+      il-6: 1
+      tnf-α: 1
+    Paragraph 226: 
+      cd8: 1
+    Paragraph 227: 
+      cd8: 1
+      cd4: 1
+      ifn-γ: 1
+      t-bet: 2
+      gata3: 1
+    Paragraph 228: No genes found.
+    Paragraph 229: 
+      cd8: 1
+      tcr: 2
+      nfat: 2
+    Paragraph 230: No genes found.
+    Paragraph 231: 
+      cd8: 1
+      gzmb: 1
+    Paragraph 232: No genes found.
+    Paragraph 233: 
+      ifn-γ: 1
+    Paragraph 234: No genes found.
+    Paragraph 235: 
+      cd4: 1
+      rorγt: 1
+    Paragraph 236: 
+      dll1: 1
+      cd8: 1
+      gzmb: 1
+      foxp3: 1
+    Paragraph 237: 
+      dll1: 1
+      tgfβ: 1
+      smad2: 1
+    Paragraph 238: No genes found.
+    Paragraph 239: 
+      cd4: 1
+    Paragraph 240: No genes found.
+    Paragraph 241: No genes found.
+    Paragraph 242: No genes found.
+    Paragraph 243: 
+      tnf-α: 1
+    Paragraph 244: No genes found.
+    Paragraph 245: No genes found.
+    Paragraph 246: 
+      il-10: 1
+      tgfβ: 1
+      il-6: 1
+      tnf-α: 3
+    Paragraph 247: 
+      ifn-γ: 1
+      stat3: 1
+    Paragraph 248: 
+      cd4: 1
+      il-2: 1
+      il-12: 1
+      il-6: 1
+      il-21: 1
+    Paragraph 249: 
+      ifn-γ: 1
+      tgfβ: 1
+      tgfβr: 1
+      il-17: 1
+    Paragraph 250: No genes found.
+    Paragraph 251: 
+      cd8: 1
+    Paragraph 252: No genes found.
+    Paragraph 253: No genes found.
+    Paragraph 254: 
+      cd8: 1
+      tcr: 2
+    Paragraph 255: 
+      cd8: 1
+      tcf-1: 1
+      il-2: 1
+    Paragraph 256: No genes found.
+    Paragraph 257: No genes found.
+    Paragraph 258: No genes found.
+    Paragraph 259: 
+      gata3: 1
+    Paragraph 260: 
+      cd8: 1
+      cd4: 1
+    Paragraph 261: 
+      cd4: 1
+      il-2: 1
+      il-2r: 2
+      foxp3: 1
+      tnfr2: 1
+      tnf-α: 1
+    Paragraph 262: 
+      cd4: 1
+      foxp3: 1
+      akt: 1
+    Paragraph 263: 
+      cd4: 1
+      il-6: 1
+    Paragraph 264: No genes found.
+    Paragraph 265: No genes found.
+    Paragraph 266: No genes found.
+    Paragraph 267: No genes found.
+    Paragraph 268: No genes found.
+    Paragraph 269: No genes found.
+    Paragraph 270: No genes found.
+    Paragraph 271: 
+      cd8: 1
+      cd4: 1
+    Paragraph 272: 
+      cd4: 1
+      foxp3: 1
+    Paragraph 273: 
+      cd4: 1
+      ifn-γ: 1
+      il-10: 1
+      tgfβ: 1
+      il-17: 1
+      il-6: 1
+      tnf-α: 2
+    Paragraph 274: 
+      dll1: 1
+      cd8: 1
+      tcr: 2
+    Paragraph 275: 
+      cd8: 1
+      tnf-α: 1
+    Paragraph 276: No genes found.
+    Paragraph 277: No genes found.
+    Paragraph 278: No genes found.
+    Paragraph 279: No genes found.
+    Paragraph 280: 
+      bcr: 1
+    Paragraph 281: No genes found.
+    Paragraph 282: 
+      cd8: 1
+    Paragraph 283: No genes found.
+    Paragraph 284: 
+      cd8: 1
+      cd4: 1
+    Paragraph 285: 
+      cd4: 1
+      il-2: 1
+      bcl6: 1
+      il-21: 1
+    Paragraph 286: 
+      ifn-γ: 1
+    Paragraph 287: 
+      cd4: 2
+    Paragraph 288: 
+      tcr: 1
+    Paragraph 289: 
+      dll1: 1
+      cd8: 1
+    Paragraph 290: 
+      cd4: 1
+      tgfβ: 2
+      il-6: 1
+      cd19: 1
+    Paragraph 291: 
+      cd8: 1
+      cd4: 1
+    Paragraph 292: 
+      il-6: 1
+      tnf-α: 3
+    Paragraph 293: No genes found.
+    Paragraph 294: 
+      cd4: 1
+    Paragraph 295: 
+      cd4: 1
+      bcl6: 1
+    Paragraph 296: 
+      cd8: 1
+      tcr: 1
+    Paragraph 297: 
+      akt: 1
+    Paragraph 298: 
+      tcr: 1
+      cd4: 1
+    Paragraph 299: 
+      cd8: 1
+      tcr: 1
+      tnf-α: 1
+    Paragraph 300: 
+      cd8: 1
+      il-27: 1
+      ifn-γ: 1
+      il-2: 1
+      il-12: 1
+    Paragraph 301: No genes found.
+    Paragraph 302: No genes found.
+    Paragraph 303: No genes found.
+    Paragraph 304: 
+      dll1: 1
+      cd4: 1
+      ifn-γ: 1
+      il-10: 1
+      il-17: 1
+    Paragraph 305: No genes found.
+    Paragraph 306: No genes found.
+    Paragraph 307: No genes found.
+    Paragraph 308: 
+      cd4: 1
+      t-bet: 2
+    Paragraph 309: No genes found.
+    Paragraph 310: 
+      cd8: 1
+      cd4: 1
+    Paragraph 311: No genes found.
+    Paragraph 312: 
+      gata3: 1
+    Paragraph 313: 
+      nfat: 1
+      cd4: 1
+      t-bet: 1
+    Paragraph 314: No genes found.
+    Paragraph 315: 
+      cd4: 1
+    Paragraph 316: No genes found.
+    Paragraph 317: No genes found.
+    Paragraph 318: No genes found.
+    Paragraph 319: No genes found.
+    Paragraph 320: 
+      il-18: 1
+    Paragraph 321: 
+      bcl2: 1
+      cd19: 1
+    Paragraph 322: No genes found.
+    Paragraph 323: No genes found.
+    Paragraph 324: 
+      il-2r: 1
+      tnf-α: 2
+    Paragraph 325: No genes found.
+    Paragraph 326: No genes found.
+    Paragraph 327: 
+      cd8: 1
+    Paragraph 328: 
+      ifn-γ: 1
+      il-17: 1
+    Paragraph 329: No genes found.
+    Paragraph 330: No genes found.
+    Paragraph 331: 
+      tgfβ: 1
+      il-4: 1
+      il-12: 1
+    Paragraph 332: No genes found.
+    Paragraph 333: No genes found.
+    Paragraph 334: 
+      cd8: 1
+      il-2: 1
+      il-21: 1
+    Paragraph 335: No genes found.
+    Paragraph 336: No genes found.
+    Paragraph 337: 
+      cd8: 1
+    Paragraph 338: 
+      dll1: 1
+      tcr: 1
+      ifn-γ: 1
+    Paragraph 339: No genes found.
+    Paragraph 340: 
+      dll1: 1
+      akt: 1
+    Paragraph 341: No genes found.
+    Paragraph 342: 
+      cd4: 1
+      il-10: 1
+      foxp3: 1
+      tgfβ: 1
+      bcr: 1
+    Paragraph 343: No genes found.
+    Paragraph 344: 
+      cd8: 1
+      blimp1: 1
+    Paragraph 345: 
+      cd4: 1
+      foxp3: 1
+    Paragraph 346: No genes found.
+    Paragraph 347: 
+      cd4: 1
+    Paragraph 348: 
+      cd8: 1
+      cd4: 1
+    Paragraph 349: 
+      gzmb: 1
+      il-10: 1
+      il-17: 1
+    Paragraph 350: 
+      cd8: 1
+    Paragraph 351: No genes found.
+    Paragraph 352: No genes found.
+    Paragraph 353: 
+      cd4: 1
+    Paragraph 354: 
+      bcl11b: 1
+      runx3: 1
+      t-bet: 2
+      gata3: 1
+      rorγt: 1
+      cd19: 1
+      ikaros: 1
+    Paragraph 355: No genes found.
+    Paragraph 356: No genes found.
+    Paragraph 357: No genes found.
+    Paragraph 358: 
+      erk1/2: 1
+    Paragraph 359: 
+      cd8: 1
+    Paragraph 360: 
+      blimp1: 2
+    Paragraph 361: 
+      pu.1: 1
+    Paragraph 362: No genes found.
+    Paragraph 363: 
+      cd8: 1
+      cd4: 1
+      eomes: 1
+      il-2: 1
+      il-2r: 1
+      stat5: 1
+    Paragraph 364: No genes found.
+    Paragraph 365: No genes found.
+    Paragraph 366: 
+      il-6: 1
+      tnf-α: 1
+    Paragraph 367: 
+      cd4: 1
+      il-2: 1
+      il-21: 1
+    Paragraph 368: No genes found.
+    Paragraph 369: 
+      cd4: 1
+      t-bet: 2
+      stat1: 1
+      rorγt: 1
+      stat4: 1
+    Paragraph 370: 
+      cd8: 1
+      cd4: 1
+    Paragraph 371: No genes found.
+    Paragraph 372: 
+      tcr: 1
+      cd4: 1
+      il-2: 1
+      il-2r: 1
+      foxp3: 1
+    Paragraph 373: 
+      t-bet: 2
+    Paragraph 374: No genes found.
+    Paragraph 375: No genes found.
+    Paragraph 376: No genes found.
+    Paragraph 377: No genes found.
+    Paragraph 378: 
+      cd8: 1
+      cd4: 1
+      il-2: 1
+      il-2r: 1
+    Paragraph 379: 
+      cd8: 1
+      cd4: 1
+      ifn-γ: 1
+      cd19: 1
+    Paragraph 380: No genes found.
+    Paragraph 381: 
+      bcl2: 1
+      pax5: 1
+      bcl6: 1
+      irf4: 1
+    Paragraph 382: 
+      il-4r: 2
+      il-4: 2
+    Paragraph 383: No genes found.
+    Paragraph 384: 
+      foxp3: 1
+    Paragraph 385: 
+      cd8: 1
+    Paragraph 386: No genes found.
+    Paragraph 387: No genes found.
+    Paragraph 388: No genes found.
+    Paragraph 389: No genes found.
+    Paragraph 390: 
+      cd8: 1
+      akt: 1
+    Paragraph 391: 
+      cd8: 1
+      cd4: 1
+      ifn-γ: 1
+      il-2r: 1
+    Paragraph 392: No genes found.
+    Paragraph 393: No genes found.
+    Paragraph 394: No genes found.
+    Paragraph 395: No genes found.
+    Paragraph 396: 
+      cd4: 1
+      ifn-γ: 1
+      t-bet: 2
+      il-17: 2
+      tnf-α: 2
+    Paragraph 397: 
+      cd8: 1
+      cd4: 1
+      ifn-γ: 1
+      foxp3: 1
+      il-17: 1
+      il-6: 1
+    Paragraph 398: 
+      cd8: 1
+      cd4: 1
+    Paragraph 399: No genes found.
+    Paragraph 400: 
+      cd8: 1
+      tcr: 1
+      helios: 2
+    Paragraph 401: 
+      cd4: 1
+      il-2: 1
+      il-4: 1
+      il-17: 1
+    Paragraph 402: 
+      il-10: 1
+      foxp3: 1
+      tgfβ: 1
+      il-17: 1
+      il-6: 1
+      tnf-α: 2
+    Paragraph 403: 
+      cd8: 1
+      cd4: 1
+      gzmb: 1
+      ifn-γ: 1
+      il-2r: 1
+    Paragraph 404: 
+      cd4: 1
+      il-12: 2
+    Paragraph 405: 
+      cd8: 1
+      cd4: 1
+    Paragraph 406: 
+      cd8: 1
+    Paragraph 407: 
+      cd8: 2
+      cd4: 1
+      il-2r: 1
+    Paragraph 408: 
+      cd8: 1
+      cd4: 1
+    Paragraph 409: No genes found.
+    Paragraph 410: No genes found.
+    Paragraph 411: 
+      il-6: 1
+      tnf-α: 2
+    Paragraph 412: 
+      il-6: 1
+      tnf-α: 3
+    Paragraph 413: 
+      cd8: 1
+      cd4: 1
+      cd19: 1
+    Paragraph 414: No genes found.
+    Paragraph 415: 
+      il-2: 1
+      il-17: 1
+      il-23: 1
+    Paragraph 416: 
+      cd4: 1
+      il-17: 1
+    Paragraph 417: 
+      dll1: 1
+      cd8: 1
+    Paragraph 418: No genes found.
+    Paragraph 419: No genes found.
+    Paragraph 420: No genes found.
+    Paragraph 421: 
+      cd8: 1
+      cd4: 1
+      il-2: 1
+      foxp3: 1
+      il-17: 1
+      rorγt: 1
+      il-23: 1
+      stat3: 1
+      il-23r: 1
+    Paragraph 422: 
+      cd8: 1
+    Paragraph 423: No genes found.
+    Paragraph 424: No genes found.
+    Paragraph 425: No genes found.
+    Paragraph 426: 
+      cd8: 1
+      cd4: 1
+      tnf-α: 2
+    Paragraph 427: No genes found.
+    Paragraph 428: 
+      tnf-α: 1
+    Paragraph 429: 
+      tgfβ: 1
+      tgfβr: 1
+      stat4: 2
+    Paragraph 430: 
+      tcr: 1
+    Paragraph 431: 
+      ifn-γ: 1
+    Paragraph 432: No genes found.
+    Paragraph 433: No genes found.
+    Paragraph 434: No genes found.
+    Paragraph 435: 
+      cd8: 1
+      gzmb: 1
+    Paragraph 436: No genes found.
+    Paragraph 437: No genes found.
+    Paragraph 438: 
+      cd4: 1
+      il-2: 1
+      cd19: 1
+    Paragraph 439: 
+      cd4: 1
+    Paragraph 440: No genes found.
+    Paragraph 441: 
+      bcr: 1
+    Paragraph 442: No genes found.
+    Paragraph 443: 
+      dll1: 1
+      cd8: 1
+      cd4: 1
+      ifn-γ: 1
+      tnf-α: 1
+    Paragraph 444: 
+      il-6r: 1
+      il-6: 1
+      tnf-α: 2
+    Paragraph 445: 
+      notch1: 1
+      bcl2: 1
+    Paragraph 446: 
+      il-17: 1
+    Paragraph 447: 
+      cd4: 1
+      ifn-γ: 1
+      il-2: 1
+      tnf-α: 1
+    Paragraph 448: 
+      cd19: 1
+    Paragraph 449: No genes found.
+    Paragraph 450: 
+      il-17: 1
+      xbp1: 2
+    Paragraph 451: 
+      runx1: 1
+      il-2: 1
+      stat5: 1
+    Paragraph 452: 
+      cd8: 1
+      cd4: 1
+      blimp1: 1
+      xbp1: 1
+      irf4: 2
+    Paragraph 453: No genes found.
+    Paragraph 454: No genes found.
+    Paragraph 455: No genes found.
+    Paragraph 456: 
+      cd4: 1
+      il-4: 1
+    Paragraph 457: No genes found.
+    Paragraph 458: 
+      cd8: 1
+      cd4: 1
+    Paragraph 459: 
+      tcr: 1
+    Paragraph 460: 
+      cd4: 1
+      il-2: 1
+      stat3: 1
+      il-21: 1
+    Paragraph 461: 
+      il-2: 1
+    Paragraph 462: 
+      cd4: 1
+    Paragraph 463: 
+      cd4: 1
+    Paragraph 464: 
+      cd8: 1
+    Paragraph 465: 
+      il-7: 1
+      cd4: 1
+    Paragraph 466: 
+      cd8: 2
+      tcr: 1
+      cd4: 1
+    Paragraph 467: 
+      cd4: 1
+    Paragraph 468: No genes found.
+    Paragraph 469: No genes found.
+    Paragraph 470: No genes found.
+    Paragraph 471: 
+      cd8: 1
+    Paragraph 472: No genes found.
+    Paragraph 473: No genes found.
+    Paragraph 474: 
+      cd19: 1
+    Paragraph 475: 
+      tnf-α: 2
+    Paragraph 476: 
+      cd8: 1
+      il-2: 1
+    Paragraph 477: No genes found.
+    Paragraph 478: No genes found.
+    Paragraph 479: 
+      flt3l: 1
+      flt3: 1
+    Paragraph 480: No genes found.
+    Paragraph 481: 
+      tnf-α: 3
+    Paragraph 482: No genes found.
+    Paragraph 483: 
+      tcr: 1
+      cd4: 1
+    Paragraph 484: No genes found.
+    Paragraph 485: No genes found.
+    Paragraph 486: 
+      cd8: 1
+      cd4: 1
+      il-2: 1
+      il-23: 1
+    Paragraph 487: 
+      tcr: 1
+      il-18r: 1
+      il-18: 1
+    Paragraph 488: 
+      cd4: 1
+    Paragraph 489: No genes found.
+    Paragraph 490: 
+      cd8: 1
+      cd4: 1
+    Paragraph 491: No genes found.
+    Paragraph 492: 
+      cd4: 1
+    Paragraph 493: No genes found.
+    Paragraph 494: No genes found.
+    Paragraph 495: No genes found.
+    Paragraph 496: No genes found.
+    Paragraph 497: No genes found.
+    Paragraph 498: 
+      cd4: 1
+      tgfβ: 1
+    Paragraph 499: 
+      cd8: 1
+      tcr: 1
+      ifn-γ: 1
+      il-2: 1
+      il-2r: 1
+      il-12r: 1
+      il-18r: 1
+      il-12: 1
+      il-18: 1
+    Paragraph 500: No genes found.
+    Paragraph 501: No genes found.
+    Paragraph 502: No genes found.
+    Paragraph 503: 
+      dll1: 1
+    Paragraph 504: No genes found.
+    Paragraph 505: 
+      cd8: 1
+      cd4: 1
+      ifn-γ: 1
+    Paragraph 506: 
+      cd8: 1
+    Paragraph 507: 
+      cd8: 1
+    Paragraph 508: 
+      cd8: 1
+    Paragraph 509: 
+      cd8: 1
+    Paragraph 510: No genes found.
+    Paragraph 511: 
+      cd8: 1
+      cd4: 1
+    Paragraph 512: No genes found.
+    Paragraph 513: 
+      akt: 1
+    Paragraph 514: 
+      cd4: 1
+    Paragraph 515: No genes found.
+    Paragraph 516: 
+      cd4: 1
+    Paragraph 517: No genes found.
+    Paragraph 518: 
+      cd4: 1
+      ifn-γ: 1
+      tnf-α: 2
+    Paragraph 519: 
+      t-bet: 3
+    Paragraph 520: 
+      cd8: 1
+      il-7: 2
+      cd4: 1
+      runx3: 1
+      akt: 1
+      thpok: 2
+    Paragraph 521: 
+      cd8: 1
+      cd4: 1
+    Paragraph 522: 
+      akt: 1
+    Paragraph 523: 
+      cd4: 1
+      akt: 1
+    Paragraph 524: 
+      cd8: 1
+      tcr: 1
+      stat5: 1
+    Paragraph 525: No genes found.
+    Paragraph 526: No genes found.
+    Paragraph 527: 
+      tcr: 1
+      cd4: 1
+      il-2: 2
+      il-2r: 1
+      foxp3: 1
+    Paragraph 528: No genes found.
+    Paragraph 529: No genes found.
+    Paragraph 530: 
+      cd4: 1
+      il-2: 1
+      il-17: 1
+      il-23: 1
+      stat3: 1
+    Paragraph 531: No genes found.
+    Paragraph 532: No genes found.
+    Paragraph 533: 
+      cd8: 1
+      cd4: 1
+      ifn-γ: 1
+      t-bet: 2
+      foxp3: 1
+      tgfβ: 1
+      il-4: 1
+    Paragraph 534: 
+      tcr: 1
+    Paragraph 535: 
+      cd4: 1
+    Paragraph 536: 
+      bcr: 1
+    Paragraph 537: 
+      il-6: 2
+    Paragraph 538: No genes found.
+    Paragraph 539: No genes found.
+    Paragraph 540: 
+      bcr: 1
+    Paragraph 541: No genes found.
+    Paragraph 542: No genes found.
+    Paragraph 543: No genes found.
+    Paragraph 544: 
+      cd8: 1
+    Paragraph 545: No genes found.
+    Paragraph 546: No genes found.
+    Paragraph 547: No genes found.
+    Paragraph 548: 
+      cd4: 1
+    Paragraph 549: 
+      cd4: 1
+    Paragraph 550: No genes found.
+    Paragraph 551: No genes found.
+    Paragraph 552: No genes found.
+    Paragraph 553: 
+      tcr: 1
+      cd4: 1
+      ifn-γ: 1
+      il-2: 1
+    Paragraph 554: 
+      il-7r: 1
+      cd4: 1
+      ifn-γ: 1
+      t-bet: 2
+      il-2r: 1
+      il-10: 1
+      foxp3: 1
+      il-4: 1
+      il-12: 1
+    Paragraph 555: No genes found.
+    Paragraph 556: No genes found.
+    Paragraph 557: No genes found.
+    Paragraph 558: 
+      cd4: 1
+      t-bet: 1
+      il-12: 1
+    Paragraph 559: No genes found.
+    Paragraph 560: 
+      socs1: 1
+    Paragraph 561: No genes found.
+    Paragraph 562: No genes found.
+    Paragraph 563: 
+      cd4: 1
+      il-2r: 1
+      il-10: 1
+      foxp3: 1
+    Paragraph 564: No genes found.
+    Paragraph 565: 
+      pax5: 1
+    Paragraph 566: No genes found.
+    Paragraph 567: 
+      cd8: 1
+      tcr: 2
+      cd4: 1
+      il-10: 1
+      il-17: 1
+    Paragraph 568: 
+      foxp3: 1
+      rorγt: 1
+    Paragraph 569: 
+      il-17: 1
+      irf4: 2
+    Paragraph 570: 
+      foxp3: 1
+      tgfβ: 1
+      tnf-α: 1
+    Paragraph 571: No genes found.
+    Paragraph 572: 
+      cd8: 1
+      cd4: 1
+    Paragraph 573: No genes found.
+    Paragraph 574: No genes found.
+    Paragraph 575: No genes found.
+    Paragraph 576: 
+      cd19: 1
+    Paragraph 577: 
+      cd8: 1
+    Paragraph 578: 
+      cd8: 1
+    Paragraph 579: No genes found.
+    Paragraph 580: 
+      cd8: 1
+      cd4: 1
+    Paragraph 581: 
+      cd4: 1
+      akt: 1
+      erk1/2: 1
+      bcl2: 1
+    Paragraph 582: 
+      cd19: 1
+    Paragraph 583: 
+      ifn-γ: 1
+      tnf-α: 2
+    Paragraph 584: 
+      tcr: 1
+    Paragraph 585: No genes found.
+    Paragraph 586: 
+      il-17: 1
+      rorγt: 1
+    Paragraph 587: 
+      cd8: 1
+      cd4: 1
+      runx3: 1
+      akt: 1
+    Paragraph 588: 
+      cd8: 1
+      cd4: 1
+      t-bet: 2
+      gata3: 1
+    Paragraph 589: 
+      il-4: 1
+    Paragraph 590: 
+      cd8: 1
+      cd4: 1
+    Paragraph 591: No genes found.
+    Paragraph 592: No genes found.
+    Paragraph 593: 
+      cd8: 1
+      cd4: 1
+    Paragraph 594: No genes found.
+    Paragraph 595: No genes found.
+    Paragraph 596: No genes found.
+    Paragraph 597: 
+      cd8: 1
+      tcr: 1
+      akt: 1
+    Paragraph 598: No genes found.
+    Paragraph 599: 
+      cd4: 1
+      il-6: 1
+    Paragraph 600: 
+      cd8: 1
+    Paragraph 601: 
+      akt: 1
+      bcr: 1
+    Paragraph 602: 
+      cd8: 1
+    Paragraph 603: No genes found.
+    Paragraph 604: 
+      ifn-γ: 1
+      akt: 1
+    Paragraph 605: No genes found.
+    Paragraph 606: No genes found.
+    Paragraph 607: 
+      il-10: 1
+    Paragraph 608: 
+      cd4: 1
+    Paragraph 609: No genes found.
+    Paragraph 610: 
+      cd8: 1
+      t-bet: 2
+      tgfβ: 1
+      tgfβr: 1
+    Paragraph 611: 
+      cd19: 1
+    Paragraph 612: No genes found.
+    Paragraph 613: 
+      notch1: 1
+    Paragraph 614: 
+      cd8: 1
+    Paragraph 615: No genes found.
+    Paragraph 616: No genes found.
+    Paragraph 617: No genes found.
+    Paragraph 618: No genes found.
+    Paragraph 619: 
+      cd4: 1
+      ifn-γ: 1
+      t-bet: 2
+    Paragraph 620: 
+      cd8: 1
+    Paragraph 621: 
+      cd4: 1
+      il-2: 1
+      bcl6: 1
+      il-21: 1
+    Paragraph 622: No genes found.
+    Paragraph 623: No genes found.
+    Paragraph 624: No genes found.
+    Paragraph 625: No genes found.
+    Paragraph 626: No genes found.
+    Paragraph 627: 
+      notch1: 1
+      cd4: 1
+    Paragraph 628: No genes found.
+    Paragraph 629: No genes found.
+    Paragraph 630: 
+      cd8: 1
+      cd4: 1
+    Paragraph 631: No genes found.
+    Paragraph 632: 
+      il-17: 1
+    Paragraph 633: No genes found.
+    Paragraph 634: 
+      cd8: 1
+      cd4: 1
+    Paragraph 635: No genes found.
+    Paragraph 636: No genes found.
+    Paragraph 637: 
+      il-7: 1
+      cd4: 1
+      il-2: 1
+    Paragraph 638: No genes found.
+    Paragraph 639: 
+      nfat: 1
+      bcl6: 1
+    Paragraph 640: No genes found.
+    Paragraph 641: 
+      il-27: 1
+      cd4: 1
+      il-2: 1
+      il-10: 1
+      il-17: 1
+      tnf-α: 1
+    Paragraph 642: No genes found.
+    Paragraph 643: No genes found.
+    Paragraph 644: 
+      bcr: 1
+    Paragraph 645: 
+      cd8: 1
+      cd4: 1
+    Paragraph 646: 
+      cd4: 2
+    Paragraph 647: 
+      cd8: 1
+      cd4: 1
+      il-18r: 1
+      il-18: 1
+      cd19: 1
+    Paragraph 648: No genes found.
+    Paragraph 649: 
+      cd8: 2
+    Paragraph 650: 
+      bcr: 1
+    Paragraph 651: No genes found.
+    Paragraph 652: No genes found.
+    Paragraph 653: 
+      tcr: 1
+      tnf-α: 2
+    Paragraph 654: 
+      tcr: 1
+      tnf-α: 1
+      irf4: 2
+    Paragraph 655: 
+      dll1: 1
+      cd8: 1
+      cd4: 2
+    Paragraph 656: 
+      il-2: 1
+      il-2r: 1
+    Paragraph 657: No genes found.
+    Paragraph 658: 
+      cd8: 1
+      cd4: 1
+    Paragraph 659: No genes found.
+    Paragraph 660: 
+      tcr: 1
+      cd4: 1
+    Paragraph 661: No genes found.
+    Paragraph 662: No genes found.
+    Paragraph 663: No genes found.
+    Paragraph 664: 
+      cd8: 1
+      tcf-1: 1
+    Paragraph 665: No genes found.
+    Paragraph 666: 
+      cd4: 1
+    Paragraph 667: No genes found.
+    Paragraph 668: No genes found.
+    Paragraph 669: No genes found.
+    Paragraph 670: No genes found.
+    Paragraph 671: 
+      dll1: 1
+      cd8: 1
+    Paragraph 672: 
+      akt: 1
+    Paragraph 673: 
+      il-7r: 1
+      il-7: 1
+      bcr: 1
+    Paragraph 674: No genes found.
+    Paragraph 675: 
+      cd8: 1
+    Paragraph 676: No genes found.
+    Paragraph 677: No genes found.
+    Paragraph 678: 
+      foxp3: 1
+    Paragraph 679: No genes found.
+    Paragraph 680: 
+      tcr: 1
+      tcf-1: 1
+      cd4: 1
+      akt: 1
+      bcl6: 1
+    Paragraph 681: 
+      il-6: 1
+    Paragraph 682: 
+      cd4: 2
+      tgfβ: 1
+    Paragraph 683: No genes found.
+    Paragraph 684: No genes found.
+    Paragraph 685: No genes found.
+    Paragraph 686: 
+      cd4: 2
+    Paragraph 687: 
+      cd4: 1
+      il-2: 2
+      bcr: 1
+      blimp1: 1
+      il-21: 2
+      il-21r: 1
+      irf4: 1
+    Paragraph 688: 
+      cd4: 1
+      il-2: 2
+      bcr: 1
+      il-21: 2
+    Paragraph 689: 
+      tcr: 1
+      bcr: 1
+    Paragraph 690: 
+      gzmb: 1
+      prf1: 1
+      il-2: 1
+      il-2r: 1
+    Paragraph 691: 
+      cd8: 1
+    Paragraph 692: 
+      tcr: 1
+    Paragraph 693: 
+      cd4: 1
+    Paragraph 694: 
+      cd8: 1
+      cd4: 1
+    Paragraph 695: No genes found.
+    Paragraph 696: 
+      cd8: 1
+      il-6: 2
+    Paragraph 697: No genes found.
+    Paragraph 698: 
+      il-10: 1
+      foxp3: 1
+      il-17: 1
+      il-6: 1
+    Paragraph 699: 
+      cd4: 1
+      il-2: 1
+      tgfβ: 1
+      il-17: 1
+      rorγt: 1
+      il-23: 1
+      il-6: 1
+      stat3: 1
+    Paragraph 700: No genes found.
+    Paragraph 701: 
+      cd8: 1
+      tcr: 1
+      cd4: 1
+    Paragraph 702: No genes found.
+    Paragraph 703: No genes found.
+    Paragraph 704: No genes found.
+    Paragraph 705: No genes found.
+    Paragraph 706: No genes found.
+    Paragraph 707: 
+      cd8: 1
+      cd4: 1
+      tnf-α: 1
+    Paragraph 708: 
+      cd4: 1
+      il-17: 1
+      rorγt: 1
+    Paragraph 709: 
+      blimp1: 1
+      bcl6: 1
+    Paragraph 710: No genes found.
+    Paragraph 711: No genes found.
+    Paragraph 712: 
+      cd8: 1
+      cd4: 1
+    Paragraph 713: 
+      cd8: 1
+      cd4: 1
+      gzmb: 2
+    Paragraph 714: 
+      dll1: 1
+      cd8: 1
+      tcr: 1
+    Paragraph 715: 
+      tcr: 2
+    Paragraph 716: 
+      cd8: 1
+      cd4: 1
+    Paragraph 717: No genes found.
+    Paragraph 718: No genes found.
+    Paragraph 719: No genes found.
+    Paragraph 720: 
+      cd4: 1
+      il-2: 1
+      il-6: 1
+      bach2: 1
+      il-21: 1
+      cd19: 1
+    Paragraph 721: 
+      tnfr2: 1
+      tnf-α: 1
+    Paragraph 722: No genes found.
+    Paragraph 723: No genes found.
+    Paragraph 724: No genes found.
+    Paragraph 725: 
+      cd4: 1
+    Paragraph 726: No genes found.
+    Paragraph 727: No genes found.
+    Paragraph 728: No genes found.
+    Paragraph 729: 
+      stat1: 1
+    Paragraph 730: 
+      il-2: 1
+    Paragraph 731: No genes found.
+    Paragraph 732: 
+      cd4: 1
+    Paragraph 733: No genes found.
+    Paragraph 734: 
+      ifn-γ: 1
+    Paragraph 735: 
+      cd8: 1
+    Paragraph 736: No genes found.
+    Paragraph 737: 
+      cd4: 1
+    Paragraph 738: 
+      smad2: 1
+    Paragraph 739: No genes found.
+    Paragraph 740: No genes found.
+    Paragraph 741: 
+      cd8: 1
+      il-18r: 1
+      il-18: 1
+    Paragraph 742: No genes found.
+    Paragraph 743: 
+      cd8: 1
+      cd4: 1
+    Paragraph 744: No genes found.
+    Paragraph 745: No genes found.
+    Paragraph 746: No genes found.
+    Paragraph 747: No genes found.
+    Paragraph 748: No genes found.
+    Paragraph 749: 
+      il-27: 1
+      cd4: 1
+      il-2: 1
+      il-21: 1
+    Paragraph 750: No genes found.
+    Paragraph 751: No genes found.
+    Paragraph 752: No genes found.
+    Paragraph 753: No genes found.
+    Paragraph 754: 
+      tcr: 1
+      cd4: 1
+      ifn-γ: 1
+      il-2: 1
+      il-10: 1
+    Paragraph 755: No genes found.
+    Paragraph 756: No genes found.
+    Paragraph 757: 
+      cd4: 1
+      foxp3: 1
+      bcl6: 1
+    Paragraph 758: 
+      cd8: 1
+      cd4: 1
+      gzmb: 1
+    Paragraph 759: No genes found.
+    Paragraph 760: 
+      cd8: 1
+      cd4: 1
+    Paragraph 761: 
+      dll1: 1
+      cd8: 2
+    Paragraph 762: 
+      cd8: 1
+    Paragraph 763: 
+      tcr: 1
+    Paragraph 764: No genes found.
+    Paragraph 765: 
+      cd8: 1
+      cd4: 1
+    Paragraph 766: No genes found.
+    Paragraph 767: 
+      cd8: 1
+    Paragraph 768: 
+      cd8: 1
+      cd4: 1
+      il-4: 1
+    Paragraph 769: 
+      nfat: 1
+      foxp3: 1
+      bcl6: 1
+    Paragraph 770: 
+      notch1: 1
+      ifn-γ: 1
+      il-10: 1
+      il-4: 1
+      il-17: 1
+    Paragraph 771: No genes found.
+    Paragraph 772: 
+      cd8: 1
+      gzmb: 1
+    Paragraph 773: 
+      il-4: 1
+    Paragraph 774: 
+      cd8: 1
+      il-7r: 1
+      il-7: 1
+      t-bet: 1
+    Paragraph 775: 
+      notch1: 1
+      cd8: 1
+      cd4: 1
+      bcl2: 1
+      bcl6: 1
+      xbp1: 1
+      irf4: 1
+    Paragraph 776: 
+      tcr: 3
+      foxp3: 1
+    Paragraph 777: No genes found.
+    Paragraph 778: No genes found.
+    Paragraph 779: 
+      cd8: 1
+      cd4: 1
+      foxp3: 1
+      tgfβ: 2
+    Paragraph 780: No genes found.
+    Paragraph 781: 
+      tcr: 2
+    Paragraph 782: 
+      cd4: 1
+    Paragraph 783: 
+      dll1: 1
+    Paragraph 784: No genes found.
+    Paragraph 785: No genes found.
+    Paragraph 786: No genes found.
+    Paragraph 787: 
+      cd8: 1
+      cd4: 1
+    Paragraph 788: 
+      cd4: 2
+      ifn-γ: 1
+      il-2: 1
+      tgfβ: 1
+      il-12: 1
+      il-18: 1
+      tnfr2: 1
+      il-17: 1
+      il-23: 1
+      il-6: 1
+      tnf-α: 3
+      il-23r: 1
+      nf-xb: 1
+    Paragraph 789: No genes found.
+    Paragraph 790: No genes found.
+    Paragraph 791: 
+      tgfβ: 1
+      il-17: 1
+    Paragraph 792: 
+      cd4: 1
+    Paragraph 793: No genes found.
+    Paragraph 794: 
+      cd8: 1
+    Paragraph 795: No genes found.
+    Paragraph 796: 
+      cd8: 1
+    Paragraph 797: 
+      cd4: 1
+      akt: 1
+      il-17: 1
+    Paragraph 798: No genes found.
+    Paragraph 799: 
+      cd8: 1
+      cd4: 1
+      il-10: 1
+      il-4: 1
+      il-17: 1
+      cd19: 1
+    Paragraph 800: No genes found.
+    Paragraph 801: No genes found.
+    Paragraph 802: 
+      nfat: 1
+      tnf-α: 2
+    Paragraph 803: 
+      cd8: 1
+      ifn-γ: 1
+    Paragraph 804: 
+      cd8: 1
+    Paragraph 805: 
+      runx3: 1
+      t-bet: 2
+    Paragraph 806: 
+      cd8: 1
+      tcr: 1
+      cd4: 1
+      il-2r: 1
+    Paragraph 807: 
+      cd4: 1
+      il-2r: 1
+      il-10: 1
+      foxp3: 1
+      tgfβ: 1
+      il-6: 1
+      tnf-α: 2
+    Paragraph 808: No genes found.
+    Paragraph 809: No genes found.
+    Paragraph 810: 
+      cd8: 1
+      tcr: 1
+      nfat: 1
+      ifn-γ: 1
+    Paragraph 811: No genes found.
+    Paragraph 812: 
+      cd8: 1
+    Paragraph 813: 
+      cd8: 1
+      cd4: 1
+    Paragraph 814: No genes found.
+    Paragraph 815: 
+      cd4: 1
+      ifn-γ: 1
+      il-10: 1
+    Paragraph 816: 
+      cd4: 1
+    Paragraph 817: 
+      il-2: 1
+    Paragraph 818: 
+      cd4: 1
+      akt: 1
+    Paragraph 819: 
+      cd19: 1
+    Paragraph 820: No genes found.
+    Paragraph 821: 
+      cd8: 1
+    Paragraph 822: No genes found.
+    Paragraph 823: No genes found.
+    Paragraph 824: 
+      cd8: 1
+      cd4: 1
+      il-2: 1
+    Paragraph 825: 
+      tgfβ: 1
+      il-6: 1
+      cd19: 1
+    Paragraph 826: 
+      cd4: 1
+      eomes: 2
+      gzmb: 1
+      ifn-γ: 1
+      t-bet: 2
+    Paragraph 827: 
+      dll1: 1
+      cd8: 1
+      cd4: 1
+    Paragraph 828: 
+      tcr: 1
+    Paragraph 829: No genes found.
+    Paragraph 830: No genes found.
+    Paragraph 831: No genes found.
+    Paragraph 832: 
+      cd4: 1
+      tgfβ: 1
+      tnf-α: 2
+    Paragraph 833: No genes found.
+    Paragraph 834: No genes found.
+    Paragraph 835: 
+      cd4: 1
+    Paragraph 836: 
+      il-17: 1
+      stat3: 1
+    Paragraph 837: 
+      cd8: 1
+      tcr: 1
+    Paragraph 838: 
+      tcr: 2
+    Paragraph 839: 
+      il-2: 1
+      il-10: 1
+      il-4: 1
+      il-6: 1
+    Paragraph 840: 
+      ifn-γ: 1
+      t-bet: 2
+      il-10: 1
+      foxp3: 1
+      tgfβ: 1
+      il-6: 1
+      tnf-α: 2
+    Paragraph 841: 
+      tcf-1: 1
+    Paragraph 842: No genes found.
+    Paragraph 843: 
+      il-10: 1
+    Paragraph 844: No genes found.
+    Paragraph 845: No genes found.
+    Paragraph 846: 
+      cd4: 1
+      il-2r: 1
+      foxp3: 1
+      tgfβ: 1
+      il-17: 1
+    Paragraph 847: No genes found.
+    Paragraph 848: 
+      tcr: 1
+    Paragraph 849: No genes found.
+    Paragraph 850: 
+      cd4: 1
+    Paragraph 851: 
+      cd8: 1
+    Paragraph 852: 
+      il-7: 1
+      tnf-α: 1
+    Paragraph 853: 
+      dll1: 1
+      cd8: 1
+      il-7r: 1
+      bcl2: 1
+    Paragraph 854: 
+      dll1: 1
+      cd8: 1
+      il-10: 1
+      akt: 1
+      il-17: 1
+    Paragraph 855: 
+      tgfβ: 1
+      flt3l: 1
+      flt3: 1
+    Paragraph 856: 
+      cd8: 1
+    Paragraph 857: 
+      il-7: 1
+      cd4: 1
+      il-2: 1
+    Paragraph 858: 
+      cd4: 1
+    Paragraph 859: 
+      il-2: 1
+      tgfβ: 1
+      tnf-α: 2
+    Paragraph 860: 
+      bcr: 1
+    Paragraph 861: No genes found.
+    Paragraph 862: No genes found.
+    Paragraph 863: 
+      cd4: 1
+      il-4r: 1
+      il-4: 1
+      bcr: 1
+    Paragraph 864: 
+      cd4: 1
+    Paragraph 865: 
+      cd19: 1
+    Paragraph 866: No genes found.
+    Paragraph 867: No genes found.
+    Paragraph 868: No genes found.
+    Paragraph 869: 
+      cd8: 1
+      cd4: 1
+    Paragraph 870: No genes found.
+    Paragraph 871: No genes found.
+ SearchGenes function ran on 2023-05-15T21:37:51.040
+
+  File 1:
+    Paragraph 1: No genes found.
+    Paragraph 2: No genes found.
+    Paragraph 3: 
+      cd8: 1
+    Paragraph 4: No genes found.
+    Paragraph 5: No genes found.
+    Paragraph 6: No genes found.
+    Paragraph 7: No genes found.
+    Paragraph 8: 
+      cd8: 1
+    Paragraph 9: No genes found.
+    Paragraph 10: 
+      akt: 1
+    Paragraph 11: 
+      tcr: 1
+      cd4: 1
+    Paragraph 12: 
+      cd4: 1
+      ifn-γ: 1
+      il-2: 1
+      il-4r: 1
+      il-4: 1
+      socs1: 1
+      il-12: 1
+      tnf-α: 1
+      stat3: 1
+    Paragraph 13: 
+      cd4: 1
+    Paragraph 14: 
+      il-7: 1
+      cd4: 1
+      ifn-γ: 1
+      il-2: 1
+      il-23: 1
+      il-6: 1
+    Paragraph 15: 
+      il-17: 1
+      il-6: 1
+    Paragraph 16: 
+      dll1: 1
+      cd8: 1
+      il-10: 2
+      tgfβ: 1
+    Paragraph 17: 
+      bcr: 1
+    Paragraph 18: 
+      cd8: 1
+      cd4: 1
+    Paragraph 19: No genes found.
+    Paragraph 20: 
+      cd8: 1
+      cd4: 1
+      blimp1: 1
+      bcl6: 1
+    Paragraph 21: 
+      bcr: 1
+    Paragraph 22: No genes found.
+    Paragraph 23: 
+      cd4: 1
+    Paragraph 24: No genes found.
+    Paragraph 25: 
+      ifn-γ: 1
+      il-2: 1
+      il-2r: 1
+      il-10: 1
+      il-4: 1
+      il-12: 1
+      il-17: 1
+    Paragraph 26: No genes found.
+    Paragraph 27: 
+      cd8: 1
+      il-7r: 1
+      cd4: 1
+      il-2r: 1
+    Paragraph 28: 
+      dll1: 1
+    Paragraph 29: No genes found.
+    Paragraph 30: No genes found.
+    Paragraph 31: No genes found.
+    Paragraph 32: 
+      il-17: 1
+    Paragraph 33: No genes found.
+    Paragraph 34: 
+      dll1: 1
+      cd8: 1
+      gzmb: 1
+    Paragraph 35: No genes found.
+    Paragraph 36: No genes found.
+    Paragraph 37: 
+      cd8: 1
+      tcr: 1
+      gzmb: 1
+      il-2: 2
+      il-2r: 1
+    Paragraph 38: No genes found.
+    Paragraph 39: 
+      tcr: 2
+      runx1: 1
+    Paragraph 40: No genes found.
+    Paragraph 41: No genes found.
+    Paragraph 42: No genes found.
+    Paragraph 43: 
+      cd8: 1
+      jak1: 1
+      il-2: 1
+      socs1: 1
+      il-12: 1
+      il-23: 1
+      tnf-α: 1
+    Paragraph 44: 
+      cd8: 1
+      cd4: 1
+    Paragraph 45: 
+      ifn-γ: 1
+    Paragraph 46: 
+      il-10: 1
+      tgfβ: 1
+    Paragraph 47: No genes found.
+    Paragraph 48: No genes found.
+    Paragraph 49: 
+      cd8: 1
+    Paragraph 50: 
+      cd8: 1
+      cd4: 1
+    Paragraph 51: No genes found.
+    Paragraph 52: No genes found.
+    Paragraph 53: No genes found.
+    Paragraph 54: No genes found.
+    Paragraph 55: 
+      cd8: 1
+      cd4: 1
+      ifn-γ: 1
+      tnf-α: 2
+    Paragraph 56: No genes found.
+    Paragraph 57: No genes found.
+    Paragraph 58: 
+      cd8: 1
+      cd4: 1
+      il-4: 1
+    Paragraph 59: No genes found.
+    Paragraph 60: 
+      dll1: 1
+      cd8: 1
+      cd4: 1
+      il-2r: 1
+      foxp3: 1
+    Paragraph 61: 
+      ifn-γ: 1
+    Paragraph 62: 
+      cd8: 1
+      cd4: 1
+    Paragraph 63: No genes found.
+    Paragraph 64: 
+      cd4: 1
+    Paragraph 65: 
+      tcr: 2
+    Paragraph 66: No genes found.
+    Paragraph 67: 
+      ifn-γ: 2
+      tnf-α: 3
+      nf-xb: 1
+    Paragraph 68: No genes found.
+    Paragraph 69: No genes found.
+    Paragraph 70: 
+      cd8: 1
+      cd4: 1
+    Paragraph 71: 
+      ifn-γ: 1
+      t-bet: 2
+      stat1: 1
+      il-2: 1
+      stat3: 1
+      il-21: 1
+    Paragraph 72: 
+      cd4: 1
+      il-2: 1
+      il-23: 1
+    Paragraph 73: 
+      tcr: 2
+    Paragraph 74: No genes found.
+    Paragraph 75: No genes found.
+    Paragraph 76: No genes found.
+    Paragraph 77: 
+      runx3: 1
+    Paragraph 78: No genes found.
+    Paragraph 79: 
+      cd4: 1
+      stat3: 1
+    Paragraph 80: No genes found.
+    Paragraph 81: No genes found.
+    Paragraph 82: No genes found.
+    Paragraph 83: No genes found.
+    Paragraph 84: No genes found.
+    Paragraph 85: No genes found.
+    Paragraph 86: No genes found.
+    Paragraph 87: No genes found.
+    Paragraph 88: 
+      cd8: 1
+    Paragraph 89: No genes found.
+    Paragraph 90: 
+      cd8: 1
+      tcf-1: 1
+      cd4: 1
+    Paragraph 91: No genes found.
+    Paragraph 92: No genes found.
+    Paragraph 93: 
+      dll1: 1
+      cd8: 1
+      il-10: 1
+      foxp3: 1
+      tgfβ: 1
+    Paragraph 94: No genes found.
+    Paragraph 95: 
+      il-2: 1
+      il-4: 1
+    Paragraph 96: 
+      cd4: 1
+    Paragraph 97: No genes found.
+    Paragraph 98: 
+      cd8: 1
+      cd4: 1
+      il-2r: 1
+    Paragraph 99: 
+      foxp3: 1
+      tgfβ: 1
+      smad2: 1
+    Paragraph 100: 
+      tcr: 1
+      bcr: 1
+    Paragraph 101: 
+      bcl11b: 1
+      cd8: 1
+      tcf-1: 1
+      blimp1: 2
+    Paragraph 102: 
+      dll1: 1
+    Paragraph 103: No genes found.
+    Paragraph 104: No genes found.
+    Paragraph 105: 
+      cd8: 1
+    Paragraph 106: No genes found.
+    Paragraph 107: 
+      il-2: 1
+      il-10: 1
+      akt: 1
+      il-17: 1
+      irf4: 1
+    Paragraph 108: 
+      cd19: 1
+    Paragraph 109: No genes found.
+    Paragraph 110: 
+      cd8: 1
+      il-7: 1
+      cd4: 1
+      ifn-γ: 1
+      il-6: 1
+    Paragraph 111: No genes found.
+    Paragraph 112: 
+      dll1: 1
+      cd8: 1
+    Paragraph 113: 
+      cd8: 1
+      cd4: 1
+      il-2: 1
+      il-17: 1
+      tnf-α: 2
+    Paragraph 114: No genes found.
+    Paragraph 115: 
+      cd8: 1
+      cd4: 1
+    Paragraph 116: 
+      il-4: 1
+    Paragraph 117: No genes found.
+    Paragraph 118: No genes found.
+    Paragraph 119: 
+      tnf-α: 3
+    Paragraph 120: 
+      cd8: 1
+      cd4: 1
+      ifn-γ: 1
+    Paragraph 121: 
+      il-2: 1
+    Paragraph 122: 
+      cd8: 1
+      tcr: 1
+    Paragraph 123: No genes found.
+    Paragraph 124: No genes found.
+    Paragraph 125: No genes found.
+    Paragraph 126: 
+      dll1: 1
+      cd8: 2
+    Paragraph 127: No genes found.
+    Paragraph 128: 
+      cd8: 1
+      cd4: 1
+      tnf-α: 1
+    Paragraph 129: No genes found.
+    Paragraph 130: No genes found.
+    Paragraph 131: 
+      il-17: 1
+      tnf-α: 1
+    Paragraph 132: 
+      cd4: 1
+    Paragraph 133: 
+      cd4: 1
+    Paragraph 134: 
+      tnf-α: 2
+    Paragraph 135: No genes found.
+    Paragraph 136: No genes found.
+    Paragraph 137: No genes found.
+    Paragraph 138: No genes found.
+    Paragraph 139: No genes found.
+    Paragraph 140: 
+      irf4: 1
+    Paragraph 141: 
+      cd8: 1
+      gzmb: 1
+    Paragraph 142: No genes found.
+    Paragraph 143: 
+      cd8: 1
+      cd4: 1
+    Paragraph 144: 
+      cd8: 1
+      cd4: 1
+    Paragraph 145: 
+      il-6: 1
+    Paragraph 146: No genes found.
+    Paragraph 147: No genes found.
+    Paragraph 148: No genes found.
+    Paragraph 149: No genes found.
+    Paragraph 150: 
+      notch1: 1
+      cd4: 1
+      socs1: 1
+      tnf-α: 1
+      bcl6: 1
+    Paragraph 151: 
+      cd8: 1
+      cd4: 1
+    Paragraph 152: 
+      cd4: 1
+      gata3: 1
+      il-4: 1
+      stat6: 1
+    Paragraph 153: 
+      cd8: 1
+      cd4: 1
+      ifn-γ: 1
+      il-17: 1
+    Paragraph 154: 
+      cd8: 1
+      akt: 1
+      tnf-α: 1
+      stat3: 1
+    Paragraph 155: 
+      cd8: 1
+      cd4: 1
+    Paragraph 156: 
+      cd8: 1
+      cd4: 1
+    Paragraph 157: 
+      cd4: 1
+    Paragraph 158: No genes found.
+    Paragraph 159: 
+      cd8: 1
+      bcl2: 2
+    Paragraph 160: 
+      cd4: 1
+      gata3: 1
+      il-4: 1
+      il-17: 1
+    Paragraph 161: 
+      cd4: 1
+    Paragraph 162: No genes found.
+    Paragraph 163: 
+      cd8: 1
+      cd4: 1
+    Paragraph 164: 
+      il-2: 1
+      il-2r: 1
+    Paragraph 165: 
+      cd8: 1
+      cd4: 1
+    Paragraph 166: 
+      ifn-γ: 1
+    Paragraph 167: 
+      dll1: 1
+      bcl2: 1
+    Paragraph 168: 
+      ifn-γ: 1
+    Paragraph 169: No genes found.
+    Paragraph 170: 
+      jak1: 2
+      il-2: 1
+      il-17: 1
+      il-23: 1
+      il-6r: 1
+      il-6: 1
+    Paragraph 171: No genes found.
+    Paragraph 172: 
+      cd8: 1
+      cd4: 1
+    Paragraph 173: 
+      il-4: 1
+      cd19: 1
+    Paragraph 174: 
+      cd4: 1
+    Paragraph 175: 
+      cd8: 1
+    Paragraph 176: 
+      il-27: 1
+      gzmb: 1
+      IFN-β: 1
+      il-2: 1
+    Paragraph 177: 
+      cd8: 1
+      tcr: 1
+      cd4: 1
+    Paragraph 178: No genes found.
+    Paragraph 179: No genes found.
+    Paragraph 180: 
+      il-17: 1
+      stat3: 1
+    Paragraph 181: 
+      cd4: 1
+      foxp3: 1
+    Paragraph 182: 
+      cd8: 2
+    Paragraph 183: 
+      tnf-α: 2
+    Paragraph 184: 
+      cd8: 1
+      cd4: 1
+    Paragraph 185: 
+      cd8: 1
+      cd4: 1
+    Paragraph 186: 
+      dll1: 1
+      notch1: 1
+      ifn-γ: 1
+      t-bet: 2
+    Paragraph 187: 
+      cd4: 1
+    Paragraph 188: 
+      cd8: 1
+      cd4: 1
+    Paragraph 189: No genes found.
+    Paragraph 190: 
+      cd8: 1
+      cd4: 1
+    Paragraph 191: 
+      cd8: 1
+      tcf-1: 1
+    Paragraph 192: No genes found.
+    Paragraph 193: 
+      cd8: 1
+      cd4: 1
+    Paragraph 194: 
+      cd8: 1
+      foxp3: 1
+      stat3: 1
+    Paragraph 195: No genes found.
+    Paragraph 196: No genes found.
+    Paragraph 197: 
+      cd8: 1
+      cd4: 1
+    Paragraph 198: 
+      cd8: 1
+      cd4: 1
+      gzmb: 1
+      ifn-γ: 1
+    Paragraph 199: 
+      tcr: 2
+    Paragraph 200: 
+      cd4: 1
+      rorγt: 1
+    Paragraph 201: No genes found.
+    Paragraph 202: 
+      cd4: 1
+    Paragraph 203: 
+      akt: 1
+      il-6: 1
+    Paragraph 204: 
+      cd8: 1
+    Paragraph 205: 
+      dll1: 1
+      cd8: 1
+      tcr: 1
+    Paragraph 206: 
+      cd8: 1
+      cd4: 2
+    Paragraph 207: 
+      foxp3: 1
+      rorγt: 1
+      il-6: 1
+      stat3: 1
+    Paragraph 208: 
+      notch1: 1
+    Paragraph 209: No genes found.
+    Paragraph 210: 
+      il-17: 1
+      tnf-α: 1
+    Paragraph 211: 
+      tcr: 1
+    Paragraph 212: No genes found.
+    Paragraph 213: No genes found.
+    Paragraph 214: No genes found.
+    Paragraph 215: 
+      akt: 1
+      blimp1: 2
+      bcl6: 1
+    Paragraph 216: 
+      il-2: 1
+      il-10: 1
+      foxp3: 1
+      tgfβ: 1
+      il-4: 1
+      il-12r: 1
+      il-12: 1
+      tnf-α: 1
+      stat3: 1
+    Paragraph 217: 
+      cd8: 1
+      cd4: 1
+      il-6: 1
+      tnf-α: 1
+      stat3: 1
+    Paragraph 218: No genes found.
+    Paragraph 219: 
+      cd8: 1
+      il-2: 1
+    Paragraph 220: 
+      tnf-α: 1
+      b9: 1
+      cd19: 1
+    Paragraph 221: No genes found.
+    Paragraph 222: No genes found.
+    Paragraph 223: 
+      cd8: 2
+      cd4: 2
+      ifn-γ: 1
+      il-2: 1
+      il-10: 1
+      il-4: 1
+      il-12: 1
+      il-18: 1
+      tnf-α: 1
+    Paragraph 224: 
+      cd8: 1
+    Paragraph 225: 
+      il-6: 1
+      tnf-α: 1
+    Paragraph 226: 
+      cd8: 1
+    Paragraph 227: 
+      cd8: 1
+      cd4: 1
+      ifn-γ: 1
+      t-bet: 2
+      gata3: 1
+    Paragraph 228: No genes found.
+    Paragraph 229: 
+      cd8: 1
+      tcr: 2
+      nfat: 2
+    Paragraph 230: No genes found.
+    Paragraph 231: 
+      cd8: 1
+      gzmb: 1
+    Paragraph 232: No genes found.
+    Paragraph 233: 
+      ifn-γ: 1
+    Paragraph 234: No genes found.
+    Paragraph 235: 
+      cd4: 1
+      rorγt: 1
+    Paragraph 236: 
+      dll1: 1
+      cd8: 1
+      gzmb: 1
+      foxp3: 1
+    Paragraph 237: 
+      dll1: 1
+      tgfβ: 1
+      smad2: 1
+    Paragraph 238: No genes found.
+    Paragraph 239: 
+      cd4: 1
+    Paragraph 240: No genes found.
+    Paragraph 241: No genes found.
+    Paragraph 242: No genes found.
+    Paragraph 243: 
+      tnf-α: 1
+    Paragraph 244: No genes found.
+    Paragraph 245: No genes found.
+    Paragraph 246: 
+      il-10: 1
+      tgfβ: 1
+      il-6: 1
+      tnf-α: 3
+    Paragraph 247: 
+      ifn-γ: 1
+      stat3: 1
+    Paragraph 248: 
+      cd4: 1
+      il-2: 1
+      il-12: 1
+      il-6: 1
+      il-21: 1
+    Paragraph 249: 
+      ifn-γ: 1
+      tgfβ: 1
+      tgfβr: 1
+      il-17: 1
+    Paragraph 250: No genes found.
+    Paragraph 251: 
+      cd8: 1
+    Paragraph 252: No genes found.
+    Paragraph 253: No genes found.
+    Paragraph 254: 
+      cd8: 1
+      tcr: 2
+    Paragraph 255: 
+      cd8: 1
+      tcf-1: 1
+      il-2: 1
+    Paragraph 256: No genes found.
+    Paragraph 257: No genes found.
+    Paragraph 258: No genes found.
+    Paragraph 259: 
+      gata3: 1
+    Paragraph 260: 
+      cd8: 1
+      cd4: 1
+    Paragraph 261: 
+      cd4: 1
+      il-2: 1
+      il-2r: 2
+      foxp3: 1
+      tnfr2: 1
+      tnf-α: 1
+    Paragraph 262: 
+      cd4: 1
+      foxp3: 1
+      akt: 1
+    Paragraph 263: 
+      cd4: 1
+      il-6: 1
+    Paragraph 264: No genes found.
+    Paragraph 265: No genes found.
+    Paragraph 266: No genes found.
+    Paragraph 267: No genes found.
+    Paragraph 268: No genes found.
+    Paragraph 269: No genes found.
+    Paragraph 270: No genes found.
+    Paragraph 271: 
+      cd8: 1
+      cd4: 1
+    Paragraph 272: 
+      cd4: 1
+      foxp3: 1
+    Paragraph 273: 
+      cd4: 1
+      ifn-γ: 1
+      il-10: 1
+      tgfβ: 1
+      il-17: 1
+      il-6: 1
+      tnf-α: 2
+    Paragraph 274: 
+      dll1: 1
+      cd8: 1
+      tcr: 2
+    Paragraph 275: 
+      cd8: 1
+      tnf-α: 1
+    Paragraph 276: No genes found.
+    Paragraph 277: No genes found.
+    Paragraph 278: No genes found.
+    Paragraph 279: No genes found.
+    Paragraph 280: 
+      bcr: 1
+    Paragraph 281: No genes found.
+    Paragraph 282: 
+      cd8: 1
+    Paragraph 283: No genes found.
+    Paragraph 284: 
+      cd8: 1
+      cd4: 1
+    Paragraph 285: 
+      cd4: 1
+      il-2: 1
+      bcl6: 1
+      il-21: 1
+    Paragraph 286: 
+      ifn-γ: 1
+    Paragraph 287: 
+      cd4: 2
+    Paragraph 288: 
+      tcr: 1
+    Paragraph 289: 
+      dll1: 1
+      cd8: 1
+    Paragraph 290: 
+      cd4: 1
+      tgfβ: 2
+      il-6: 1
+      cd19: 1
+    Paragraph 291: 
+      cd8: 1
+      cd4: 1
+    Paragraph 292: 
+      il-6: 1
+      tnf-α: 3
+    Paragraph 293: No genes found.
+    Paragraph 294: 
+      cd4: 1
+    Paragraph 295: 
+      cd4: 1
+      bcl6: 1
+    Paragraph 296: 
+      cd8: 1
+      tcr: 1
+    Paragraph 297: 
+      akt: 1
+    Paragraph 298: 
+      tcr: 1
+      cd4: 1
+    Paragraph 299: 
+      cd8: 1
+      tcr: 1
+      tnf-α: 1
+    Paragraph 300: 
+      cd8: 1
+      il-27: 1
+      ifn-γ: 1
+      il-2: 1
+      il-12: 1
+    Paragraph 301: No genes found.
+    Paragraph 302: No genes found.
+    Paragraph 303: No genes found.
+    Paragraph 304: 
+      dll1: 1
+      cd4: 1
+      ifn-γ: 1
+      il-10: 1
+      il-17: 1
+    Paragraph 305: No genes found.
+    Paragraph 306: No genes found.
+    Paragraph 307: No genes found.
+    Paragraph 308: 
+      cd4: 1
+      t-bet: 2
+    Paragraph 309: No genes found.
+    Paragraph 310: 
+      cd8: 1
+      cd4: 1
+    Paragraph 311: No genes found.
+    Paragraph 312: 
+      gata3: 1
+    Paragraph 313: 
+      nfat: 1
+      cd4: 1
+      t-bet: 1
+    Paragraph 314: No genes found.
+    Paragraph 315: 
+      cd4: 1
+    Paragraph 316: No genes found.
+    Paragraph 317: No genes found.
+    Paragraph 318: No genes found.
+    Paragraph 319: No genes found.
+    Paragraph 320: 
+      il-18: 1
+    Paragraph 321: 
+      bcl2: 1
+      cd19: 1
+    Paragraph 322: No genes found.
+    Paragraph 323: No genes found.
+    Paragraph 324: 
+      il-2r: 1
+      tnf-α: 2
+    Paragraph 325: No genes found.
+    Paragraph 326: No genes found.
+    Paragraph 327: 
+      cd8: 1
+    Paragraph 328: 
+      ifn-γ: 1
+      il-17: 1
+    Paragraph 329: No genes found.
+    Paragraph 330: No genes found.
+    Paragraph 331: 
+      tgfβ: 1
+      il-4: 1
+      il-12: 1
+    Paragraph 332: No genes found.
+    Paragraph 333: No genes found.
+    Paragraph 334: 
+      cd8: 1
+      il-2: 1
+      il-21: 1
+    Paragraph 335: No genes found.
+    Paragraph 336: No genes found.
+    Paragraph 337: 
+      cd8: 1
+    Paragraph 338: 
+      dll1: 1
+      tcr: 1
+      ifn-γ: 1
+    Paragraph 339: No genes found.
+    Paragraph 340: 
+      dll1: 1
+      akt: 1
+    Paragraph 341: No genes found.
+    Paragraph 342: 
+      cd4: 1
+      il-10: 1
+      foxp3: 1
+      tgfβ: 1
+      bcr: 1
+    Paragraph 343: No genes found.
+    Paragraph 344: 
+      cd8: 1
+      blimp1: 1
+    Paragraph 345: 
+      cd4: 1
+      foxp3: 1
+    Paragraph 346: No genes found.
+    Paragraph 347: 
+      cd4: 1
+    Paragraph 348: 
+      cd8: 1
+      cd4: 1
+    Paragraph 349: 
+      gzmb: 1
+      il-10: 1
+      il-17: 1
+    Paragraph 350: 
+      cd8: 1
+    Paragraph 351: No genes found.
+    Paragraph 352: No genes found.
+    Paragraph 353: 
+      cd4: 1
+    Paragraph 354: 
+      bcl11b: 1
+      runx3: 1
+      t-bet: 2
+      gata3: 1
+      rorγt: 1
+      cd19: 1
+      ikaros: 1
+    Paragraph 355: No genes found.
+    Paragraph 356: No genes found.
+    Paragraph 357: No genes found.
+    Paragraph 358: 
+      erk1/2: 1
+    Paragraph 359: 
+      cd8: 1
+    Paragraph 360: 
+      blimp1: 2
+    Paragraph 361: 
+      pu.1: 1
+    Paragraph 362: No genes found.
+    Paragraph 363: 
+      cd8: 1
+      cd4: 1
+      eomes: 1
+      il-2: 1
+      il-2r: 1
+      stat5: 1
+    Paragraph 364: No genes found.
+    Paragraph 365: No genes found.
+    Paragraph 366: 
+      il-6: 1
+      tnf-α: 1
+    Paragraph 367: 
+      cd4: 1
+      il-2: 1
+      il-21: 1
+    Paragraph 368: No genes found.
+    Paragraph 369: 
+      cd4: 1
+      t-bet: 2
+      stat1: 1
+      rorγt: 1
+      stat4: 1
+    Paragraph 370: 
+      cd8: 1
+      cd4: 1
+    Paragraph 371: No genes found.
+    Paragraph 372: 
+      tcr: 1
+      cd4: 1
+      il-2: 1
+      il-2r: 1
+      foxp3: 1
+    Paragraph 373: 
+      t-bet: 2
+    Paragraph 374: No genes found.
+    Paragraph 375: No genes found.
+    Paragraph 376: No genes found.
+    Paragraph 377: No genes found.
+    Paragraph 378: 
+      cd8: 1
+      cd4: 1
+      il-2: 1
+      il-2r: 1
+    Paragraph 379: 
+      cd8: 1
+      cd4: 1
+      ifn-γ: 1
+      cd19: 1
+    Paragraph 380: No genes found.
+    Paragraph 381: 
+      bcl2: 1
+      pax5: 1
+      bcl6: 1
+      irf4: 1
+    Paragraph 382: 
+      il-4r: 2
+      il-4: 2
+    Paragraph 383: No genes found.
+    Paragraph 384: 
+      foxp3: 1
+    Paragraph 385: 
+      cd8: 1
+    Paragraph 386: No genes found.
+    Paragraph 387: No genes found.
+    Paragraph 388: No genes found.
+    Paragraph 389: No genes found.
+    Paragraph 390: 
+      cd8: 1
+      akt: 1
+    Paragraph 391: 
+      cd8: 1
+      cd4: 1
+      ifn-γ: 1
+      il-2r: 1
+    Paragraph 392: No genes found.
+    Paragraph 393: No genes found.
+    Paragraph 394: No genes found.
+    Paragraph 395: No genes found.
+    Paragraph 396: 
+      cd4: 1
+      ifn-γ: 1
+      t-bet: 2
+      il-17: 2
+      tnf-α: 2
+    Paragraph 397: 
+      cd8: 1
+      cd4: 1
+      ifn-γ: 1
+      foxp3: 1
+      il-17: 1
+      il-6: 1
+    Paragraph 398: 
+      cd8: 1
+      cd4: 1
+    Paragraph 399: No genes found.
+    Paragraph 400: 
+      cd8: 1
+      tcr: 1
+      helios: 2
+    Paragraph 401: 
+      cd4: 1
+      il-2: 1
+      il-4: 1
+      il-17: 1
+    Paragraph 402: 
+      il-10: 1
+      foxp3: 1
+      tgfβ: 1
+      il-17: 1
+      il-6: 1
+      tnf-α: 2
+    Paragraph 403: 
+      cd8: 1
+      cd4: 1
+      gzmb: 1
+      ifn-γ: 1
+      il-2r: 1
+    Paragraph 404: 
+      cd4: 1
+      il-12: 2
+    Paragraph 405: 
+      cd8: 1
+      cd4: 1
+    Paragraph 406: 
+      cd8: 1
+    Paragraph 407: 
+      cd8: 2
+      cd4: 1
+      il-2r: 1
+    Paragraph 408: 
+      cd8: 1
+      cd4: 1
+    Paragraph 409: No genes found.
+    Paragraph 410: No genes found.
+    Paragraph 411: 
+      il-6: 1
+      tnf-α: 2
+    Paragraph 412: 
+      il-6: 1
+      tnf-α: 3
+    Paragraph 413: 
+      cd8: 1
+      cd4: 1
+      cd19: 1
+    Paragraph 414: No genes found.
+    Paragraph 415: 
+      il-2: 1
+      il-17: 1
+      il-23: 1
+    Paragraph 416: 
+      cd4: 1
+      il-17: 1
+    Paragraph 417: 
+      dll1: 1
+      cd8: 1
+    Paragraph 418: No genes found.
+    Paragraph 419: No genes found.
+    Paragraph 420: No genes found.
+    Paragraph 421: 
+      cd8: 1
+      cd4: 1
+      il-2: 1
+      foxp3: 1
+      il-17: 1
+      rorγt: 1
+      il-23: 1
+      stat3: 1
+      il-23r: 1
+    Paragraph 422: 
+      cd8: 1
+    Paragraph 423: No genes found.
+    Paragraph 424: No genes found.
+    Paragraph 425: No genes found.
+    Paragraph 426: 
+      cd8: 1
+      cd4: 1
+      tnf-α: 2
+    Paragraph 427: No genes found.
+    Paragraph 428: 
+      tnf-α: 1
+    Paragraph 429: 
+      tgfβ: 1
+      tgfβr: 1
+      stat4: 2
+    Paragraph 430: 
+      tcr: 1
+    Paragraph 431: 
+      ifn-γ: 1
+    Paragraph 432: No genes found.
+    Paragraph 433: No genes found.
+    Paragraph 434: No genes found.
+    Paragraph 435: 
+      cd8: 1
+      gzmb: 1
+    Paragraph 436: No genes found.
+    Paragraph 437: No genes found.
+    Paragraph 438: 
+      cd4: 1
+      il-2: 1
+      cd19: 1
+    Paragraph 439: 
+      cd4: 1
+    Paragraph 440: No genes found.
+    Paragraph 441: 
+      bcr: 1
+    Paragraph 442: No genes found.
+    Paragraph 443: 
+      dll1: 1
+      cd8: 1
+      cd4: 1
+      ifn-γ: 1
+      tnf-α: 1
+    Paragraph 444: 
+      il-6r: 1
+      il-6: 1
+      tnf-α: 2
+    Paragraph 445: 
+      notch1: 1
+      bcl2: 1
+    Paragraph 446: 
+      il-17: 1
+    Paragraph 447: 
+      cd4: 1
+      ifn-γ: 1
+      il-2: 1
+      tnf-α: 1
+    Paragraph 448: 
+      cd19: 1
+    Paragraph 449: No genes found.
+    Paragraph 450: 
+      il-17: 1
+      xbp1: 2
+    Paragraph 451: 
+      runx1: 1
+      il-2: 1
+      stat5: 1
+    Paragraph 452: 
+      cd8: 1
+      cd4: 1
+      blimp1: 1
+      xbp1: 1
+      irf4: 2
+    Paragraph 453: No genes found.
+    Paragraph 454: No genes found.
+    Paragraph 455: No genes found.
+    Paragraph 456: 
+      cd4: 1
+      il-4: 1
+    Paragraph 457: No genes found.
+    Paragraph 458: 
+      cd8: 1
+      cd4: 1
+    Paragraph 459: 
+      tcr: 1
+    Paragraph 460: 
+      cd4: 1
+      il-2: 1
+      stat3: 1
+      il-21: 1
+    Paragraph 461: 
+      il-2: 1
+    Paragraph 462: 
+      cd4: 1
+    Paragraph 463: 
+      cd4: 1
+    Paragraph 464: 
+      cd8: 1
+    Paragraph 465: 
+      il-7: 1
+      cd4: 1
+    Paragraph 466: 
+      cd8: 2
+      tcr: 1
+      cd4: 1
+    Paragraph 467: 
+      cd4: 1
+    Paragraph 468: No genes found.
+    Paragraph 469: No genes found.
+    Paragraph 470: No genes found.
+    Paragraph 471: 
+      cd8: 1
+    Paragraph 472: No genes found.
+    Paragraph 473: No genes found.
+    Paragraph 474: 
+      cd19: 1
+    Paragraph 475: 
+      tnf-α: 2
+    Paragraph 476: 
+      cd8: 1
+      il-2: 1
+    Paragraph 477: No genes found.
+    Paragraph 478: No genes found.
+    Paragraph 479: 
+      flt3l: 1
+      flt3: 1
+    Paragraph 480: No genes found.
+    Paragraph 481: 
+      tnf-α: 3
+    Paragraph 482: No genes found.
+    Paragraph 483: 
+      tcr: 1
+      cd4: 1
+    Paragraph 484: No genes found.
+    Paragraph 485: No genes found.
+    Paragraph 486: 
+      cd8: 1
+      cd4: 1
+      il-2: 1
+      il-23: 1
+    Paragraph 487: 
+      tcr: 1
+      il-18r: 1
+      il-18: 1
+    Paragraph 488: 
+      cd4: 1
+    Paragraph 489: No genes found.
+    Paragraph 490: 
+      cd8: 1
+      cd4: 1
+    Paragraph 491: No genes found.
+    Paragraph 492: 
+      cd4: 1
+    Paragraph 493: No genes found.
+    Paragraph 494: No genes found.
+    Paragraph 495: No genes found.
+    Paragraph 496: No genes found.
+    Paragraph 497: No genes found.
+    Paragraph 498: 
+      cd4: 1
+      tgfβ: 1
+    Paragraph 499: 
+      cd8: 1
+      tcr: 1
+      ifn-γ: 1
+      il-2: 1
+      il-2r: 1
+      il-12r: 1
+      il-18r: 1
+      il-12: 1
+      il-18: 1
+    Paragraph 500: No genes found.
+    Paragraph 501: No genes found.
+    Paragraph 502: No genes found.
+    Paragraph 503: 
+      dll1: 1
+    Paragraph 504: No genes found.
+    Paragraph 505: 
+      cd8: 1
+      cd4: 1
+      ifn-γ: 1
+    Paragraph 506: 
+      cd8: 1
+    Paragraph 507: 
+      cd8: 1
+    Paragraph 508: 
+      cd8: 1
+    Paragraph 509: 
+      cd8: 1
+    Paragraph 510: No genes found.
+    Paragraph 511: 
+      cd8: 1
+      cd4: 1
+    Paragraph 512: No genes found.
+    Paragraph 513: 
+      akt: 1
+    Paragraph 514: 
+      cd4: 1
+    Paragraph 515: No genes found.
+    Paragraph 516: 
+      cd4: 1
+    Paragraph 517: No genes found.
+    Paragraph 518: 
+      cd4: 1
+      ifn-γ: 1
+      tnf-α: 2
+    Paragraph 519: 
+      t-bet: 3
+    Paragraph 520: 
+      cd8: 1
+      il-7: 2
+      cd4: 1
+      runx3: 1
+      akt: 1
+      thpok: 2
+    Paragraph 521: 
+      cd8: 1
+      cd4: 1
+    Paragraph 522: 
+      akt: 1
+    Paragraph 523: 
+      cd4: 1
+      akt: 1
+    Paragraph 524: 
+      cd8: 1
+      tcr: 1
+      stat5: 1
+    Paragraph 525: No genes found.
+    Paragraph 526: No genes found.
+    Paragraph 527: 
+      tcr: 1
+      cd4: 1
+      il-2: 2
+      il-2r: 1
+      foxp3: 1
+    Paragraph 528: No genes found.
+    Paragraph 529: No genes found.
+    Paragraph 530: 
+      cd4: 1
+      il-2: 1
+      il-17: 1
+      il-23: 1
+      stat3: 1
+    Paragraph 531: No genes found.
+    Paragraph 532: No genes found.
+    Paragraph 533: 
+      cd8: 1
+      cd4: 1
+      ifn-γ: 1
+      t-bet: 2
+      foxp3: 1
+      tgfβ: 1
+      il-4: 1
+    Paragraph 534: 
+      tcr: 1
+    Paragraph 535: 
+      cd4: 1
+    Paragraph 536: 
+      bcr: 1
+    Paragraph 537: 
+      il-6: 2
+    Paragraph 538: No genes found.
+    Paragraph 539: No genes found.
+    Paragraph 540: 
+      bcr: 1
+    Paragraph 541: No genes found.
+    Paragraph 542: No genes found.
+    Paragraph 543: No genes found.
+    Paragraph 544: 
+      cd8: 1
+    Paragraph 545: No genes found.
+    Paragraph 546: No genes found.
+    Paragraph 547: No genes found.
+    Paragraph 548: 
+      cd4: 1
+    Paragraph 549: 
+      cd4: 1
+    Paragraph 550: No genes found.
+    Paragraph 551: No genes found.
+    Paragraph 552: No genes found.
+    Paragraph 553: 
+      tcr: 1
+      cd4: 1
+      ifn-γ: 1
+      il-2: 1
+    Paragraph 554: 
+      il-7r: 1
+      cd4: 1
+      ifn-γ: 1
+      t-bet: 2
+      il-2r: 1
+      il-10: 1
+      foxp3: 1
+      il-4: 1
+      il-12: 1
+    Paragraph 555: No genes found.
+    Paragraph 556: No genes found.
+    Paragraph 557: No genes found.
+    Paragraph 558: 
+      cd4: 1
+      t-bet: 1
+      il-12: 1
+    Paragraph 559: No genes found.
+    Paragraph 560: 
+      socs1: 1
+    Paragraph 561: No genes found.
+    Paragraph 562: No genes found.
+    Paragraph 563: 
+      cd4: 1
+      il-2r: 1
+      il-10: 1
+      foxp3: 1
+    Paragraph 564: No genes found.
+    Paragraph 565: 
+      pax5: 1
+    Paragraph 566: No genes found.
+    Paragraph 567: 
+      cd8: 1
+      tcr: 2
+      cd4: 1
+      il-10: 1
+      il-17: 1
+    Paragraph 568: 
+      foxp3: 1
+      rorγt: 1
+    Paragraph 569: 
+      il-17: 1
+      irf4: 2
+    Paragraph 570: 
+      foxp3: 1
+      tgfβ: 1
+      tnf-α: 1
+    Paragraph 571: No genes found.
+    Paragraph 572: 
+      cd8: 1
+      cd4: 1
+    Paragraph 573: No genes found.
+    Paragraph 574: No genes found.
+    Paragraph 575: No genes found.
+    Paragraph 576: 
+      cd19: 1
+    Paragraph 577: 
+      cd8: 1
+    Paragraph 578: 
+      cd8: 1
+    Paragraph 579: No genes found.
+    Paragraph 580: 
+      cd8: 1
+      cd4: 1
+    Paragraph 581: 
+      cd4: 1
+      akt: 1
+      erk1/2: 1
+      bcl2: 1
+    Paragraph 582: 
+      cd19: 1
+    Paragraph 583: 
+      ifn-γ: 1
+      tnf-α: 2
+    Paragraph 584: 
+      tcr: 1
+    Paragraph 585: No genes found.
+    Paragraph 586: 
+      il-17: 1
+      rorγt: 1
+    Paragraph 587: 
+      cd8: 1
+      cd4: 1
+      runx3: 1
+      akt: 1
+    Paragraph 588: 
+      cd8: 1
+      cd4: 1
+      t-bet: 2
+      gata3: 1
+    Paragraph 589: 
+      il-4: 1
+    Paragraph 590: 
+      cd8: 1
+      cd4: 1
+    Paragraph 591: No genes found.
+    Paragraph 592: No genes found.
+    Paragraph 593: 
+      cd8: 1
+      cd4: 1
+    Paragraph 594: No genes found.
+    Paragraph 595: No genes found.
+    Paragraph 596: No genes found.
+    Paragraph 597: 
+      cd8: 1
+      tcr: 1
+      akt: 1
+    Paragraph 598: No genes found.
+    Paragraph 599: 
+      cd4: 1
+      il-6: 1
+    Paragraph 600: 
+      cd8: 1
+    Paragraph 601: 
+      akt: 1
+      bcr: 1
+    Paragraph 602: 
+      cd8: 1
+    Paragraph 603: No genes found.
+    Paragraph 604: 
+      ifn-γ: 1
+      akt: 1
+    Paragraph 605: No genes found.
+    Paragraph 606: No genes found.
+    Paragraph 607: 
+      il-10: 1
+    Paragraph 608: 
+      cd4: 1
+    Paragraph 609: No genes found.
+    Paragraph 610: 
+      cd8: 1
+      t-bet: 2
+      tgfβ: 1
+      tgfβr: 1
+    Paragraph 611: 
+      cd19: 1
+    Paragraph 612: No genes found.
+    Paragraph 613: 
+      notch1: 1
+    Paragraph 614: 
+      cd8: 1
+    Paragraph 615: No genes found.
+    Paragraph 616: No genes found.
+    Paragraph 617: No genes found.
+    Paragraph 618: No genes found.
+    Paragraph 619: 
+      cd4: 1
+      ifn-γ: 1
+      t-bet: 2
+    Paragraph 620: 
+      cd8: 1
+    Paragraph 621: 
+      cd4: 1
+      il-2: 1
+      bcl6: 1
+      il-21: 1
+    Paragraph 622: No genes found.
+    Paragraph 623: No genes found.
+    Paragraph 624: No genes found.
+    Paragraph 625: No genes found.
+    Paragraph 626: No genes found.
+    Paragraph 627: 
+      notch1: 1
+      cd4: 1
+    Paragraph 628: No genes found.
+    Paragraph 629: No genes found.
+    Paragraph 630: 
+      cd8: 1
+      cd4: 1
+    Paragraph 631: No genes found.
+    Paragraph 632: 
+      il-17: 1
+    Paragraph 633: No genes found.
+    Paragraph 634: 
+      cd8: 1
+      cd4: 1
+    Paragraph 635: No genes found.
+    Paragraph 636: No genes found.
+    Paragraph 637: 
+      il-7: 1
+      cd4: 1
+      il-2: 1
+    Paragraph 638: No genes found.
+    Paragraph 639: 
+      nfat: 1
+      bcl6: 1
+    Paragraph 640: No genes found.
+    Paragraph 641: 
+      il-27: 1
+      cd4: 1
+      il-2: 1
+      il-10: 1
+      il-17: 1
+      tnf-α: 1
+    Paragraph 642: No genes found.
+    Paragraph 643: No genes found.
+    Paragraph 644: 
+      bcr: 1
+    Paragraph 645: 
+      cd8: 1
+      cd4: 1
+    Paragraph 646: 
+      cd4: 2
+    Paragraph 647: 
+      cd8: 1
+      cd4: 1
+      il-18r: 1
+      il-18: 1
+      cd19: 1
+    Paragraph 648: No genes found.
+    Paragraph 649: 
+      cd8: 2
+    Paragraph 650: 
+      bcr: 1
+    Paragraph 651: No genes found.
+    Paragraph 652: No genes found.
+    Paragraph 653: 
+      tcr: 1
+      tnf-α: 2
+    Paragraph 654: 
+      tcr: 1
+      tnf-α: 1
+      irf4: 2
+    Paragraph 655: 
+      dll1: 1
+      cd8: 1
+      cd4: 2
+    Paragraph 656: 
+      il-2: 1
+      il-2r: 1
+    Paragraph 657: No genes found.
+    Paragraph 658: 
+      cd8: 1
+      cd4: 1
+    Paragraph 659: No genes found.
+    Paragraph 660: 
+      tcr: 1
+      cd4: 1
+    Paragraph 661: No genes found.
+    Paragraph 662: No genes found.
+    Paragraph 663: No genes found.
+    Paragraph 664: 
+      cd8: 1
+      tcf-1: 1
+    Paragraph 665: No genes found.
+    Paragraph 666: 
+      cd4: 1
+    Paragraph 667: No genes found.
+    Paragraph 668: No genes found.
+    Paragraph 669: No genes found.
+    Paragraph 670: No genes found.
+    Paragraph 671: 
+      dll1: 1
+      cd8: 1
+    Paragraph 672: 
+      akt: 1
+    Paragraph 673: 
+      il-7r: 1
+      il-7: 1
+      bcr: 1
+    Paragraph 674: No genes found.
+    Paragraph 675: 
+      cd8: 1
+    Paragraph 676: No genes found.
+    Paragraph 677: No genes found.
+    Paragraph 678: 
+      foxp3: 1
+    Paragraph 679: No genes found.
+    Paragraph 680: 
+      tcr: 1
+      tcf-1: 1
+      cd4: 1
+      akt: 1
+      bcl6: 1
+    Paragraph 681: 
+      il-6: 1
+    Paragraph 682: 
+      cd4: 2
+      tgfβ: 1
+    Paragraph 683: No genes found.
+    Paragraph 684: No genes found.
+    Paragraph 685: No genes found.
+    Paragraph 686: 
+      cd4: 2
+    Paragraph 687: 
+      cd4: 1
+      il-2: 2
+      bcr: 1
+      blimp1: 1
+      il-21: 2
+      il-21r: 1
+      irf4: 1
+    Paragraph 688: 
+      cd4: 1
+      il-2: 2
+      bcr: 1
+      il-21: 2
+    Paragraph 689: 
+      tcr: 1
+      bcr: 1
+    Paragraph 690: 
+      gzmb: 1
+      prf1: 1
+      il-2: 1
+      il-2r: 1
+    Paragraph 691: 
+      cd8: 1
+    Paragraph 692: 
+      tcr: 1
+    Paragraph 693: 
+      cd4: 1
+    Paragraph 694: 
+      cd8: 1
+      cd4: 1
+    Paragraph 695: No genes found.
+    Paragraph 696: 
+      cd8: 1
+      il-6: 2
+    Paragraph 697: No genes found.
+    Paragraph 698: 
+      il-10: 1
+      foxp3: 1
+      il-17: 1
+      il-6: 1
+    Paragraph 699: 
+      cd4: 1
+      il-2: 1
+      tgfβ: 1
+      il-17: 1
+      rorγt: 1
+      il-23: 1
+      il-6: 1
+      stat3: 1
+    Paragraph 700: No genes found.
+    Paragraph 701: 
+      cd8: 1
+      tcr: 1
+      cd4: 1
+    Paragraph 702: No genes found.
+    Paragraph 703: No genes found.
+    Paragraph 704: No genes found.
+    Paragraph 705: No genes found.
+    Paragraph 706: No genes found.
+    Paragraph 707: 
+      cd8: 1
+      cd4: 1
+      tnf-α: 1
+    Paragraph 708: 
+      cd4: 1
+      il-17: 1
+      rorγt: 1
+    Paragraph 709: 
+      blimp1: 1
+      bcl6: 1
+    Paragraph 710: No genes found.
+    Paragraph 711: No genes found.
+    Paragraph 712: 
+      cd8: 1
+      cd4: 1
+    Paragraph 713: 
+      cd8: 1
+      cd4: 1
+      gzmb: 2
+    Paragraph 714: 
+      dll1: 1
+      cd8: 1
+      tcr: 1
+    Paragraph 715: 
+      tcr: 2
+    Paragraph 716: 
+      cd8: 1
+      cd4: 1
+    Paragraph 717: No genes found.
+    Paragraph 718: No genes found.
+    Paragraph 719: No genes found.
+    Paragraph 720: 
+      cd4: 1
+      il-2: 1
+      il-6: 1
+      bach2: 1
+      il-21: 1
+      cd19: 1
+    Paragraph 721: 
+      tnfr2: 1
+      tnf-α: 1
+    Paragraph 722: No genes found.
+    Paragraph 723: No genes found.
+    Paragraph 724: No genes found.
+    Paragraph 725: 
+      cd4: 1
+    Paragraph 726: No genes found.
+    Paragraph 727: No genes found.
+    Paragraph 728: No genes found.
+    Paragraph 729: 
+      stat1: 1
+    Paragraph 730: 
+      il-2: 1
+    Paragraph 731: No genes found.
+    Paragraph 732: 
+      cd4: 1
+    Paragraph 733: No genes found.
+    Paragraph 734: 
+      ifn-γ: 1
+    Paragraph 735: 
+      cd8: 1
+    Paragraph 736: No genes found.
+    Paragraph 737: 
+      cd4: 1
+    Paragraph 738: 
+      smad2: 1
+    Paragraph 739: No genes found.
+    Paragraph 740: No genes found.
+    Paragraph 741: 
+      cd8: 1
+      il-18r: 1
+      il-18: 1
+    Paragraph 742: No genes found.
+    Paragraph 743: 
+      cd8: 1
+      cd4: 1
+    Paragraph 744: No genes found.
+    Paragraph 745: No genes found.
+    Paragraph 746: No genes found.
+    Paragraph 747: No genes found.
+    Paragraph 748: No genes found.
+    Paragraph 749: 
+      il-27: 1
+      cd4: 1
+      il-2: 1
+      il-21: 1
+    Paragraph 750: No genes found.
+    Paragraph 751: No genes found.
+    Paragraph 752: No genes found.
+    Paragraph 753: No genes found.
+    Paragraph 754: 
+      tcr: 1
+      cd4: 1
+      ifn-γ: 1
+      il-2: 1
+      il-10: 1
+    Paragraph 755: No genes found.
+    Paragraph 756: No genes found.
+    Paragraph 757: 
+      cd4: 1
+      foxp3: 1
+      bcl6: 1
+    Paragraph 758: 
+      cd8: 1
+      cd4: 1
+      gzmb: 1
+    Paragraph 759: No genes found.
+    Paragraph 760: 
+      cd8: 1
+      cd4: 1
+    Paragraph 761: 
+      dll1: 1
+      cd8: 2
+    Paragraph 762: 
+      cd8: 1
+    Paragraph 763: 
+      tcr: 1
+    Paragraph 764: No genes found.
+    Paragraph 765: 
+      cd8: 1
+      cd4: 1
+    Paragraph 766: No genes found.
+    Paragraph 767: 
+      cd8: 1
+    Paragraph 768: 
+      cd8: 1
+      cd4: 1
+      il-4: 1
+    Paragraph 769: 
+      nfat: 1
+      foxp3: 1
+      bcl6: 1
+    Paragraph 770: 
+      notch1: 1
+      ifn-γ: 1
+      il-10: 1
+      il-4: 1
+      il-17: 1
+    Paragraph 771: No genes found.
+    Paragraph 772: 
+      cd8: 1
+      gzmb: 1
+    Paragraph 773: 
+      il-4: 1
+    Paragraph 774: 
+      cd8: 1
+      il-7r: 1
+      il-7: 1
+      t-bet: 1
+    Paragraph 775: 
+      notch1: 1
+      cd8: 1
+      cd4: 1
+      bcl2: 1
+      bcl6: 1
+      xbp1: 1
+      irf4: 1
+    Paragraph 776: 
+      tcr: 3
+      foxp3: 1
+    Paragraph 777: No genes found.
+    Paragraph 778: No genes found.
+    Paragraph 779: 
+      cd8: 1
+      cd4: 1
+      foxp3: 1
+      tgfβ: 2
+    Paragraph 780: No genes found.
+    Paragraph 781: 
+      tcr: 2
+    Paragraph 782: 
+      cd4: 1
+    Paragraph 783: 
+      dll1: 1
+    Paragraph 784: No genes found.
+    Paragraph 785: No genes found.
+    Paragraph 786: No genes found.
+    Paragraph 787: 
+      cd8: 1
+      cd4: 1
+    Paragraph 788: 
+      cd4: 2
+      ifn-γ: 1
+      il-2: 1
+      tgfβ: 1
+      il-12: 1
+      il-18: 1
+      tnfr2: 1
+      il-17: 1
+      il-23: 1
+      il-6: 1
+      tnf-α: 3
+      il-23r: 1
+      nf-xb: 1
+    Paragraph 789: No genes found.
+    Paragraph 790: No genes found.
+    Paragraph 791: 
+      tgfβ: 1
+      il-17: 1
+    Paragraph 792: 
+      cd4: 1
+    Paragraph 793: No genes found.
+    Paragraph 794: 
+      cd8: 1
+    Paragraph 795: No genes found.
+    Paragraph 796: 
+      cd8: 1
+    Paragraph 797: 
+      cd4: 1
+      akt: 1
+      il-17: 1
+    Paragraph 798: No genes found.
+    Paragraph 799: 
+      cd8: 1
+      cd4: 1
+      il-10: 1
+      il-4: 1
+      il-17: 1
+      cd19: 1
+    Paragraph 800: No genes found.
+    Paragraph 801: No genes found.
+    Paragraph 802: 
+      nfat: 1
+      tnf-α: 2
+    Paragraph 803: 
+      cd8: 1
+      ifn-γ: 1
+    Paragraph 804: 
+      cd8: 1
+    Paragraph 805: 
+      runx3: 1
+      t-bet: 2
+    Paragraph 806: 
+      cd8: 1
+      tcr: 1
+      cd4: 1
+      il-2r: 1
+    Paragraph 807: 
+      cd4: 1
+      il-2r: 1
+      il-10: 1
+      foxp3: 1
+      tgfβ: 1
+      il-6: 1
+      tnf-α: 2
+    Paragraph 808: No genes found.
+    Paragraph 809: No genes found.
+    Paragraph 810: 
+      cd8: 1
+      tcr: 1
+      nfat: 1
+      ifn-γ: 1
+    Paragraph 811: No genes found.
+    Paragraph 812: 
+      cd8: 1
+    Paragraph 813: 
+      cd8: 1
+      cd4: 1
+    Paragraph 814: No genes found.
+    Paragraph 815: 
+      cd4: 1
+      ifn-γ: 1
+      il-10: 1
+    Paragraph 816: 
+      cd4: 1
+    Paragraph 817: 
+      il-2: 1
+    Paragraph 818: 
+      cd4: 1
+      akt: 1
+    Paragraph 819: 
+      cd19: 1
+    Paragraph 820: No genes found.
+    Paragraph 821: 
+      cd8: 1
+    Paragraph 822: No genes found.
+    Paragraph 823: No genes found.
+    Paragraph 824: 
+      cd8: 1
+      cd4: 1
+      il-2: 1
+    Paragraph 825: 
+      tgfβ: 1
+      il-6: 1
+      cd19: 1
+    Paragraph 826: 
+      cd4: 1
+      eomes: 2
+      gzmb: 1
+      ifn-γ: 1
+      t-bet: 2
+    Paragraph 827: 
+      dll1: 1
+      cd8: 1
+      cd4: 1
+    Paragraph 828: 
+      tcr: 1
+    Paragraph 829: No genes found.
+    Paragraph 830: No genes found.
+    Paragraph 831: No genes found.
+    Paragraph 832: 
+      cd4: 1
+      tgfβ: 1
+      tnf-α: 2
+    Paragraph 833: No genes found.
+    Paragraph 834: No genes found.
+    Paragraph 835: 
+      cd4: 1
+    Paragraph 836: 
+      il-17: 1
+      stat3: 1
+    Paragraph 837: 
+      cd8: 1
+      tcr: 1
+    Paragraph 838: 
+      tcr: 2
+    Paragraph 839: 
+      il-2: 1
+      il-10: 1
+      il-4: 1
+      il-6: 1
+    Paragraph 840: 
+      ifn-γ: 1
+      t-bet: 2
+      il-10: 1
+      foxp3: 1
+      tgfβ: 1
+      il-6: 1
+      tnf-α: 2
+    Paragraph 841: 
+      tcf-1: 1
+    Paragraph 842: No genes found.
+    Paragraph 843: 
+      il-10: 1
+    Paragraph 844: No genes found.
+    Paragraph 845: No genes found.
+    Paragraph 846: 
+      cd4: 1
+      il-2r: 1
+      foxp3: 1
+      tgfβ: 1
+      il-17: 1
+    Paragraph 847: No genes found.
+    Paragraph 848: 
+      tcr: 1
+    Paragraph 849: No genes found.
+    Paragraph 850: 
+      cd4: 1
+    Paragraph 851: 
+      cd8: 1
+    Paragraph 852: 
+      il-7: 1
+      tnf-α: 1
+    Paragraph 853: 
+      dll1: 1
+      cd8: 1
+      il-7r: 1
+      bcl2: 1
+    Paragraph 854: 
+      dll1: 1
+      cd8: 1
+      il-10: 1
+      akt: 1
+      il-17: 1
+    Paragraph 855: 
+      tgfβ: 1
+      flt3l: 1
+      flt3: 1
+    Paragraph 856: 
+      cd8: 1
+    Paragraph 857: 
+      il-7: 1
+      cd4: 1
+      il-2: 1
+    Paragraph 858: 
+      cd4: 1
+    Paragraph 859: 
+      il-2: 1
+      tgfβ: 1
+      tnf-α: 2
+    Paragraph 860: 
+      bcr: 1
+    Paragraph 861: No genes found.
+    Paragraph 862: No genes found.
+    Paragraph 863: 
+      cd4: 1
+      il-4r: 1
+      il-4: 1
+      bcr: 1
+    Paragraph 864: 
+      cd4: 1
+    Paragraph 865: 
+      cd19: 1
+    Paragraph 866: No genes found.
+    Paragraph 867: No genes found.
+    Paragraph 868: No genes found.
+    Paragraph 869: 
+      cd8: 1
+      cd4: 1
+    Paragraph 870: No genes found.
+    Paragraph 871: No genes found.
