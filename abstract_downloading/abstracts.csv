@@ -1,0 +1,754 @@
+Journal,Title,Authors,Author_Information,Abstract,DOI,Misc
+1. JCI Insight. 2023 Apr 24;8(8):e162180. doi: 10.1172/jci.insight.162180.,"Hematopoietic stem cell-derived Tregs are essential for maintaining favorable B 
+cell lymphopoiesis following posttransplant cyclophosphamide.","Sumii Y(1), Kondo T(1), Ikegawa S(1), Fukumi T(1), Iwamoto M(1), Nishimura 
+MF(2), Sugiura H(1), Sando Y(1), Nakamura M(1), Meguri Y(1), Matsushita T(3), 
+Tanimine N(4), Kimura M(1), Asada N(5), Ennishi D(1), Maeda Y(1), Matsuoka 
+KI(1).","Author information:
+(1)Department of Hematology, Oncology and Respiratory Medicine and.
+(2)Department of Pathology, Okayama University Graduate School of Medicine, 
+Dentistry and Pharmaceutical Sciences, Okayama, Japan.
+(3)Department of Dermatology, Faculty of Medicine, College of Medical, 
+Pharmaceutical and Health Sciences, Kanazawa University, Kanazawa, Japan.
+(4)Department of Gastroenterological and Transplant Surgery, Graduate School of 
+Biomedical and Health Sciences, Hiroshima University, Hiroshima, Japan.
+(5)Department of Hematology and Oncology, Okayama University Hospital, Okayama, 
+Japan.","Posttransplant cyclophosphamide (PTCy) is associated with a low incidence of 
+chronic graft-versus-host disease (cGVHD) following hematopoietic stem cell 
+(HSC) transplantation. Previous studies have shown the important roles of B cell 
+immunity in cGVHD development. Here, we investigated the long-term 
+reconstitution of B lymphopoiesis after PTCy using murine models. We first 
+demonstrated that the immune homeostatic abnormality leading to cGVHD is 
+characterized by an initial increase in effector T cells in the bone marrow and 
+subsequent B and Treg cytopenia. PTCy, but not cyclosporine A or rapamycin, 
+inhibits the initial alloreactive T cell response, which restores intra-bone 
+marrow B lymphogenesis with a concomitant vigorous increase in Tregs. This leads 
+to profound changes in posttransplant B cell homeostasis, including decreased B 
+cell activating factors, increased transitional and regulatory B cells, and 
+decreased germinal center B cells. To identify the cells responsible for 
+PTCy-induced B cell tolerance, we selectively depleted Treg populations that 
+were graft or HSC derived using DEREG mice. Deletion of either Treg population 
+without PTCy resulted in critical B cytopenia. PTCy rescued B lymphopoiesis from 
+graft-derived Treg deletion. In contrast, the negative effect of HSC-derived 
+Treg deletion could not be overcome by PTCy, indicating that HSC-derived Tregs 
+are essential for maintaining favorable B lymphopoiesis following PTCy. These 
+findings define the mechanisms by which PTCy restores homeostasis of the B cell 
+lineage and reestablishes immune tolerance.","DOI: 10.1172/jci.insight.162180
+PMID: 37092551 [Indexed for MEDLINE]"
+"2. Nat Comput Sci. 2021 May;1(5):374-384. doi: 10.1038/s43588-021-00070-7. Epub 
+2021 May 20.","Single-cell manifold-preserving feature selection for detecting rare cell 
+populations.","Liang S(1)(2), Mohanty V(1), Dou J(1), Miao Q(1)(3), Huang Y(1)(3), Müftüoğlu 
+M(4), Ding L(5), Peng W(6), Chen K(1).","Author information:
+(1)Department of Bioinformatics and Computational Biology, The University of 
+Texas MD Anderson Cancer Center, Houston, Texas, 77030, USA.
+(2)Department of Computer Science, Rice University, Houston, Texas, 77005, USA.
+(3)Department of Biostatistics & Data Science, School of Public Health, The 
+University of Texas Health Science Center at Houston (UTHealth), Houston, Texas, 
+77030, USA.
+(4)Department of Leukemia, The University of Texas MD Anderson Cancer Center, 
+Houston, Texas, 77030, USA.
+(5)Department of Medicine, Washington University School of Medicine, St. Louis, 
+MO, 63108.
+(6)Department of Biology and Biochemistry, University of Houston, Houston, 
+Texas, 77024.","A key challenge in studying organisms and diseases is to detect rare molecular 
+programs and rare cell populations (RCPs) that drive development, 
+differentiation, and transformation. Molecular features such as genes and 
+proteins defining RCPs are often unknown and difficult to detect from unenriched 
+single-cell data, using conventional dimensionality reduction and 
+clustering-based approaches. Here, we propose an unsupervised approach, SCMER 
+(Single-Cell Manifold presERving feature selection), which selects a compact set 
+of molecular features with definitive meanings that preserve the manifold of the 
+data. We applied SCMER in the context of hematopoiesis, lymphogenesis, 
+tumorigenesis, and drug resistance and response. We found that SCMER can 
+identify non-redundant features that sensitively delineate both common cell 
+lineages and rare cellular states. SCMER can be used for discovering molecular 
+features in a high dimensional dataset, designing targeted, cost-effective 
+assays for clinical applications, and facilitating multi-modality integration.","DOI: 10.1038/s43588-021-00070-7
+PMCID: PMC10035340
+PMID: 36969355","Conflict of interest statement: Competing interests The authors declare that 
+they have no competing interests."
+"3. Front Oncol. 2020 Jun 30;10:1007. doi: 10.3389/fonc.2020.01007. eCollection 
+2020.",Generation of a Murine Model for c-MYC and BCL2 Co-expression B Cell Lymphomas.,"Cai Z(1), Zhang L(1)(2), Cao M(1), Wang Y(1), Wang F(2), Bian W(1), Zhai S(1), 
+Wang X(1)(3).","Author information:
+(1)Department of Immunology, Key Laboratory of Immune Microenvironment and 
+Diseases, Nanjing Medical University, Nanjing, China.
+(2)Analysis Center, Nanjing Medical University, Nanjing, China.
+(3)State Key Laboratory of Reproductive Medicine, Nanjing Medical University, 
+Nanjing, China.","Diffuse large B-cell lymphoma (DLBCL) is the most frequent lymphoma in adults, 
+and is characterized as clinically and biologically heterogeneous lymphomas with 
+diverse response to therapy and variation in clinical behavior. It's 
+well-established that c-MYC and BCL2 play important roles in normal B-cell 
+differentiation and tumorigenesis. B cell lymphoma with dual expression of c-MYC 
+and BCL2 (double-expressor lymphoma, DEL) accounts for approximately one-third 
+of DLBCL cases. DEL patients have poor outcomes after chemoimmunotherapy or 
+autologous stem-cell transplantation. Lack of a genetic mouse tool for DEL 
+hinders us from understanding the lymphogenesis mechanism and developing 
+therapeutic strategies. Here, we investigated whether ectopic expression of 
+c-MYC and BCL2 in different stages of B cells could lead to lymphoma and 
+generate a mouse model for DEL. We observed that Co-expression of c-MYC and BCL2 
+in germinal center (GC) B cells, or pan-B cells could induce B cell lymphomas. 
+The tumor-bearing mice have enlarged lymphoid organs, and B cells massively 
+infiltrate into non-lymphoid organs including lung, liver and kidney. The 
+tumor-bearing mice also manifested significantly shorter lifespan than the 
+controls. In addition, adoptive transfer of Co-expression B cells leads to B 
+cell lymphoma and host mice death. This model will provide us a tool to further 
+explore the pathogenesis and treatment approaches for DEL.","Copyright © 2020 Cai, Zhang, Cao, Wang, Wang, Bian, Zhai and Wang.","DOI: 10.3389/fonc.2020.01007
+PMCID: PMC7338593
+PMID: 32695674"
+"4. Dev Comp Immunol. 2020 Oct;111:103751. doi: 10.1016/j.dci.2020.103751. Epub
+2020  May 23.","Immunoglobulin light chain κ precedes λ rearrangement in swine but a majority of 
+λ(+) B cells are generated earlier.","Sinkora M(1), Stepanova K(2), Sinkorova J(2).","Author information:
+(1)Laboratory of Gnotobiology, Institute of Microbiology of the Czech Academy of 
+Sciences, Novy Hradek, Czech Republic. Electronic address: marek@biomed.cas.cz.
+(2)Laboratory of Gnotobiology, Institute of Microbiology of the Czech Academy of 
+Sciences, Novy Hradek, Czech Republic.","Developmental pathways for B cell lymphogenesis are sufficiently known only in 
+mice and humans. However, both of these species rearrange immunoglobulin heavy 
+chains (IgH) before light chains (IgL) while IgL precedes IgH rearrangement in 
+swine. We demonstrate here that this reversed order of rearrangements have some 
+concealed consequences: (1) we confirmed that although IgLκ rearrangement is 
+initial, most IgLλ+ B cells are generated earlier and before IgH rearrangements, 
+while most IgLκ+ B cells later and after IgH rearrangements, (2) the second IgLκ 
+rearrangement can occur after IgLλ rearrangement, (3) early formed B cells bear 
+only single in-frame IgH rearrangements, (4) many IgLκ+ B cells carry IgLλ 
+rearrangements that can be productive and occurring on both alleles in one cell, 
+and (5) although VpreB and λ5 genes are present in swine, they are 
+preferentially expressed in non-B cells. In summary, our findings reveal that 
+swine use an alternative B cell developmental pathway as compared to mice and 
+humans.",Copyright © 2020 Elsevier Ltd. All rights reserved.,"DOI: 10.1016/j.dci.2020.103751
+PMID: 32454063 [Indexed for MEDLINE]","Conflict of interest statement: Declaration of competing interest The authors 
+declare no competing financial interests."
+5. Rev Med Chil. 2019 Aug;147(8):1036-1041. doi: 10.4067/S0034-98872019000801036.,[Paraproteins. A review].,[Article in Spanish],Peña C(1).,"Author information:
+(1)Sección Hematología, Hospital del Salvador, Santiago, Chile.","Hematological neoplasms are tumors of cells in different states of maturation 
+and differentiation. Since monoclonal gammopathies (MG) refer to B mature 
+lymphocyte neoplasms, lymphogenesis should be well known. We must keep in mind 
+that the last stage of maturation of these lymphocytes is the plasma cell. This 
+is how a MG could appear in the context of a plasma cell neoplasm, such as 
+multiple myeloma or amyloidosis, but also in relation to a lymphoma. A 
+monoclonal peak is produced by mature B lymphocytes or plasma cells that secrete 
+a monoclonal protein (Immunoglobulin), and represents a MG. But it must be 
+emphasized that, in the correct clinical context, a hypogammaglobulinemia can 
+represent a MG as well. Another important point is the understanding and 
+interpretation of requested tests, such as protein electrophoresis (PEP), 
+immunofixation (IFx) or serum free light chains (sFLC). The current MG screening 
+panel includes these three studies (PEF, IFx, sFLC), although a simpler panel 
+measuring PEF and sFLC has also been proposed, but not yet formally validated. 
+Therefore, screening done only with PEP is insufficient.","DOI: 10.4067/S0034-98872019000801036
+PMID: 31859969 [Indexed for MEDLINE]"
+"6. J Clin Immunol. 2017 Jul;37(5):434-444. doi: 10.1007/s10875-017-0396-4. Epub 
+2017 May 11.",Common Variable Immunodeficiency Caused by FANC Mutations.,"Sekinaka Y(1), Mitsuiki N(2), Imai K(3)(4), Yabe M(5), Yabe H(5), 
+Mitsui-Sekinaka K(1), Honma K(1), Takagi M(2), Arai A(6), Yoshida K(7)(8), Okuno 
+Y(8)(9), Shiraishi Y(10), Chiba K(10), Tanaka H(10), Miyano S(10), Muramatsu 
+H(9), Kojima S(9), Hira A(11), Takata M(11), Ohara O(12), Ogawa S(7)(8), Morio 
+T(2), Nonoyama S(1).","Author information:
+(1)Department of Pediatrics, National Defense Medical College, Saitama, Japan.
+(2)Department of Pediatrics and Developmental Biology, Tokyo Medical and Dental 
+University, Tokyo, Japan.
+(3)Department of Pediatrics, National Defense Medical College, Saitama, Japan. 
+kimai.ped@tmd.ac.jp.
+(4)Department of Community Pediatrics, Perinatal and Maternal Medicine, Tokyo 
+Medical and Dental University, 1-5-45, Yushima, Bunkyo-ku, Tokyo, 113-8519, 
+Japan. kimai.ped@tmd.ac.jp.
+(5)Department of Cell Transplantation and Regenerative Medicine, Tokai 
+University School of Medicine, Isehara, Japan.
+(6)Department of Hematology, Graduate School of Medical and Dental Sciences, 
+Tokyo Medical and Dental University, Tokyo, Japan.
+(7)Department of Pathology and Tumor Biology, Graduate School of Medicine, Kyoto 
+University, Kyoto, Japan.
+(8)Cancer Genomics Project, Graduate School of Medicine, The University of 
+Tokyo, Tokyo, Japan.
+(9)Department of Pediatrics, Nagoya University Graduate School of Medicine, 
+Nagoya, Japan.
+(10)Laboratory of DNA Information Analysis, Human Genome Center, Institute of 
+Medical Science, The University of Tokyo, Tokyo, Japan.
+(11)Laboratory of DNA Damage Signaling, Department of Late Effects Studies, 
+Radiation Biology Center, Kyoto University, Kyoto, Japan.
+(12)Department of Technology Development, Kazusa DNA Research Institute, 
+Kisarazu, Japan.","Common variable immunodeficiency (CVID) is the most common adult-onset primary 
+antibody deficiency disease due to various causative genes. Several genes, which 
+are known to be the cause of different diseases, have recently been reported as 
+the cause of CVID in patients by performing whole exome sequencing (WES) 
+analysis. Here, we found FANC gene mutations as a cause of adult-onset CVID in 
+two patients. B cells were absent and CD4+ T cells were skewed toward CD45RO+ 
+memory T cells. T-cell receptor excision circles (TRECs) and signal joint 
+kappa-deleting recombination excision circles (sjKRECs) were undetectable in 
+both patients. Both patients had no anemia, neutropenia, or thrombocytopenia. 
+Using WES, we identified compound heterozygous mutations of FANCE in one patient 
+and homozygous mutation of FANCA in another patient. The impaired function of 
+FANC protein complex was confirmed by a monoubiquitination assay and by 
+chromosome fragility test. We then performed several immunological evaluations 
+including quantitative lymphocyte analysis and TRECs/sjKRECs analysis for 32 
+individuals with Fanconi anemia (FA). In total, 22 FA patients (68.8%) were 
+found to have immunological abnormalities, suggesting that such immunological 
+findings may be common in FA patients. These data indicate that FANC mutations 
+are involved in impaired lymphogenesis probably by the accumulation of DNA 
+replication stress, leading to CVID. It is important to diagnose FA because it 
+drastically changes clinical management. We propose that FANC mutations can 
+cause isolated immunodeficiency in addition to bone marrow failure and 
+malignancy.","DOI: 10.1007/s10875-017-0396-4
+PMID: 28493158 [Indexed for MEDLINE]"
+7. Oncotarget. 2016 Dec 6;7(49):81571-81587. doi: 10.18632/oncotarget.13147.,"Epigenetic upregulation of ARL4C, due to DNA hypomethylation in the 
+3'-untranslated region, promotes tumorigenesis of lung squamous cell carcinoma.","Fujii S(1)(2), Shinjo K(3), Matsumoto S(1), Harada T(1), Nojima S(4), Sato S(5), 
+Usami Y(5), Toyosawa S(5), Morii E(4), Kondo Y(3), Kikuchi A(1).","Author information:
+(1)Department of Molecular Biology and Biochemistry, Graduate School of 
+Medicine, Osaka University, Suita 565-0871, Japan.
+(2)Present address: Laboratory of Oral Pathology, Division of Maxillofacial 
+Diagnostic and Surgical Sciences, Faculty of Dental Science, Kyushu University, 
+Higashi-ku, Fukuoka 812-8582, Japan.
+(3)Department of Epigenomics, Nagoya City University Graduate School of Medical 
+Sciences, Kawasumi, Mizuho-cho, Mizuho-ku, Nagoya 467-8601, Japan.
+(4)Department of Pathology, Graduate School of Medicine, Osaka University, Suita 
+565-0871, Japan.
+(5)Department of Oral Pathology, Graduate School of Dentistry, Osaka University, 
+Suita 565-0871, Japan.","ADP-ribosylation factor (ARF)-like 4c (ARL4C) expression, induced by a 
+combination of Wnt/β-catenin and EGF/Ras signaling, has been demonstrated to 
+form epithelial morphogenesis. ARL4C overexpression, due to Wnt/β-catenin and 
+EGF/Ras signaling alterations, was involved in tumorigenesis. It was also 
+reported that ARL4C expression correlates with DNA hypomethylation in the 
+3'-untranslated region (UTR) of ARL4C gene during lymphogenesis. The current 
+study was conducted to investigate the expression and functions of ARL4C due to 
+DNA hypomethylation in lung and tongue cancers. Immunohistochemical analyses of 
+tissue specimens obtained from lung and tongue squamous cell carcinoma (SCC) 
+patients revealed that ARL4C is not observed in non-tumor regions, but is 
+strongly expressed at high frequencies in tumor lesions. Although inhibition of 
+Wnt/β-catenin or Ras/MAP kinase signaling did not decrease ARL4C expression in 
+NCI-H520 lung SCC cells, ARL4C DNA was clearly hypomethylated in the 3'-UTR. 
+Ten-eleven translocation methylcytosine dioxygenase (TET) enzyme, which mediates 
+DNA demethylation, was highly expressed in NCI-H520 cells. Knockout of TET 
+family proteins (TET1-3) in NCI-H520 cells reduced 5-hydroxymethylcytosine 
+(5hmC) levels and promoted DNA methylation in the 3'-UTR, leading to the 
+decrease in ARL4C expression and ARL4C-mediated cellular migration. In tumor 
+lesions of ARL4C-positive lung SCC, 5hmC was frequently detected and DNA 
+methylation in the 3'-UTR of ARL4C gene was lower than in non-tumor regions, 
+which were consistent with the Cancer Genome Atlas dataset. These results 
+suggest that ARL4C is expressed due to hypomethylation in the 3'-UTR for certain 
+types of cancers and that ARL4C methylation status is involved in cancer cell 
+function.","DOI: 10.18632/oncotarget.13147
+PMCID: PMC5348413
+PMID: 27835592 [Indexed for MEDLINE]","Conflict of interest statement: CONFLICTS OF INTEREST S.F., S.M. and A.K. have 
+received research funds from Shionogi & Co., Ltd. All remaining authors have 
+declared no conflict of interest."
+"8. Indian J Med Res. 2016 May;143(Supplement):S23-S31. doi: 
+10.4103/0971-5916.191747.",Level of PAX5 in differential diagnosis of non-Hodgkin's lymphoma.,"Bharti B(1), Shukla S(1), Tripathi R(1), Mishra S(1), Kumar M(2), Pandey M(3), 
+Mishra R(1).","Author information:
+(1)Department of Zoology, Institute of Medical Sciences, Banaras Hindu 
+University, Varanasi, India.
+(2)Department of Pathology, Institute of Medical Sciences, Banaras Hindu 
+University, Varanasi, India.
+(3)Department of Surgical Oncology, Institute of Medical Sciences, Banaras Hindu 
+University, Varanasi, India.","BACKGROUND & OBJECTIVES: The PAX5, a paired box transcription factor and B-cell 
+activator protein (BSAP), activates B-cell commitment genes and represses 
+non-B-cell lineage genes. About 14 transcript variants of PAX5 have been 
+observed in human. Any alteration in its expression pattern leads to 
+lymphogenesis or associated diseases and carcinogenesis in non-lymphoid tissues. 
+Its mechanisms of function in pathophysiology of non-Hodgkin's lymphoma (NHL) 
+are unclear. This study was intended to explore influence of PAX5 in cascade of 
+NHL pathogenesis and diagnosis.
+METHODS: Samples of 65 patients were evaluated by immunohistochemical staining 
+for cellular localization of PAX5, CD19, CD3, cABL, p53, Ras and Raf and by 
+TUNEL assay, RNA-isolation and reverse transcriptase (RT)-PCR, w0 estern blot 
+analysis, and lactate dehydrogenase (LDH) specific staining.
+RESULTS: B-cell type NHL patients were positive for PAX5, p53, Ras, CD19, Raf 
+and CD3. All of them showed TUNEL-positive cells. The differential expression 
+pattern of PAX5, CD19, p53, CD3, Zap700 , HIF 1α, Ras, Raf and MAPK 
+(mitogen-activated protein kinase) at the levels of transcripts and proteins was 
+observed. The LDH assay showed modulation of LDH4 and LDH5 isoforms in the lymph 
+nodes of NHL patients.
+INTERPRETATION & CONCLUSIONS: The histological observations suggested that the 
+patients represent diverse cases of NHL like mature B-cell type, mature T-cell 
+type and high grade diffuse B-cell type NHL. The findings indicate that patients 
+with NHL may also be analyzed for status of PAX5, CD19 and ZAP70, and their 
+transcriptional and post-translational variants for the differential diagnosis 
+of NHL and therapy.","DOI: 10.4103/0971-5916.191747
+PMCID: PMC5080925
+PMID: 27748274 [Indexed for MEDLINE]",Conflict of interest statement: None.
+9. Int J Hematol Oncol Stem Cell Res. 2015 Jan 1;9(1):33-49.,Involvement of MicroRNA in T-Cell Differentiation and Malignancy.,"Saki N(1), Abroun S(1), Soleimani M(1), Hajizamani S(2), Shahjahani M(1), Kast 
+RE(3), Mortazavi Y(4).","Author information:
+(1)Department of Hematology and Blood Banking, Faculty of Medical Sciences, 
+Tarbiat Modares University, Tehran, Iran.
+(2)Health research institute, Research Center of Thalassemia & Hemoglobinopathy, 
+Ahvaz Jundishapur University of Medical Sciences, Ahvaz, Iran.
+(3)IIAIGC Headquarters, Dean of Studies, Burlington, VT, USA.
+(4)Department of Pathology, Faculty of Medicine, Zanjan University of Medical 
+Sciences, Zanjan, Iran.","MicroRNAs are 19-22 nucleotide RNAs involved in such important processes as 
+development, proliferation, differentiation and apoptosis. Different miRNAs are 
+uniquely expressed in lymphoid T cells, and play a role indevelopment and 
+differentiation of various subtypes by targeting their target genes. Recent 
+studies have shown that aberrant miRNA expression may be involved in T cell 
+leukemogenesis and lymphogenesis, and may function as tumor suppressor (such as 
+miR-451, miR-31, miR-150, and miR-29a) or oncogene (e.g. miR-222, miR-223, 
+miR-17-92, miR-155). MiRNAs can be used as new biomarkers for prognosis and 
+diagnosis or as an index of disease severity in T-cell leukemia and lymphoma. 
+This article presents a review of studies in recent years on the role of miRNAs 
+in T-cell development and their aberrant expression in pathogenesis of T-cell 
+leukemia and lymphoma. Characterizing miRNAs can help recognize their role as 
+new important molecules with prognostic and therapeutic applications.","PMCID: PMC4369232
+PMID: 25802699","Conflict of interest statement: CONFLICT OF INTEREST The authors declare no 
+conflict of interest."
+"10. Stem Cells Dev. 2015 May 1;24(9):1082-95. doi: 10.1089/scd.2014.0318. Epub
+2015  Feb 25.","Human induced pluripotent stem cell-derived B lymphocytes express sIgM and can 
+be generated via a hemogenic endothelium intermediate.","French A(1), Yang CT, Taylor S, Watt SM, Carpenter L.","Author information:
+(1)1 Stem Cell Research Laboratory, Nuffield Division of Clinical Laboratory 
+Sciences, Radcliffe Department of Medicine, and National Health Service Blood 
+and Transplant, University of Oxford , John Radcliffe Hospital, Oxford, United 
+Kingdom .","The differentiation of human pluripotent stem cells to the B-cell lymphoid 
+lineage has important clinical applications that include in vitro modeling of 
+developmental lymphogenesis in health and disease. Here, we first demonstrate 
+the capacity of human induced pluripotent stem cells (hiPSCs) to differentiate 
+into CD144(+)CD73(-)CD43/CD235a(-) cells, characterized as hemogenic 
+endothelium, and show that this population is capable of differentiating to 
+CD10(+)CD19(+) B lymphocytes. We also demonstrate that B lymphocytes generated 
+from hiPSCs are able to undergo full VDJ rearrangement and express surface IgM 
+(sIgM(+)), thus representing an immature B-cell subset. Efficiency of sIgM 
+expression on the hiPSC-derived B lymphocytes (∼ 5% of CD19(+) cells) was 
+comparable with B lymphocytes generated from human umbilical cord blood (UCB) 
+hematopoietic progenitor cells. Importantly, when assessed by global 
+transcriptional profiling, hiPSC-derived B-cells show a very high level of 
+similarity when compared with their UCB-derived counterparts, such that from 
+more than 47,000 different transcripts, only 45 were significantly different 
+(with a criteria adjusted P value P<0.05, log FC >1.5 or 2.8-fold). This 
+represents a unique in vitro model to delineate critical events during 
+lymphogeneisis in development and lymphoid diseases such as acute lymphocytic 
+leukemia.","DOI: 10.1089/scd.2014.0318
+PMID: 25519920 [Indexed for MEDLINE]"
+"11. J Immunol. 2014 Nov 15;193(10):5023-32. doi: 10.4049/jimmunol.1401152. Epub
+2014  Oct 1.",B cell lymphogenesis in swine is located in the bone marrow.,"Sinkora M(1), Sinkorova J(2).","Author information:
+(1)Laboratory of Gnotobiology, Institute of Microbiology, Academy of Sciences of 
+the Czech Republic, v.v.i., 549 22 Novy Hradek, Czech Republic 
+marek.sinkora@worldonline.cz.
+(2)Laboratory of Gnotobiology, Institute of Microbiology, Academy of Sciences of 
+the Czech Republic, v.v.i., 549 22 Novy Hradek, Czech Republic.","A course and a site of B cell development in swine are not firmly known. In this 
+study, we show that B cell lymphogenesis is located in the bone marrow (BM). 
+According to expression of MHC class II (MHC-II), CD2, CD21, CD25, CD45RC, 
+CD172a, swine workshop cluster (identification number) (SWC) 7, and μHC, porcine 
+BM cells were resolved into seven subsets representing sequential stages of 
+development. Profile of rearrangement-specific products and transcripts from 
+sorted BM cells confirmed the proposed developmental pathway. The same 
+developmental pathway was further proven by analysis of selection for productive 
+rearrangements in Ig H chains and also by cultivation studies. Cultivation also 
+showed that earliest precursors with incomplete DJ rearrangements can still 
+revert their B cell differentiation and develop along myeloid lineage, whereas 
+this is impossible for later developmental stages. Proliferation and the 
+apoptotic potential of individual developmental stages as well as critical 
+checkpoints were also identified. Colocalization experiments showed early 
+colocalization of MHC-II/CD2/CD172a is replaced by colocalization of 
+MHC-II/CD2/CD21/SWC7/IgM in immature cells, whereas CD25 and CD45RC did not 
+colocalize with any other studied molecules. In this study, we also finally 
+prove that the BM in pigs is fully functional in adult animals and that B 
+lymphogenesis occurs there throughout life. To our knowledge, this is the first 
+study showing a course and a direct site of B cell lymphogenesis in swine.","Copyright © 2014 by The American Association of Immunologists, Inc.","DOI: 10.4049/jimmunol.1401152
+PMID: 25274530 [Indexed for MEDLINE]"
+"12. J Leukoc Biol. 2013 Aug;94(2):259-70. doi: 10.1189/jlb.0313120. Epub 2013 May
+ 21.",The enigma of the lower gut-associated lymphoid tissue (GALT).,"Butler JE(1), Sinkora M.","Author information:
+(1)Institute of Microbiology AS CR, v.v.i., Doly 183, 54922 Novy Hradek, Czech 
+Republic. marek.sinkora@worldonline.cz","Artiodactyls possess GALT that appears in fetal life and is located at the 
+extreme end of the ileum. These IPP contain mostly B cells and involute early in 
+postnatal life. Rabbits have a similarly located lymphoid organ, called the 
+sacculus rotundus. Studies in sheep and rabbits have led to the concept that the 
+lower hindgut GALT represents primary lymphoid tissue for B cells and is 
+necessary for normal B cell development, analogous to the bursa of Fabricius. 
+This review traces the history of the observations and theories that have led to 
+the existing concept concerning the role of lower GALT. We then review recent 
+data from piglets with resected IPP that challenges the concept that the IPP is 
+primary B cell lymphoid tissue and that artiodactyls and rabbits are members of 
+the GALT group in the same context as gallinaceous birds. Eliminating the IPP as 
+the primary lymphoid tissue for B cells leads to the hypothesis that the IPP 
+acts as first-responder mucosal lymphoid tissue.","DOI: 10.1189/jlb.0313120
+PMID: 23695307 [Indexed for MEDLINE]"
+13. Immunology. 2012 Oct;137(2):149-59. doi: 10.1111/j.1365-2567.2012.03615.x.,"Antibody repertoire development in fetal and neonatal piglets. XXII. λ 
+Rearrangement precedes κ rearrangement during B-cell lymphogenesis in swine.","Sun X(1), Wertz N, Lager K, Sinkora M, Stepanova K, Tobin G, Butler JE.","Author information:
+(1)Department of Microbiology and Interdisciplinary Immunology Program, 
+University of Iowa College of Medicine, Iowa City, IA, USA.","VDJ and VJ rearrangements, expression of RAG-1, Tdt and VpreB, and the presence 
+of signal joint circles (SJC) were used to identify sites of B-cell 
+lymphogenesis. VDJ, VλJλ but not VκJκ rearrangements or SJC were recovered from 
+yolk sac (YS) at 20 days of gestation (DG) along with strong expression of VpreB 
+and RAG-1 but weak Tdt expression. VλJλ rearrangements but not VκJκ 
+rearrangements were recovered from fetal liver at 30-50 DG. SJC were pronounced 
+in bone marrow at 95 DG where VκJκ rearrangements were first recovered. The VλJλ 
+rearrangements recovered at 20-50 DG used some of the same Vλ and Jλ segments 
+seen in older fetuses and adult animals. Hence the textbook paradigm for the 
+order of light-chain rearrangement does not apply to swine. Consistent with weak 
+Tdt expression in early sites of lymphogenesis, N-region additions in VDJ 
+rearrangements were more frequent at 95 DG. Junctional diversity in VλJλ 
+rearrangement was limited at all stages of development. There was little 
+evidence for B-cell lymphogenesis in the ileal Peyer's patches. The widespread 
+recovery of VpreB transcripts in whole, non-lymphoid tissue was unexpected as 
+was its recovery from bone marrow and peripheral blood monocytes. Based on 
+recovery of SJC, B-cell lymphogenesis continues for at least 5 weeks postpartum.",© 2012 The Authors. Immunology © 2012 Blackwell Publishing Ltd.,"DOI: 10.1111/j.1365-2567.2012.03615.x
+PMCID: PMC3461396
+PMID: 22724577 [Indexed for MEDLINE]"
+"14. PLoS One. 2012;7(6):e39047. doi: 10.1371/journal.pone.0039047. Epub 2012 Jun
+18.","Acute inducible ablation of GRP78 reveals its role in hematopoietic stem cell 
+survival, lymphogenesis and regulation of stress signaling.","Wey S(1), Luo B, Lee AS.","Author information:
+(1)Department of Biochemistry and Molecular Biology, University of Southern 
+California Keck School of Medicine, University of Southern California Norris 
+Comprehensive Cancer Center, Los Angeles, California, USA.","GRP78, a master regulator of the unfolded protein response (UPR) and cell 
+signaling, is required for inner cell mass survival during early embryonic 
+development. However, little is known about its role in adult hematopoietic stem 
+cells (HSCs) and hematopoiesis. Here we generated a conditional knockout mouse 
+model that acutely deletes Grp78 in the adult hematopoietic system. Acute GRP78 
+ablation resulted in a significant reduction of HSCs, common lymphoid and 
+myeloid progenitors, and lymphoid cell populations in the mutant mice. The 
+GRP78-null induced reduction of the HSC pool could be attributed to increased 
+apoptosis. Chimeric mice with Grp78 deletion only in the hematopoietic cells 
+also showed a loss of HSCs and lymphopenia, suggesting a cell intrinsic effect. 
+Analysis of GRP78 deficient bone marrow (BM) cells showed constitutive 
+activation of all the major UPR signaling pathways, including activation of 
+eIF2α, ATF6, xbp-1 splicing, as well as caspase activation. A multiplex cytokine 
+assay further revealed alteration in select cytokine and chemokine serum levels 
+in the mutant mice. Collectively, these studies demonstrate that GRP78 plays a 
+pleiotropic role in BM cells and contributes to HSC survival and the maintenance 
+of the lymphoid lineage.","DOI: 10.1371/journal.pone.0039047
+PMCID: PMC3377598
+PMID: 22723926 [Indexed for MEDLINE]","Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist."
+"15. J Immunol. 2011 Nov 15;187(10):5141-9. doi: 10.4049/jimmunol.1101871. Epub
+2011  Oct 19.","Antibody repertoire development in fetal and neonatal piglets. XX. B cell 
+lymphogenesis is absent in the ileal Peyer's patches, their repertoire 
+development is antigen dependent, and they are not required for B cell 
+maintenance.","Butler JE(1), Santiago-Mateo K, Sun XZ, Wertz N, Sinkora M, Francis DH.","Author information:
+(1)Department of Microbiology, University of Iowa, Iowa City, IA 52242, USA. 
+john-butler@uiowa.edu","The continuous ileal Peyer's patches (IPP) of sheep are regarded as a type of 
+mammalian bursal equivalent where B cells diversify their repertoire in an 
+Ag-independent fashion. Anatomically and developmentally similar IPP occur in 
+swine. Resection of ∼90% of the IPP in piglets at birth did not alter Ig levels 
+in serum and secretions or retard diversification of the Ab repertoire when 
+animals were maintained in isolators and colonized with a defined gut flora. 
+Resection or sham surgery elevated IgG and IgA in serum and in lavage fluid from 
+the gut, lung, and in saliva. No changes in the frequency of IgG-, IgA-, and 
+IgM-containing cells in the spleen and peripheral lymph node were observed. 
+Using an index that quantifies diversification of the VDJ repertoire, no 
+differences were seen in three secondary lymphoid tissues between piglets 
+lacking IPP and colonized controls, whereas both groups displayed >10-fold 
+greater diversification than did late-term fetal piglets or piglets maintained 
+germ-free. Somatic hypermutation was very low in fetal IPP and the IPP of 
+germ-free piglets but increased 3- to 5-fold after colonization. D-J signal 
+joint circles were not recovered in IPP, and V-DJ signal joint circles were 
+5-fold lower than in bone marrow and similar to those in thymus and spleen. We 
+conclude that the porcine IPP are not a site of B cell lymphogenesis, do not 
+undergo Ag-independent repertoire diversification, and are not primary lymphoid 
+tissue since they are not required for maintenance of Ig levels in serum and 
+secretions.","DOI: 10.4049/jimmunol.1101871
+PMID: 22013126 [Indexed for MEDLINE]"
+"16. Blood. 2010 Dec 23;116(26):5907-18. doi: 10.1182/blood-2010-06-293506. Epub
+2010  Oct 5.","Talin1 is required for integrin-dependent B lymphocyte homing to lymph nodes and 
+the bone marrow but not for follicular B-cell maturation in the spleen.","Manevich-Mendelson E(1), Grabovsky V, Feigelson SW, Cinamon G, Gore Y, Goverse 
+G, Monkley SJ, Margalit R, Melamed D, Mebius RE, Critchley DR, Shachar I, Alon 
+R.","Author information:
+(1)Department of Immunology, the Weizmann Institute of Science, Rehovot, Israel.","Talin1 is a key integrin coactivator. We investigated the roles of this 
+cytoskeletal adaptor and its target integrins in B-cell lymphogenesis, 
+differentiation, migration, and function. Using CD19 Cre-mediated depletion of 
+talin1 selectively in B cells, we found that talin1 was not required for B-cell 
+generation in the bone marrow or for the entry of immature B cells to the white 
+pulp of the spleen. Loss of talin1 also did not affect B-cell maturation into 
+follicular B cells but compromised differentiation of marginal zone B cells. 
+Nevertheless, serum IgM and IgG levels remained normal. Ex vivo analysis of 
+talin1-deficient spleen B cells indicated a necessary role for talin1 in LFA-1 
+and VLA-4 activation stimulated by canonical agonists, but not in B-cell 
+chemotaxis. Consequently, talin1 null B splenocytes could not enter lymph nodes 
+nor return to the bone marrow. Talin1 deficiency in B cells was also impaired in 
+the humoral response to a T cell-dependent antigen. Collectively, these results 
+indicate that talin1 is not required for follicular B-cell maturation in the 
+spleen or homeostatic humoral immunity but is critical for integrin-dependent B 
+lymphocyte emigration to lymph nodes and optimal immunity against T-dependent 
+antigens.","DOI: 10.1182/blood-2010-06-293506
+PMID: 20923969 [Indexed for MEDLINE]"
+"17. Braz J Med Biol Res. 2010 Jul;43(7):619-26. doi: 
+10.1590/s0100-879x2010007500057. Epub 2010 Jun 11.","The role of micro-ribonucleic acids in normal hematopoiesis and leukemic 
+T-lymphogenesis.","Slavov SN(1), Gimenes Teixeira HL, Rego EM.","Author information:
+(1)Divisão de Hematologia/Oncologia, Departamento de Clínica Médica, Faculdade 
+de Medicina de Ribeirão Preto e Instituto Nacional de Ciência e Tecnologia em 
+Células-Tronco e Terapia Celular, Universidade de São Paulo, Ribeirão Preto, SP, 
+Brasil.","Micro-ribonucleic acids (microRNAs) are small molecules containing 20-23 
+nucleotides. Despite their small size, it is likely that almost every cellular 
+process is regulated by them. Moreover, aberrant microRNA expression has been 
+involved in the development of various diseases, including cancer. Although many 
+data are available about the role of microRNAs in various lymphoproliferative 
+disorders, their impact on the development of acute lymphoblastic leukemia of 
+T-cell progenitors is largely unknown. In this review, we present recent 
+information about how specific microRNAs are expressed and regulated during 
+malignant T-lymphopoiesis and about their role during normal hematopoiesis.","DOI: 10.1590/s0100-879x2010007500057
+PMID: 20549139 [Indexed for MEDLINE]"
+18. Acta Reumatol Port. 2008 Apr-Jun;33(2):137-54.,B cells from the bench to the clinical practice.,"Moura R(1), Agua-Doce A, Weinmann P, Graça L, Fonseca JE.","Author information:
+(1)Unidade de Investigção em Reumatologia, Instituto de Medicina Molecular, 
+Faculdade de Medicina da Universidade de Lisboa.","B cells develop in bone marrow and undergo antigen-induced activation and 
+terminal differentiation in germinal centres of secondary lymphoid organs. Each 
+B cell is a clone which means that an individual B cell has a unique genetic 
+code and produces only one type of antibody when stimulated by antigen being 
+able to multiply itself and originate several B cells with the same antigen 
+specificity (clonal selection theory). However their important role in adaptive 
+immune responses is supported by the remarkable capacity of recognizing an 
+unlimited array of antigens due to mechanisms of antibody diversity such as 
+V(D)J recombination class switching and somatic hypermutation. B cells can also 
+function as antigen presenting cells that can activate T cells improving the 
+effectiveness of the immune response. Immune B cell tolerance surveillance 
+through clonal deletion anergy and receptor editing is also necessary to avoid 
+pathological conditions like autoimmune diseases. B cells can contribute to 
+autoimmunity by autoantibody production cytokine synthesis antigen presentation 
+T cell activation and ectopic lymphogenesis.",PMID: 18604182 [Indexed for MEDLINE]
+"19. J Biol Chem. 2007 Apr 27;282(17):12907-15. doi: 10.1074/jbc.M611203200. Epub 
+2007 Feb 20.","Lack of Schnurri-2 expression associates with reduced bone remodeling and 
+osteopenia.","Saita Y(1), Takagi T, Kitahara K, Usui M, Miyazono K, Ezura Y, Nakashima K, 
+Kurosawa H, Ishii S, Noda M.","Author information:
+(1)Department of Molecular Pharmacology, Medical Research Institute, Tokyo 
+Medical and Dental University, Tokyo 101-0062, Japan.","Regulation of bone remodeling determines the levels of bone mass and its 
+imbalance causes major skeletal diseases such as osteoporosis. A zinc finger 
+protein, Schnurri-2 (SHN-2), was recently demonstrated to regulate bone 
+morphogenetic protein-dependent adipogenesis and lymphogenesis. However, the 
+role of SHN-2 in bone is not known. Here, we investigated the effects of Shn-2 
+deficiency on bone metabolism and cell function in Shn-2-null mice. Lack of 
+SHN-2 expression reduced bone remodeling by suppressing both osteoblastic bone 
+formation and osteoclastic bone resorption activities in vivo. Shn-2 deficiency 
+suppressed osterix and osteocalcin expression as well as in vitro 
+mineralization. Conversely, Shn-2 overexpression enhanced osteocalcin promoter 
+activity and bone morphogenetic protein-dependent osteoblastic differentiation. 
+Shn-2 deficiency suppressed Nfatc1 and c-fos expression leading to reduction of 
+tartrate-resistant acid phosphatase-positive cell development in vivo as well as 
+in the cultures of bone marrow cells. These studies demonstrate that SHN-2 
+regulates the activities of critical transcription factors required for normal 
+bone remodeling.","DOI: 10.1074/jbc.M611203200
+PMID: 17311925 [Indexed for MEDLINE]"
+"20. Curr Opin Genet Dev. 2006 Oct;16(5):508-12. doi: 10.1016/j.gde.2006.08.001.
+Epub  2006 Aug 14.",Remodeling plans for cellular specialization: unique styles for every room.,"Kaeser MD(1), Emerson BM.","Author information:
+(1)Regulatory Biology Laboratory, The Salk Institute for Biological Studies, 
+10010 North Torrey Pines Road, La Jolla, CA 92037, USA.","Chromatin-remodeling complexes are biochemically diverse, functionally selective 
+machines that regulate crucial aspects of DNA metabolism, including 
+transcription and chromatin assembly. These complexes modulate histone-DNA 
+interactions to affect nucleosome repositioning and disassembly, and histone 
+variant exchange, thereby generating compositionally specialized chromatin. 
+Recent studies have revealed precise mechanisms by which specific remodelers 
+control the transition from proliferating progenitors to committed cells through 
+a highly synchronized switch in transcriptional programs. This involves temporal 
+and, often, signal-dependent gene-targeted interactions between individual 
+remodelers and tissue-specific master proteins that regulate myogenesis, 
+neurogenesis and lymphogenesis. Distinct remodelers have also been shown to 
+direct self-renewal of different types of stem cells in response to particular 
+microenvironments.","DOI: 10.1016/j.gde.2006.08.001
+PMID: 16905306 [Indexed for MEDLINE]"
+21. Orphanet J Rare Dis. 2006 Mar 1;1:2. doi: 10.1186/1750-1172-1-2.,"Immunodeficiency, centromeric region instability, facial anomalies syndrome 
+(ICF).","Ehrlich M(1), Jackson K, Weemaes C.","Author information:
+(1)Human Genetics Program, Tulane University Health Sciences Center 1430 Tulane 
+Ave, New Orleans, LA 70112, USA. ehrlich@tulane.edu","The Immunodeficiency, Centromeric region instability, Facial anomalies syndrome 
+(ICF) is a rare autosomal recessive disease described in about 50 patients 
+worldwide and characterized by immunodeficiency, although B cells are present, 
+and by characteristic rearrangements in the vicinity of the centromeres (the 
+juxtacentromeric heterochromatin) of chromosomes 1 and 16 and sometimes 9. Other 
+variable symptoms of this probably under-diagnosed syndrome include mild facial 
+dysmorphism, growth retardation, failure to thrive, and psychomotor retardation. 
+Serum levels of IgG, IgM, IgE, and/or IgA are low, although the type of 
+immunoglobulin deficiency is variable. Recurrent infections are the presenting 
+symptom, usually in early childhood. ICF always involves limited hypomethylation 
+of DNA and often arises from mutations in one of the DNA methyltransferase genes 
+(DNMT3B). Much of this DNA hypomethylation is in 1qh, 9qh, and 16qh, regions 
+that are the site of whole-arm deletions, chromatid and chromosome breaks, 
+stretching (decondensation), and multiradial chromosome junctions in 
+mitogen-stimulated lymphocytes. By an unknown mechanism, the DNMT3B deficiency 
+that causes ICF interferes with lymphogenesis (at a step after class switching) 
+or lymphocyte activation. With the identification of DNMT3B as the affected gene 
+in a majority of ICF patients, prenatal diagnosis of ICF is possible. However, 
+given the variety of DNMT3B mutations, a first-degree affected relative should 
+first have both alleles of this gene sequenced. Treatment almost always includes 
+regular infusions of immunoglobulins, mostly intravenously. Recently, bone 
+marrow transplantation has been tried.","DOI: 10.1186/1750-1172-1-2
+PMCID: PMC1459120
+PMID: 16722602 [Indexed for MEDLINE]"
+22. Int J Hematol. 2005 Nov;82(4):302-6. doi: 10.1532/IJH97.05095.,Regulation of acquired immune system by notch signaling.,"Minato Y(1), Yasutomo K.","Author information:
+(1)Department of Immunology & Parasitology, Institute of Health Biosciences, The 
+University of Tokushima Graduate School, Japan.","T- and B-cells are generated from hematopoietic stem cells through lymphoid 
+intermediates. The interplay of intrinsic and extrinsic signals determines cell 
+fate at the branch point for T- and B-cell lineages and at the post-commitment 
+stage of lymphogenesis. The mature lymphocytes differentiate into 
+effector/memory cells by antigen recognition, and those differentiation steps 
+are also governed by a series of cell fate choices and survival signals, which 
+allows cells to acquire distinct effector functions. The identification of the 
+molecular details that dictate lymphocyte development and differentiation will 
+improve understanding of acquired immune responses. Recent studies have revealed 
+that Notch molecules, evolutionarily conserved transmembrane receptors, play key 
+roles in lymphocyte development and differentiation. In this article, we review 
+recent knowledge regarding the roles of Notch signaling in controlling both 
+lymphocyte development and acquisition of effector functions.","DOI: 10.1532/IJH97.05095
+PMID: 16298818 [Indexed for MEDLINE]"
+"23. Vet Immunol Immunopathol. 2005 Oct 18;108(1-2):177-84. doi: 
+10.1016/j.vetimm.2005.08.013.",Lymphocyte development in fetal piglets: facts and surprises.,"Sinkora M(1), Butler JE, Holtmeier W, Sinkorova J.","Author information:
+(1)Department of Immunology and Gnotobiology, Institute of Microbiology, Czech 
+Academy of Sciences, Doly 183, 549 22 Nový Hrádek, Czech Republic. 
+Marek.Sinkora@worldonline.cz","The developing porcine fetus offers an excellent opportunity for the study of 
+lymphocyte development. Studies on B cell, alphabeta T cells and gammadelta T 
+cells in the last decade have expanded our knowledge of lymphocyte development 
+in pigs. These studies have revealed several interesting differences between 
+swine, mice and humans. For example, porcine peripheral lymphocytes include 
+CD4+CD8+ alphabeta T cells and an abundance of gammadelta T cells that may even 
+prevail over the alphabeta population. There are numerous CD2- gammadelta T 
+cells in the blood and a large number of CD8alphaalpha-bearing cells that 
+include NK cells, conventional gammadelta and alphabeta T cells. All porcine B 
+lymphocytes are CD25(lo) and sIgM+ B cells may differ in the expression of CD2 
+antigen. Unlike mice, porcine B cells appear approximately 2 weeks before T 
+cells and progenitors undergo VDJH rearrangement at 20th day of gestation (DG20) 
+in the yolk sac and DG30 in the fetal liver before consummating high level 
+lymphogenesis in the bone marrow after DG45. Early B cells show an unexpectedly 
+high proportion of in-frame rearrangements, undergo switch recombination in 
+thymus on DG60 and use N-region insertion from the time of the earliest VDJ 
+rearrangement. The genomic repertoire of VH, DH and JH genes is small compared 
+to mice and humans and swine appear to depend on junctional diversity for the 
+majority of their repertoire. The limited VH repertoire of swine contrasts 
+sharply with the porcine TCRbeta repertoire, which is extensive, extraordinarily 
+conserved and nearly identical to that in humans. Therefore, swine present an 
+example of two highly related receptor systems that have diverged in the same 
+species.","DOI: 10.1016/j.vetimm.2005.08.013
+PMID: 16144714 [Indexed for MEDLINE]"
+24. Mol Cell Biol. 2003 Apr;23(8):2969-80. doi: 10.1128/MCB.23.8.2969-2980.2003.,Mammalian twisted gastrulation is essential for skeleto-lymphogenesis.,"Nosaka T(1), Morita S, Kitamura H, Nakajima H, Shibata F, Morikawa Y, Kataoka Y, 
+Ebihara Y, Kawashima T, Itoh T, Ozaki K, Senba E, Tsuji K, Makishima F, Yoshida 
+N, Kitamura T.","Author information:
+(1)Division of Hematopoietic Factors, Advanced Clinical Research Center, 
+Institute of Medical Science, The University of Tokyo, Tokyo 108-8639, Japan. 
+tenosaka@ims.u-tokyo.ac.jp","Dorsoventral patterning depends on the local concentrations of the morphogens. 
+Twisted gastrulation (TSG) regulates the extracellular availability of a 
+mesoderm inducer, bone morphogenetic protein 4 (BMP-4). However, TSG function in 
+vivo is still unclear. We isolated a TSG cDNA as a secreted molecule from the 
+mouse aorta-gonad-mesonephros region. Here we show that TSG-deficient mice were 
+born healthy, but more than half of the neonatal pups showed severe growth 
+retardation shortly after birth and displayed dwarfism with delayed endochondral 
+ossification and lymphopenia, followed by death within a month. TSG-deficient 
+thymus was atrophic, and phosphorylation of SMAD1 was augmented in the 
+thymocytes, suggesting enhanced BMP-4 signaling in the thymus. Since BMP-4 
+promotes skeletogenesis and inhibits thymus development, our findings suggest 
+that TSG acts as both a BMP-4 agonist in skeletogenesis and a BMP-4 antagonist 
+in T-cell development. Although lymphopenia in TSG-deficient mice would partly 
+be ascribed to systemic effects of runtiness and wasting, our findings may also 
+provide a clue for understanding the pathogenesis of human dwarfism with 
+combined immunodeficiency.","DOI: 10.1128/MCB.23.8.2969-2980.2003
+PMCID: PMC152550
+PMID: 12665593 [Indexed for MEDLINE]"
+25. J Immunol. 2003 Feb 15;170(4):1781-8. doi: 10.4049/jimmunol.170.4.1781.,"Antibody repertoire development in fetal and neonatal piglets. VI. B cell 
+lymphogenesis occurs at multiple sites with differences in the frequency of 
+in-frame rearrangements.","Sinkora M(1), Sun J, Sinkorová J, Christenson RK, Ford SP, Butler JE.","Author information:
+(1)Department of Immunology and Gnotobiology, Institute of Microbiology, Czech 
+Academy of Sciences, Doly 183, 549 22 Nový Hrádek, Czech Republic. 
+Marek.Sinkora@worldonline.cz","B cell lymphogenesis in mammals occurs in various tissues during development but 
+it is generally accepted that it operates by the same mechanism in all tissues. 
+We show that in swine, the frequency of in-frame (IF) VDJ rearrangements differs 
+among yolk sac, fetal liver, spleen, early thymus, bone marrow, and late thymus. 
+All VDJ rearrangements recovered and analyzed on the 20th day of gestation 
+(DG20) from the yolk sac were 100% IF. Those recovered at DG30 in the fetal 
+liver were >90% IF, and this predominance of cells with apparently a single IF 
+rearrangement continued in all organs until approximately DG45, which 
+corresponds to the time when lymphopoiesis begins in the bone marrow. 
+Thereafter, the proportion of IF rearrangements drops to approximately 71%, 
+i.e., the value predicted whether VDJ rearrangement is random and both 
+chromosomes were involved. Unlike other tissues, VDJs recovered from thymus 
+after DG50 display a pattern suggesting no selection for IF rearrangements. 
+Regardless of differences in the proportion of IF rearrangements, we observed no 
+significant age- or tissue-dependent changes in CDR3 diversity, N region 
+additions, or other characteristics of fetal VDJs during ontogeny. These 
+findings indicate there are multiple sites of B cell lymphogenesis in fetal 
+piglets and differences in the frequency of productive VDJ rearrangements at 
+various sites. We propose the latter to result from differential selection or a 
+developmentally dependent change in the intrinsic mechanism of VDJ 
+rearrangement.","DOI: 10.4049/jimmunol.170.4.1781
+PMID: 12574342 [Indexed for MEDLINE]"
+"26. Vet Immunol Immunopathol. 2002 Sep 10;87(3-4):341-6. doi: 
+10.1016/s0165-2427(02)00062-4.",B cell development and VDJ rearrangement in the fetal pig.,"Sinkora M(1), Sinkorova J, Butler JE.","Author information:
+(1)Department of Immunology and Gnotobiology, Institute of Microbiology, Czech 
+Academy of Sciences, 549 22, Novy Hrádek, Czech Republic. 
+marek.sinkora@worldonline.cz","Hematopoietic activity of the swine has been documented in three phases during 
+fetal ontogeny. The hematopoietic system develops first in the yolk sac, then in 
+fetal liver and finally in the bone marrow. Using flow cytometry (FCM) and 
+molecular biological techniques we show that B-cell lymphogenesis and the 
+appearance of B cells follows a pattern. First, VDJ rearrangement occurs at the 
+20th day of gestation (DG20) in the yolk sac at a time when light chain 
+transcription is absent. Next, B-cell lymphogenesis is detected at DG30 in the 
+fetal liver. Thereafter, bone marrow becomes the major B lymphopoietic organ 
+(DG45). In yolk sac and fetal liver, more than 90% of the VDJ rearrangements 
+were in-frame but expression of micro heavy chain could not be clearly detected 
+by FCM. However, cells with a putative phenotype of B-cell precursors are 
+present. These cells express high levels of MHC class II (SLA-DR) and low levels 
+of CD2 and CD25. CDR3 length analysis (spectratyping) indicates that the heavy 
+chain repertoire is oligoclonal at this time with large inter-animal variations. 
+Consistent with our earlier reports, fetal VDJ rearrangements are not mutated 
+and there is no evidence for an age-dependent increase in TdT activity or a 
+change in V(H) and D(H) usage from those used by B-cells formed in the yolk sac 
+or fetal liver. However, our findings indicate major differences in the 
+regulatory environment and/or selective pressures in yolk sac and fetal liver 
+versus bone marrow. In contrast with the yolk sac and fetal liver, the 
+proportion of in-frame VDJ rearrangements in the bone marrow correspond to a 
+value indicative of random recombination.","DOI: 10.1016/s0165-2427(02)00062-4
+PMID: 12072256 [Indexed for MEDLINE]"
+27. Cell. 1998 Dec 23;95(7):891-902. doi: 10.1016/s0092-8674(00)81714-6.,"A critical role for DNA end-joining proteins in both lymphogenesis and 
+neurogenesis.","Gao Y(1), Sun Y, Frank KM, Dikkes P, Fujiwara Y, Seidl KJ, Sekiguchi JM, Rathbun 
+GA, Swat W, Wang J, Bronson RT, Malynn BA, Bryans M, Zhu C, Chaudhuri J, 
+Davidson L, Ferrini R, Stamato T, Orkin SH, Greenberg ME, Alt FW.","Author information:
+(1)Howard Hughes Medical Institute, The Children's Hospital, Department of 
+Genetics, Harvard University Medical School, Boston, Massachusetts 02115, USA.","XRCC4 was identified via a complementation cloning method that employed an 
+ionizing radiation (IR)-sensitive hamster cell line. By gene-targeted mutation, 
+we show that XRCC4 deficiency in primary murine cells causes growth defects, 
+premature senescence, IR sensitivity, and inability to support V(D)J 
+recombination. In mice, XRCC4 deficiency causes late embryonic lethality 
+accompanied by defective lymphogenesis and defective neurogenesis manifested by 
+extensive apoptotic death of newly generated postmitotic neuronal cells. We find 
+similar neuronal developmental defects in embryos that lack DNA ligase IV, an 
+XRCC4-associated protein. Our findings demonstrate that differentiating 
+lymphocytes and neurons strictly require the XRCC4 and DNA ligase IV end-joining 
+proteins and point to the general stage of neuronal development in which these 
+proteins are necessary.","DOI: 10.1016/s0092-8674(00)81714-6
+PMID: 9875844 [Indexed for MEDLINE]"
+28. J Exp Med. 1997 Aug 4;186(3):439-48. doi: 10.1084/jem.186.3.439.,Disruption of the Bcl6 gene results in an impaired germinal center formation.,"Fukuda T(1), Yoshida T, Okada S, Hatano M, Miki T, Ishibashi K, Okabe S, Koseki 
+H, Hirosawa S, Taniguchi M, Miyasaka N, Tokuhisa T.","Author information:
+(1)Division of Developmental Genetics, Center for Biomedical Science, Chiba 
+University School of Medicine, Chiba, Japan.","The Bcl6 gene has been identified from the chromosomal translocation breakpoint 
+in B cell lymphomas, and its products are expressed highly in germinal center 
+(GC) B cells. To investigate the function of Bcl6 in lymphocytes, we have 
+generated RAG1-deficient mice reconstituted with bone marrow cells from 
+Bcl6-deficient mice (Bcl6(-/-)RM). Lymphogenesis in primary lymphoid tissues of 
+Bcl6(-/-)RM is normal, and Bcl6(-/-)RM produced control levels of primary IgG1 
+antibodies specific to T cell-dependent antigens. However, GCs were not found in 
+these mice. This defect was mainly due to the abnormalities of B cells. 
+Therefore, Bcl6 is essential for the differentiation of GC B cells.","DOI: 10.1084/jem.186.3.439
+PMCID: PMC2199007
+PMID: 9236196 [Indexed for MEDLINE]"
+29. Development. 1996 Feb;122(2):555-66. doi: 10.1242/dev.122.2.555.,"Granule cell specification in the developing mouse brain as defined by 
+expression of the zinc finger transcription factor RU49.","Yang XW(1), Zhong R, Heintz N.","Author information:
+(1)Howard Hughes Medical Institute, Laboratory of Molecular Biology, Rockefeller 
+University, New York, New York 10021, USA.","The creation of specific neuronal cell types within the developing brain is a 
+critical and unsolved biological problem. Precedent from invertebrate 
+development, and from vertebrate myogenesis and lymphogenesis, has established 
+that cell specification often involves transcription factors that are expressed 
+throughout the differentiation of a given cell type. In this study, we have 
+identified in Zn2+ finger transcription factor RU49 as a definitive marker for 
+the cerebellar granule neuron lineage. Thus, RU49 is expressed in the earliest 
+granule cell progenitors at the rhombic lip as they separate from the 
+ventricular zone of the neural tube to generate a secondary proliferative 
+matrix, and it continues to be expressed in differentiating and mature granule 
+neurons. Proliferating granule cell progenitors isolated from the rhombic lip at 
+E14 or from the external germinal layer at P6 continue to express RU49 in vitro. 
+Both the olfactory bulb and dentate gyrus granule cell lineages also express 
+this factor as they are generated with the developing brain. RU49 binds a novel 
+bipartite DNA-binding element in a manner consistent with chemical rules 
+governing the DNA-binding specificity of this class of transcription factor. The 
+novel biochemical properties of RU49 and its restricted expression within the 
+three lineages of CNS granule neurons suggest that RU49 may play a critical role 
+in their specification. Furthermore, these results raise the interesting 
+possibility that the generation of these three neuronal populations to form 
+displaced germinative zones within the developing brain may reflect their use of 
+a common developmental mechanism involving RU49.","DOI: 10.1242/dev.122.2.555
+PMID: 8625807 [Indexed for MEDLINE]"
+31. Eur J Immunol. 1989 Jan;19(1):97-104. doi: 10.1002/eji.1830190116.,B cell precursors are present in the thymus during early development.,"Kimoto H(1), Shirasawa T, Taniguchi M, Takemori T.","Author information:
+(1)Division of Molecular Immunology, School of Medicine, Chiba University, 
+Japan.","An in vitro system for transforming immature lymphoid cells present in the 
+thymus at early development has been established. By phenotype analysis of the 
+transformants obtained, we observed that B cell precursors, susceptible to 
+Abelson murine leukemia virus (A-MuLV)- or Harvey murine sarcoma virus 
+(H-MuSV)-induced lymphogenesis, were present at high frequency in the fetal 
+thymus of BALB/c mice. These precursors recolonized alymphoid thymus lobes in 
+vitro, as do T cell precursors. It was further observed that B precursors in the 
+fetal liver were also capable of recolonizing alymphoid thymus lobes and were 
+stored in a thymic environment. These results suggest that stroma cells of the 
+fetal thymus may possess the capacity to support the growth of B precursors. On 
+the other hand, B cell precursors sensitive to the viral transformation were 
+undetectable in the fetal thymus of C57BL/6, although immunohistochemical 
+analysis suggested their presence. However, in the fetal liver of the same 
+strain, B precursors recolonizing alymphoid thymus in vitro were sensitive to 
+the viral transformation. Based on these results, we will discuss both the role 
+and fate of thymic B precursors. In addition, we also obtained T cell lymphomas 
+at different stages of differentiation from the fetal thymus of C57BL/6 infected 
+with A-MuLV or H-MuSV. These data indicate the usefulness of our system in 
+establishing cell lines derived from intrathymic lymphogenesis at early 
+development.","DOI: 10.1002/eji.1830190116
+PMID: 2784111 [Indexed for MEDLINE]"
