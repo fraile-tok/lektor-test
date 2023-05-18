@@ -68,8 +68,9 @@ while loop_counter <= 10:
     # update retstart to download the next chunk of abstracts
     retstart = retstart + retmax
     
-    #if retstart > total_abstract_count:
-    #   run = False
+    if retstart > total_abstract_count:
+        loop_counter = 11
+
 
 # write all_abstracts to a csv file for downstream data analysis
 with open("abstract_downloading/abstracts.csv", "wt") as abstracts_file, open ("abstract_downloading/partial_abstracts.csv", "wt") as partial_abstracts:
