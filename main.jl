@@ -51,6 +51,7 @@ function searchgenes(files, genes, resultsname) # searchgenes(array of files, ar
         # PER LINE
         for line in data_by_line #for line begins
             global para_results = [] # generates array to keep paragraph results
+            global genes_in_line = 0
             # if line is empty then skip
             if (line == "") 
                 global l += 2 # the line is skipped but the .txt paragraph numbers maintained
@@ -84,11 +85,13 @@ function searchgenes(files, genes, resultsname) # searchgenes(array of files, ar
                     if (genescore >= 1)
                         #println(gene[1], ": ", score)
                         write(resultsfile, "\n      ", gene[1], ": ", string(genescore))
+                        genes_in_line += 1
                     end
                     push!(para_results,genescore)
                 end
                 push!(para_results, linescore)
-                if (linescore >= 1)
+                push!(para_results, genes_in_line)
+                if (genes_in_line == 2)
                     write(resultsfile, "")
                     push!(results_template,para_results)
                 else 
