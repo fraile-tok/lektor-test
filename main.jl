@@ -87,13 +87,14 @@ function searchgenes(files, genes, resultsname) # searchgenes(array of files, ar
                     end
                     push!(para_results,genescore)
                 end
+                push!(para_results, linescore)
                 if (linescore >= 1)
                     write(resultsfile, "")
+                    push!(results_template,para_results)
                 else 
                     write(resultsfile, "No genes found.")
                 end #for gene ends
                 #println("\n")
-                push!(results_template,para_results)
                 global l += 1
             end
         end #for line ends
