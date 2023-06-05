@@ -1,2 +1,398 @@
-17. Verh Anat Ges. 1977;(71 Pt 1):778-81.,The structure of different organs of lymphopoesis in sterile animals.,Chlystova ZS.,PMID: 611786 [Indexed for MEDLINE]
-20. Folia Haematol Int Mag Klin Morphol Blutforsch. 1959;76:457-71.,[On the morphology and clinical aspects of lymphopoesis].,[Article in German],"BARTA I, GYENEI I, TORONDY J.",PMID: 13797167 [Indexed for MEDLINE]
+"22. bioRxiv. 2023 Mar 1:2023.02.15.528761. doi: 10.1101/2023.02.15.528761.
+Preprint.","Molecular basis for potent B cell responses to antigen displayed on particles of 
+viral size.","Brooks JF, Riggs J, Mueller JL, Mathenge R, Wholey WY, Yoda ST, Vykunta VS, 
+Cheng W, Zikherman J.","Although it has long been appreciated that multivalent antigens - and 
+particularly viral epitope display - produce extremely rapid, robust, and 
+T-independent humoral immune responses, the biochemical basis for such potency 
+has been incompletely understood. Here we take advantage of a set of neutral 
+liposomes of viral size that are engineered to display affinity mutants of the 
+model antigen (Ag) hen egg lysozyme at precisely varied density. We show that 
+particulate Ag display by liposomes induces highly potent B cell responses that 
+are dose-and density-dependent but affinity-independent. Titrating dose of 
+particulate, but not soluble, Ag reveals bimodal Erk phosphorylation and 
+cytosolic calcium increases. Particulate Ag induces signal amplification 
+downstream of the B cell receptor (BCR) by selectively evading LYN-dependent 
+inhibitory pathways, but in vitro potency is independent of CD19. Importantly, 
+Ag display on viral-sized particles signals independently of MYD88 and IRAK1/4, 
+but activates NF- κ B robustly in a manner that mimics T cell help. Together, 
+such biased signaling by particulate Ag promotes MYC expression and reduces the 
+threshold required for B cell proliferation relative to soluble Ag. These 
+findings uncover a molecular basis for highly sensitive B cell response to viral 
+Ag display and remarkable potency of virus-like particle vaccines that is not 
+merely accounted for by avidity and BCR cross-linking, and is independent of the 
+contribution of B cell nucleic acid-sensing machinery.","DOI: 10.1101/2023.02.15.528761
+PMCID: PMC9949087
+PMID: 36824873"
+"29. bioRxiv. 2023 Feb 8:2023.02.08.527716. doi: 10.1101/2023.02.08.527716.
+Preprint.",A Non-Canonical IRAK Signaling Pathway Triggered by DNA Damage.,"Li Y, Shah RB, Sarti S, Belcher AL, Lee BJ, Gorbatenko A, Nemati F, Yu I, 
+Stanley Z, Shao Z, Silva JM, Zha S, Sidi S.","Interleukin-1 receptor (IL-1R)-associated kinases (IRAKs) are core effectors of 
+Toll-like receptor (TLR) and IL-1R signaling, with no reported roles outside of 
+innate immunity. We find that vertebrate cells exposed to ionizing radiation 
+(IR) sequentially activate IRAK4 and IRAK1 through a phosphorylation cascade 
+mirroring that induced by TLR/IL-1R, resulting in a potent anti-apoptotic 
+response. However, IR-induced IRAK1 activation does not require the receptors or 
+the IRAK4/1 adaptor protein MyD88, and instead of remaining in the cytoplasm, 
+the activated kinase is immediately transported to the nucleus via a conserved 
+nuclear localization signal. We identify: double-strand DNA breaks (DSBs) as the 
+biologic trigger for this pathway; the E3 ubiquitin ligase Pellino1 as the 
+scaffold enabling IRAK4/1 activation in place of TLR/IL-1R-MyD88; and the 
+pro-apoptotic PIDDosome (PIDD1-RAIDD-caspase-2) as a critical downstream target 
+in the nucleus. The data delineate a non-canonical IRAK signaling pathway 
+derived from, or ancestral to, TLR signaling. This DSB detection pathway, which 
+is also activated by genotoxic chemotherapies, provides multiple actionable 
+targets for overcoming tumor resistance to mainstay cancer treatments.","DOI: 10.1101/2023.02.08.527716
+PMCID: PMC9934671
+PMID: 36798275"
+"50. Int Immunopharmacol. 2021 Nov;100:107946. doi: 10.1016/j.intimp.2021.107946. 
+Epub 2021 Aug 4.","Expression of concern: ""MicroRNA-206 promotes lipopolysaccharide-induced 
+inflammation injury via regulation of IRAK1 in MRC-5 cells"" [International 
+Immunopharmacology 73 (2019) 590-598].",[No authors listed],"Expression of concern for
+    Int Immunopharmacol. 2019 Aug;73:590-598.","DOI: 10.1016/j.intimp.2021.107946
+PMID: 34702572"
+"72. Onco Targets Ther. 2019 Jul 5;12:5375. doi: 10.2147/OTT.S212592. eCollection 
+2019.","The role of IRAK1 in breast cancer patients treated with neoadjuvant 
+chemotherapy [Corrigendum].",[No authors listed],"Erratum for
+    Onco Targets Ther. 2019 Mar 25;12:2171-2180.","DOI: 10.2147/OTT.S212592
+PMCID: PMC6616134
+PMID: 31308703"
+"94. Rev Bras Hematol Hemoter. 2018 Jan-Mar;40(1):92-95. doi: 
+10.1016/j.bjhh.2017.10.001. Epub 2017 Nov 28.","IRAK1 expression in bone marrow cells does not impact patient outcomes in 
+myelodysplastic syndromes.","de Melo Campos P(1), Machado-Neto JA(2), Lorand-Metze I(1), Costa FF(1), Olalla 
+Saad ST(1), Traina F(3).","Author information:
+(1)Instituto Nacional de Ciência e Tecnologia do Sangue da Universidade Estadual 
+de Campinas (Hemocentro/Unicamp), Campinas, SP, Brazil.
+(2)Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo 
+(FMRP/USP), Ribeirão Preto, SP, Brazil.
+(3)Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo 
+(FMRP/USP), Ribeirão Preto, SP, Brazil. Electronic address: ftraina@fmrp.usp.br.","DOI: 10.1016/j.bjhh.2017.10.001
+PMCID: PMC6003099
+PMID: 29519376"
+97. J Tradit Chin Med. 2017 Feb;37(1):116-23. doi: 10.1016/s0254-6272(17)30035-3.,"Mechanism studies of Xinfeng capsule on improving cardiovascular function though 
+toll-like receptor 4/nuclear factor kappa B pathway in a rat model of adjuvant 
+arthritis.","Wang Y, Liu J, Huang C, Sun Y, Zhang W, Wan L, Zong R, Wang Y.","OBJECTIVE: To observe the impact of Xinfeng capsule (XFC) on cardiovascular 
+function in adjuvant arthritis (AA) model rats and investigate the mechanism 
+though toll-like receptor 4 (TLR4)/nuclear factor kappa B (NF-κB) signaling 
+pathway.
+METHODS: Seventy rats were randomly divided into seven groups: normal control 
+(NC), model control (MC), tripterygium glycosides tablet (TPT), methotrexate 
+(MTX), high, moderate and low dose XFC group. The administration began from day 
+19 after modeling for 30 day. Paw swelling, arthritic index (AI), cardiac 
+function indexes and myocardial pathological pattern were detected. The 
+expression of TLR4, myeloid differentiation factor (MyD) 88, interleukin-1 
+receptor-associated kinase (IRAK) 1, tumor necrosis factor receptor associated 
+factor (TRAF) 6, NF-κB, tumor necrosis factor-alpha (TNF-α) proteins in 
+myocardial tissue were determined by western blot method.
+RESULTS: Paw swelling and AI in MC group increased in MC group (P < 0.01), and 
+decreased in high and moderate dose XFC groups (P < 0.01 or P > 0.05). Left 
+ventricular systolic pressure (LVSP), left ventricular end-diastolic pressure 
+(LVEDP), heart rate (HR) were elevated in MC group (P < 0.01), and ± dp/dtmax 
+and CI were reduced (P < .01); while LVSP, LVEDP and HR declined and ±dp/ dtmax, 
+CI improved in high dose XFC group (P < 0.05 or P < 0.01). LVSP in high dose XFC 
+group were reduced more than other treatment groups (P < 0.05 or P < 0.01). The 
+improvements on LVEDP, dp/ dt-max were superior to MTX and low dose XFC group, 
+and the improvement on CI was better than low dose XFC group (P < 0.05 or P < 
+0.01). Myocardial fibers arranged irregular in MC group with intracellular edema 
+and mitochondria damage. The modifications on myocardial structural were shown 
+in each treatment group, but more prominent in TPT, high and moderate dose XFC 
+group. The proteins of TLR4, MyD88, IRAK1, TRAF6, NF-κB, TNF-α were highly 
+expressed in MC group, and those proteins declined in high and moderate dose XFC 
+group (P < 0.05 or P < 0.01). High dose XFC group was superior to MTX and low 
+dose XFC group on reducing TLR4, NF-κB, TNF-α (P < 0.05).
+CONCLUSION: XFC can not only inhibit the excessive activation of TLR4/NF-κB 
+signaling pathway and the increased inflammatory mediators, but also reduce the 
+damage of myocardial tissue and cells.","DOI: 10.1016/s0254-6272(17)30035-3
+PMID: 29957982 [Indexed for MEDLINE]"
+17. J Biol Chem. 2016 Nov 18;291(47):24802. doi: 10.1074/jbc.A109.098137.,"IRAK1 and IRAK4 promote phosphorylation, ubiquitination, and degradation of 
+MyD88 adaptor-like (Mal).","Dunne A, Carpenter S, Brikos C, Gray P, Strelow A, Wesche H, Morrice N, O'Neill 
+LAJ.","Erratum for
+    J Biol Chem. 2010 Jun 11;285(24):18276-82.","DOI: 10.1074/jbc.A109.098137
+PMCID: PMC5114429
+PMID: 27864528"
+18. Biol Chem. 2017 Apr 1;398(4):499-507. doi: 10.1515/hsz-2016-0211.,"Hypoxia-induced microRNA-146a represses Bcl-2 through Traf6/IRAK1 but not Smad4 
+to promote chondrocyte autophagy.","Chen G, Gao X, Wang J, Yang C, Wang Y, Liu Y, Zou W, Liu T.","It has been shown that hypoxia stimulation promotes chondrocytes autophagy 
+partly through HIF-1α, miR-146a and Bcl-2 progressively, and this mechanism 
+represented the connection among hypoxia, miR-146a and autophagy, and provides a 
+possible therapeutic strategy for osteoarthritis. However, the interaction 
+between miR-146a and Bcl-2 is still unclear. Here in a hypoxic environment, we 
+quantified the three reported miR-146a targets: two inflammation related targets 
+Traf6, IRAK1; and the only reported target in chondrocytes Smad4. We confirmed 
+the regulative function of miR-146a between hypoxia and these genes, and 
+explored the Bcl-2 expression and autophagy level under extrinsic up-regulation 
+of these three gene separately. All the three genes were down-regulated by 
+hypoxia. Surprisingly, Traf6 and IRAK, but not the unique Smad4 in chondrocytes, 
+were restored by antagomiR-146a. Both Ad-Traf6 and Ad-IRAK1 reinstated hypoxia 
+or miR-146a repressed Bcl-2. However, Ad-Smad4 did not affect Bcl-2 in hypoxia 
+or normoxia. The autophagy level showed a reverse variability compared to Bcl-2. 
+Taken together, our results provided evidence that Smad4, the unique reported 
+target for miR-146a in chondrocytes is unusually not involved in the 
+chondrocytes autophagy, while the Traf6 and IRAK1 are the new targets for 
+miR-146a in chondrocytes during autophagy.","DOI: 10.1515/hsz-2016-0211
+PMID: 27845876 [Indexed for MEDLINE]"
+24. Pharmazie. 2016 Oct 1;71(10):583-587. doi: 10.1691/ph.2016.6512.,"TAK-242 suppresses lipopolysaccharide-induced inflammation in human coronary 
+artery endothelial cells.","Wei Z, Sun X, Xu Q, Zhang Y, Tian F, Sun H, Zheng H, Dai J.","TAK-242 (resatorvid), a novel small-molecule cyclohexene derivative, inhibits 
+TLR4 signaling selectively. TAK-242 blocked the Toll-like receptor (TLR) 
+4-triggered inflammatory signaling by binding directly to a specific amino acid 
+Cys747 in the intracellular domain of TLR4. The present study was designed to 
+examine the effects of TAK-242 on vascular inflammatory responses in human 
+coronary artery endothelial cells (HCAECs) challenged by lipopolysaccharide 
+(LPS, a TLR4 ligand). The results show that TAK-242 attenuated the LPS-induced 
+expression of interleukin (IL)-6, IL-8 and monocyte chemoattractant protein 1 
+both at the transcription and translation levels in HCAECs. LPS-induced 
+endothelial cell adhesion molecules, intercellular adhesion molecular-1 and 
+vascular cell adhesion molecule-1 expressions were also reduced by treatment 
+with TAK-242. In addition, coincubation with TAK-242 did not effect the 
+expression of TLR4 in LPS-activated HCAECs. Furthermore, TAK-242 efficiently 
+suppressed LPS-induced phosphorylation of nuclear factor κB (NF-κB) and IL-1 
+associated kinase-1 (IRAK-1) in HCAECs. These findings show that TAK-242 can 
+suppress endothelial cell inflammation, suggesting that TAK-242 might be 
+suitable for development as a therapeutic agent for inflammatory cardiovascular 
+disease.","DOI: 10.1691/ph.2016.6512
+PMID: 29441926 [Indexed for MEDLINE]"
+34. Bratisl Lek Listy. 2016;117(7):376-80. doi: 10.4149/bll_2016_074.,"The role of miR-146a on NF-κB expression level in human umbilical vein 
+endothelial cells under hyperglycemic condition.","Kamali K, Korjan ES, Eftekhar E, Malekzadeh K, Soufi FG.","Emerging studies have been shown that the expression of micrRNA-146a (miR-146a, 
+as a regulator of nuclear factor κB (NF-κB)), is changed in diabetic patients 
+and animals. This study was designed to evaluate the possible role of miR-146a 
+in the pathogenesis of diabetes-related microvascular complications. Concurrent 
+with the creation of cellular hyperglycemia (25 mmol/L for 24 h), human 
+umbilical vein endothelial cells (HUVECs) were transfected with 20 nmol/L of 
+hsa-miR-146a antagomir or scramble using HiPerFect reagent (Qiagen). D-mannitol 
+was used as osmotic control. Hyperglycemia increased the NF-κB gene expression 
+and protein activity (as an inflammation index) in cultured HUVECs. Moreover, 
+the gene expression level of miR-146a, and its target proteins, tumor necrosis 
+factor receptor-associated factor 6 (TRAF6) and interleukin-1 
+receptor-associated kinase 1 (IRAK1) were increased under hyperglycemic 
+condition. The knockdown of miR-146a by transfection of miR-146a antagomir 
+notably increased the NF-κB activity and decreased the NF-κB mRNA in 
+hyperglycemic HUVECs. Furthermore, miR-146a antagomir significantly increased 
+IRAK1 and TRAF6 mRNA levels under hyperglycemic condition. These results 
+demonstrate that the expression of miR-146a is upregulated in HUVECs during 
+early phase of hyperglycemic condition possibly to regulate the NF-κB activity 
+through inhibition of IRAK1 and TRAF6 (Fig. 4, Ref. 32).","DOI: 10.4149/bll_2016_074
+PMID: 27546538 [Indexed for MEDLINE]"
+"68. Br J Haematol. 2017 Jun;177(5):808-813. doi: 10.1111/bjh.14103. Epub 2016 Apr
+ 13.",Targeting Myddosome Assembly in Waldenstrom Macroglobulinaemia.,"Liu X(1)(2), Hunter ZR(1)(2), Xu L(1), Chen J(1), Chen JG(1), Tsakmaklis N(1), 
+Patterson CJ(1), Castillo JJ(1)(2), Buhrlage S(3), Gray N(3), Treon SP(1)(2), 
+Yang G(1)(2).","Author information:
+(1)Bing Center for Waldenstrom's Macroglobulinemia, Dana Farber Cancer 
+Institute, Boston, MA, USA.
+(2)Department of Medicine, Harvard Medical School, Boston, MA, USA.
+(3)Department of Cancer Biology, Harvard Medical School, Boston, MA, USA.","DOI: 10.1111/bjh.14103
+PMID: 27073043 [Indexed for MEDLINE]"
+77. Bratisl Lek Listy. 2016;117(3):166-70. doi: 10.4149/bll_2016_031.,MicroRNA-146a and its adapter proteins are affected by diabetes in rat's heart.,"Eftekhar E, Doustaki Zaboli M, Katebi M, Soufi FG.","OBJECTIVES: This study was conducted to explore whether microRNA-146a and its 
+adapter proteins (TNF-α receptor-associated factor 6 (TRAF6) and interleukin-1 
+receptor-associated kinase 1 (IRAK1)) are affected by diabetes in the rat heart.
+METHODS: Twelve male Sprague-Dawley rats were randomized into control and 
+diabetic groups (n = 6). Streptozotocin-nicotinamide experimental model was used 
+to induce type 2 diabetes. The gene expression of MicroRNA-146a, nuclear 
+factor-κB (NF-κB), IRAK1 and TRAF6, as well as NF-κB activity, IRAK1 and TRAF6 
+protein levels were measured. Moreover, NF-κB activity was measured in response 
+to miR-146a mimic transfection (20 nmol) in human umbilical vein endothelial 
+cells (HUVECs) under hyperglycemic condition (25 mM D-glucose for 24 h).
+RESULTS: The expression of MicroRNA-146a was increased in the heart tissue, 2 
+months after diabetes induction and in HUVECs. Also, the mRNA and protein levels 
+of NF-κB, IRAK1 and TRAF6 were increased in the heart of diabetic rats. 
+Moreover, transfection of miR-146a mimic prevented from a significant increase 
+of NF-κB activity in hyperglycemic HUVECs.
+CONCLUSION: Presumably, a defect in the regulation of IRAK1 and TRAF6 can weaken 
+miR-146a regulatory effect and provides a situation for sustained activation of 
+NF-κB and its targets to promote cardiac cells toward abnormalities (Fig. 3, 
+Ref. 28).","DOI: 10.4149/bll_2016_031
+PMID: 26925748 [Indexed for MEDLINE]"
+93. Nat Commun. 2015 Nov 20;6:10054. doi: 10.1038/ncomms10054.,"Corrigendum: IRAK1 is a therapeutic target that drives breast cancer metastasis 
+and resistance to paclitaxel.","Wee ZN, Yatim SMJM, Kohlabauer VK, Feng M, Goh JY, Bao Y, Lee PL, Zhang S, Wang 
+PP, Lim E, Tam WL, Cai Y, Ditzel HJ, Hoon DSB, Tan EY, Yu Q.","Erratum for
+    Nat Commun. 2015;6:8746. Yi, Bao [Corrected to Bao, Yi].","DOI: 10.1038/ncomms10054
+PMCID: PMC7188469
+PMID: 26585835"
+"4. J Clin Invest. 2015 Nov 2;125(11):4239-54. doi: 10.1172/JCI81203. Epub 2015
+Oct  12.","STK4 regulates TLR pathways and protects against chronic inflammation-related 
+hepatocellular carcinoma.","Li W, Xiao J, Zhou X, Xu M, Hu C, Xu X, Lu Y, Liu C, Xue S, Nie L, Zhang H, Li 
+Z, Zhang Y, Ji F, Hui L, Tao W, Wei B, Wang H.","Hepatocellular carcinoma (HCC) is frequently associated with pathogen 
+infection-induced chronic inflammation. Large numbers of innate immune cells are 
+present in HCCs and can influence disease outcome. Here, we demonstrated that 
+the tumor suppressor serine/threonine-protein kinase 4 (STK4) differentially 
+regulates TLR3/4/9-mediated inflammatory responses in macrophages and thereby is 
+protective against chronic inflammation-associated HCC. STK4 dampened 
+TLR4/9-induced proinflammatory cytokine secretion but enhanced TLR3/4-triggered 
+IFN-β production via binding to and phosphorylating IL-1 receptor-associated 
+kinase 1 (IRAK1), leading to IRAK1 degradation. Notably, macrophage-specific 
+Stk4 deletion resulted in chronic inflammation, liver fibrosis, and HCC in mice 
+treated with a combination of diethylnitrosamine (DEN) and CCl4, along with 
+either LPS or E. coli infection. STK4 expression was markedly reduced in 
+macrophages isolated from human HCC patients and was inversely associated with 
+the levels of IRAK1, IL-6, and phospho-p65 or phospho-STAT3. Moreover, serum 
+STK4 levels were specifically decreased in HCC patients with high levels of 
+IL-6. In STK4-deficient mice, treatment with an IRAK1/4 inhibitor after DEN 
+administration reduced serum IL-6 levels and liver tumor numbers to levels 
+similar to those observed in the control mice. Together, our results suggest 
+that STK4 has potential as a diagnostic biomarker and therapeutic target for 
+inflammation-induced HCC.","DOI: 10.1172/JCI81203
+PMCID: PMC4639976
+PMID: 26457732 [Indexed for MEDLINE]"
+"51. Proc Natl Acad Sci U S A. 2015 May 5;112(18):E2412. doi: 
+10.1073/pnas.1505880112. Epub 2015 Apr 16.","Correction for Yang et al., Interleukin 1 receptor-associated kinase 1 (IRAK1) 
+mutation is a common, essential driver for Kaposi sarcoma herpesvirus lymphoma.",[No authors listed],"Erratum for
+    Proc Natl Acad Sci U S A. 2014 Nov 4;111(44):E4762-8.","DOI: 10.1073/pnas.1505880112
+PMCID: PMC4426447
+PMID: 25883263"
+58. Acta Virol. 2015 Mar;59(1):64-77. doi: 10.4149/av_2015_01_64.,"Indole derivatives inhibit hepatitis C virus replication through induction of 
+pro-inflammatory cytokines.","Lee S, Jin G, Kim D, Son S, Lee K, Lee C.","Previously, we discovered a series of indole derivatives as a new class of 
+hepatitis C virus (HCV) replication inhibitors by using a target-free chemical 
+genetic strategy. Through a structure-activity relationship study, the compound 
+12e was identified as the most potent inhibitor of this class (EC50 = 1.1 
+μmol/l) with minimal cytotoxicity (CC50 = 61.8 μmol/l). In order to gain insight 
+into its detailed antiviral mechanism of action, we performed PCR array analyses 
+and found that 12e was able to activate transcription of a number of 
+pro-inflammatory as well as antiviral cytokine genes including CXCL-8, IL-1α, 
+TNF-α, IL-3, IRAK-1, and DDX58. Their induction by 12e was verified by 
+individual RT-PCR analyses. In addition, 12e was found to stimulate secretion of 
+soluble factors with anti-HCV replication activity. Among the 12e-induced 
+pro-inflammatory cytokines, CXCL-8 showed a strong positive correlation between 
+its transcriptional activation and antiviral potency. Interestingly, a 
+recombinant CXCL-8 protein also reduced HCV replication, though only moderately. 
+In conclusion, we found a novel mode of action of indole derivatives in 
+inhibiting HCV replication, particularly the induction of pro-inflammatory 
+cytokines.","DOI: 10.4149/av_2015_01_64
+PMID: 25790053 [Indexed for MEDLINE]"
+67. Tuberculosis (Edinb). 2015 Jan;95(1):60-7. doi: 10.1016/j.tube.2014.10.011.,"MicroRNA profiling of the bovine alveolar macrophage response to Mycobacterium 
+bovis infection suggests pathogen survival is enhanced by microRNA regulation of 
+endocytosis and lysosome trafficking.","Vegh P, Magee DA, Nalpas NC, Bryan K, McCabe MS, Browne JA, Conlon KM, Gordon 
+SV, Bradley DG, MacHugh DE, Lynn DJ.","Mycobacterium bovis, the causative agent of bovine tuberculosis, a major problem 
+for global agriculture, spreads via an airborne route and is taken up by 
+alveolar macrophages (AM) in the lung. Here, we describe the first 
+next-generation sequencing (RNA-seq) approach to temporally profile miRNA 
+expression in primary bovine AMs post-infection with M. bovis. One, six, and 
+forty miRNAs were identified as significantly differentially expressed at 2, 24 
+and 48 h post-infection, respectively. The differential expression of three 
+miRNAs (bta-miR-142-5p, bta-miR-146a, and bta-miR-423-3p) was confirmed by 
+RT-qPCR. Pathway analysis of the predicted mRNA targets of differentially 
+expressed miRNAs suggests that these miRNAs preferentially target several 
+pathways that are functionally relevant for mycobacterial pathogenesis, 
+including endocytosis and lysosome trafficking, IL-1 signalling and the TGF-β 
+pathway. Over-expression studies using a bovine macrophage cell-line (Bomac) 
+reveal the targeting of two key genes in the innate immune response to M. bovis, 
+IL-1 receptor-associated kinase 1 (IRAK1) and TGF-β receptor 2 (TGFBR2), by 
+miR-146. Taken together, our study suggests that miRNAs play a key role in 
+tuning the complex interplay between M. bovis survival strategies and the host 
+immune response.","DOI: 10.1016/j.tube.2014.10.011
+PMID: 25692199 [Indexed for MEDLINE]"
+"69. J Clin Invest. 2015 Mar 2;125(3):1081-97. doi: 10.1172/JCI75821. Epub 2015
+Feb  2.","Inhibition of IRAK1/4 sensitizes T cell acute lymphoblastic leukemia to 
+chemotherapies.","Li Z, Younger K, Gartenhaus R, Joseph AM, Hu F, Baer MR, Brown P, Davila E.","Signaling via the MyD88/IRAK pathway in T cells is indispensable for cell 
+survival; however, it is not known whether this pathway functions in the 
+progression of T acute lymphoblastic leukemia (T-ALL). Here, we determined that 
+compared with thymic and peripheral T cells, T-ALL cells from patients have 
+elevated levels of IRAK1 and IRAK4 mRNA as well as increased total and 
+phosphorylated protein. Targeted inhibition of IRAK1 and IRAK4, either with 
+shRNA or with a pharmacological IRAK1/4 inhibitor, dramatically impeded 
+proliferation of T-ALL cells isolated from patients and T-ALL cells in a murine 
+leukemia model; however, IRAK1/4 inhibition had little effect on cell death. We 
+screened several hundred FDA-approved compounds and identified a set of drugs 
+that had enhanced cytotoxic activity when combined with IRAK inhibition. 
+Administration of an IRAK1/4 inhibitor or IRAK knockdown in combination with 
+either ABT-737 or vincristine markedly reduced leukemia burden in mice and 
+prolonged survival. IRAK1/4 signaling activated the E3 ubiquitin ligase TRAF6, 
+increasing K63-linked ubiquitination and enhancing stability of the 
+antiapoptotic protein MCL1; therefore, IRAK inhibition reduced MCL1 stability 
+and sensitized T-ALL to combination therapy. These studies demonstrate that 
+IRAK1/4 signaling promotes T-ALL progression through stabilization of MCL1 and 
+suggest that impeding this pathway has potential as a therapeutic strategy to 
+enhance chemotherapeutic efficacy.","DOI: 10.1172/JCI75821
+PMCID: PMC4362243
+PMID: 25642772 [Indexed for MEDLINE]"
+80. Cell Commun Signal. 2014 Dec 7;12:77. doi: 10.1186/s12964-014-0077-3.,The structure function of the death domain of human IRAK-M.,"Du J, Nicolaes GA, Kruijswijk D, Versloot M, van der Poll T, van 't Veer C.","BACKGROUND: IRAK-M is an inhibitor of Toll-like receptor signaling that acts by 
+re-directing IRAK-4 activity to TAK1 independent NF-κB activation and by 
+inhibition of IRAK-1/IRAK-2 activity. IRAK-M is expressed in 
+monocytes/macrophages and lung epithelial cells. Lack of IRAK-M in mice greatly 
+improves the resistance to nosocomial pneumonia and lung tumors, which entices 
+IRAK-M as a potential therapeutic target. IRAK-M consists of an N-terminal death 
+domain (DD), a dysfunctional kinase domain and unstructured C-terminal domain. 
+Little is known however on IRAK-M's structure-function relationships.
+RESULTS: Since death domains provide the important interactions of IRAK-1, 
+IRAK-2 and IRAK-4 molecules, we generated a 3D structure model of the human 
+IRAK-M-DD (residues C5-G119) to guide mutagenesis studies and predict 
+protein-protein interaction points. First we identified the DD residues involved 
+in the endogenous capacity of IRAK-M to activate NF-κB that is displayed upon 
+overexpression in 293T cells. W74 and R97, at distinct interfaces of the 
+IRAK-M-DD, were crucial for this endogenous NF-κB activating capacity, as well 
+as the C-terminal domain (S445-E596) of IRAK-M. Resulting anti-inflammatory A20 
+and pro-inflammatory IL-8 transcription in 293T cells was W74 dependent, while 
+IL-8 protein expression was dependent on R97 and the TRAF6 binding motif at 
+P478. The IRAK-M-DD W74 and R97 binding interfaces are predicted to interact 
+with opposite sides of IRAK-4-DD's. Secondly we identified DD residues important 
+for the inhibitory action of IRAK-M by stable overexpression of mutants in THP-1 
+macrophages and H292 lung epithelial cells. IRAK-M inhibited TLR2/4-mediated 
+cytokine production in macrophages in a manner that is largely dependent on W74. 
+R97 was not involved in inhibition of TNF production but was engaged in IL-6 
+down-regulation by IRAK-M. Protein-interactive residues D19-A23, located in 
+between W74 and R97, were also observed to be crucial for inhibition of TLR2/4 
+mediated cytokine induction in macrophages. Remarkably, IRAK-M inhibited TLR5 
+mediated IL-8 production by lung epithelial cells independent of W74 and R97, 
+but dependent on D19-A23 and R70, two surface-exposed regions that harbor 
+predicted IRAK-2-DD interaction points of IRAK-M.
+CONCLUSION: IRAK-M employs alternate residues of its DD to inhibit the different 
+inflammatory mediators induced by varying TLRs and cells.","DOI: 10.1186/s12964-014-0077-3
+PMCID: PMC4273448
+PMID: 25481771 [Indexed for MEDLINE]"
+"7. J Clin Invest. 2014 Sep;124(9):3945-59. doi: 10.1172/JCI74572. Epub 2014 Jul
+25.","Shifting FcγRIIA-ITAM from activation to inhibitory configuration ameliorates 
+arthritis.","Ben Mkaddem S, Hayem G, Jönsson F, Rossato E, Boedec E, Boussetta T, El Benna J, 
+Launay P, Goujon JM, Benhamou M, Bruhns P, Monteiro RC.","Rheumatoid arthritis-associated (RA-associated) inflammation is mediated through 
+the interaction between RA IgG immune complexes and IgG Fc receptors on immune 
+cells. Polymorphisms within the gene encoding the human IgG Fc receptor IIA 
+(hFcγRIIA) are associated with an increased risk of developing RA. Within the 
+hFcγRIIA intracytoplasmic domain, there are 2 conserved tyrosine residues 
+arranged in a noncanonical immunoreceptor tyrosine-based activation motif 
+(ITAM). Here, we reveal that inhibitory engagement of the hFcγRIIA ITAM either 
+with anti-hFcγRII F(ab')2 fragments or intravenous hIgG (IVIg) ameliorates 
+RA-associated inflammation, and this effect was characteristic of previously 
+described inhibitory ITAM (ITAMi) signaling for hFcαRI and hFcγRIIIA, but only 
+involves a single tyrosine. In hFcγRIIA-expressing mice, arthritis induction was 
+inhibited following hFcγRIIA engagement. Moreover, hFcγRIIA ITAMi-signaling 
+reduced ROS and inflammatory cytokine production through inhibition of guanine 
+nucleotide exchange factor VAV-1 and IL-1 receptor-associated kinase 1 (IRAK-1), 
+respectively. ITAMi signaling was mediated by tyrosine 304 (Y304) within the 
+hFcγRIIA ITAM, which was required for recruitment of tyrosine kinase SYK and 
+tyrosine phosphatase SHP-1. Anti-hFcγRII F(ab')2 treatment of inflammatory 
+synovial cells from RA patients inhibited ROS production through induction of 
+ITAMi signaling. These data suggest that shifting constitutive hFcγRIIA-mediated 
+activation to ITAMi signaling could ameliorate RA-associated inflammation.","DOI: 10.1172/JCI74572
+PMCID: PMC4151227
+PMID: 25061875 [Indexed for MEDLINE]"
+16. Oncotarget. 2014 Apr 15;5(7):1699-700. doi: 10.18632/oncotarget.1880.,IRAK1: oncotarget in MDS and AML.,"Beverly LJ(1), Starczynowski DT.","Author information:
+(1)Department of Cancer and Cell Biology, University of Cincinnati, Division of 
+Experimental Hematology and Cancer Biology, Cincinnati Children's Hospital 
+Medical Center, Cincinnati, OH, USA.","DOI: 10.18632/oncotarget.1880
+PMCID: PMC4039125
+PMID: 24880611 [Indexed for MEDLINE]"
+21. Endocr Regul. 2014 Apr;48(2):103-8. doi: 10.4149/endo_2014_02_103.,"MicroRNA-146a expression and its intervention in NF-кB signaling pathway in 
+diabetic rat aorta.","Emadi SS, Soufi FG, Khamaneh AM, Alipour MR.","OBJECTIVE: The present study was designed to evaluate whether microRNA-146a, as 
+an NF-кB regulating factor and its adapter proteins (TRAF6 and IRAK1), are 
+affected by diabetes in rat aorta.
+METHODS: Male Wistar rats were randomly divided into control and diabetic groups 
+(n=6 in each). Diabetes was induced by a single injection of streptozotocin (55 
+mg/kg; i.p.) in 12 h fasted rats. The gene expression of microRNA-146a, NF-κB, 
+IRAK1, and TRAF6 were determined by real time PCR.
+RESULTS: The expression of microRNA-146a was down-regulated in diabetic aorta 
+when compared with the control group (p<0.05). The mRNA expression levels of 
+NF-кB, TRAF6 and IRAK1 also increased in the diabetic rat aorta when compared 
+with their control counterparts (p<0.01 for all comparisons).
+CONCLUSION: These results suggest that down-regulation of microRNA-146a may lead 
+to derangement in NF-кB negative feedback loop, propelling the aorta toward 
+inflammation.","DOI: 10.4149/endo_2014_02_103
+PMID: 24824805 [Indexed for MEDLINE]"
+55. Biochem J. 2014 Jan 1;457(1):227. doi: 10.1042/bj4570227.,"Retraction. IRAK1-independent pathways required for the interleukin-1-stimulated 
+activation of the Tpl2 catalytic subunit and its dissociation from ABIN2.",[No authors listed],"Retraction of
+    Handoyo H, Stafford MJ, McManus E, Baltzis D, Peggie M, Cohen P. Biochem J. 
+2009 Nov 15;424(1):109-18.","DOI: 10.1042/bj4570227
+PMID: 24325551"
+"11. Nat Rev Rheumatol. 2013 Apr;9(4):197. doi: 10.1038/nrrheum.2013.38. Epub 2013
+ Mar 12.","Connective tissue diseases: The MECP2/IRAK1 locus modulates SLE risk via 
+epigenetics.",Woodman I.,"Comment on
+    J Autoimmun. 2013 Mar;41:168-74.","DOI: 10.1038/nrrheum.2013.38
+PMID: 23478492"
+"41. Rheumatol Int. 2013 Dec;33(12):3069-70. doi: 10.1007/s00296-012-2579-x. Epub 
+2012 Nov 5.","IRAK1, a potential therapeutic target for rheumatoid arthritis?","Xie Q(1), Wang SC, Li J.","Author information:
+(1)School of Pharmacy, Anhui Medical University, 81 Meishan Road, Hefei, 230032, 
+Anhui, People's Republic of China.","DOI: 10.1007/s00296-012-2579-x
+PMID: 23124737 [Indexed for MEDLINE]"

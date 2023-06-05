@@ -27,10 +27,10 @@ filelist = readdir("articles/")
 popfirst!(filelist)
 
 # CSV Exporting
-results_template = CSV.read("results/results.csv", DataFrame; header=true)
+results_template = CSV.read("results/results_template.csv", DataFrame; header=true)
 
 # SearchGenes Func Declaration
-function searchgenes(files, genes, resultsname) # searchgenes(array of files, array of genes, name for the results file)
+function searchgenes(files, genes, resultsname, csvname) # searchgenes(array of files, array of genes, name for the results file)
     # GO FOR RESULTS
     cd("results/")
     resultsfile = open(resultsname, "a")
@@ -91,7 +91,8 @@ function searchgenes(files, genes, resultsname) # searchgenes(array of files, ar
                 end
                 push!(para_results, linescore)
                 push!(para_results, genes_in_line)
-                if (genes_in_line >= 2)
+                #mod here
+                if (genes_in_line == 2)
                     write(resultsfile, "")
                     push!(results_template,para_results)
                 else 
@@ -102,18 +103,18 @@ function searchgenes(files, genes, resultsname) # searchgenes(array of files, ar
             end
         end #for line ends
         cd("../results/")
-        CSV.write("results-2.csv", results_template)
+        CSV.write(csvname, results_template)
         global l = 1
         global f += 1
         #articledf = matrixtodf(article_data)
         #println(articledf) # matrix is here to be used when needed
-
+        cd("../articles")
     end
     global f = 1
     close(resultsfile)
     cd("../")
 end
 
-searchgenes(filelist, genelist, "csv_results_testing.txt")
+searchgenes(filelist, genelist, "csv_results_testing.txt", "results_twos.csv")
 
 # lo correcto es que los artículos es analizar las matrices de una vez, en el mismo script
