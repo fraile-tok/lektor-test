@@ -16,7 +16,7 @@ for row in eachrow(df)
     for i in 1:length(genes)-1
         for j in i+1:length(genes)
             # Create the gene pair as a string
-            pair = string(genes[i], "-", genes[j])
+            pair = string(genes[i], ":", genes[j])
             
             # Increment the count for the gene pair in the dictionary
             pair_counts[pair] = get(pair_counts, pair, 0) + (row[genes[i]] == 1 && row[genes[j]] == 1)
@@ -24,7 +24,16 @@ for row in eachrow(df)
     end
 end
 
-# Print the gene pair counts
+filtered_pair_counts = Dict()
+
+# Filter out pairs with count 0
 for (pair, count) in pair_counts
+    if count > 0
+        filtered_pair_counts[pair] = count
+    end
+end
+
+# Print the gene pair counts
+for (pair, count) in filtered_pair_counts
     println("$pair: $count instance(s)")
 end
