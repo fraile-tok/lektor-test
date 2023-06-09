@@ -36,11 +36,13 @@ for row in eachrow(df)
     end
 end
 
-filtered_pair_counts = Dict()
+csv_template = CSV.read("results/instance_count_template.csv", DataFrame; header=true)
 
 # Print out pairs with count > 0
 for (pair, count) in pair_counts
     if count > 0
         println("$pair: $count instance(s)")
+        push!(csv_template,(pair,count))
+        CSV.write("results/instance_count_test.csv", csv_template)
     end
 end
