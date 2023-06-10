@@ -38,8 +38,11 @@ end
 
 csv_template = CSV.read("results/instance_count_template.csv", DataFrame; header=true)
 
+# Sort the gene pair counts in descending order based on count
+sorted_pair_counts = sort(collect(pair_counts), by = x -> x[2], rev = true)
+
 # Print out pairs with count > 0
-for (pair, count) in pair_counts
+for (pair, count) in sorted_pair_counts
     if count > 0
         println("$pair: $count instance(s)")
         push!(csv_template,(pair,count))
