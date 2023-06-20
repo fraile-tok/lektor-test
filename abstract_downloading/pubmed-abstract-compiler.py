@@ -32,7 +32,7 @@ total_abstract_count = int(re.findall("<Count>(\d+?)</Count>",search_data)[0])
 
 # efetch settings
 fetch_eutil = 'efetch.fcgi?'
-retmax = 99
+retmax = 100
 retstart = 0
 fetch_retmode = "&retmode=text"
 fetch_rettype = "&rettype=abstract"
@@ -47,7 +47,7 @@ run = True
 all_abstracts = list()
 loop_counter = 1
 
-while loop_counter <= 10:
+while loop_counter <= 100:
     print("this is efetch run number " + str(loop_counter))
     loop_counter += 1
     fetch_retstart = "&retstart=" + str(retstart)
@@ -69,7 +69,7 @@ while loop_counter <= 10:
     retstart = retstart + retmax
     
     if retstart > total_abstract_count:
-        loop_counter = 11
+        loop_counter = 101
 
 
 # write all_abstracts to a csv file for downstream data analysis
