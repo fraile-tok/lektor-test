@@ -1,398 +1,805 @@
-"22. bioRxiv. 2023 Mar 1:2023.02.15.528761. doi: 10.1101/2023.02.15.528761.
-Preprint.","Molecular basis for potent B cell responses to antigen displayed on particles of 
-viral size.","Brooks JF, Riggs J, Mueller JL, Mathenge R, Wholey WY, Yoda ST, Vykunta VS, 
-Cheng W, Zikherman J.","Although it has long been appreciated that multivalent antigens - and 
-particularly viral epitope display - produce extremely rapid, robust, and 
-T-independent humoral immune responses, the biochemical basis for such potency 
-has been incompletely understood. Here we take advantage of a set of neutral 
-liposomes of viral size that are engineered to display affinity mutants of the 
-model antigen (Ag) hen egg lysozyme at precisely varied density. We show that 
-particulate Ag display by liposomes induces highly potent B cell responses that 
-are dose-and density-dependent but affinity-independent. Titrating dose of 
-particulate, but not soluble, Ag reveals bimodal Erk phosphorylation and 
-cytosolic calcium increases. Particulate Ag induces signal amplification 
-downstream of the B cell receptor (BCR) by selectively evading LYN-dependent 
-inhibitory pathways, but in vitro potency is independent of CD19. Importantly, 
-Ag display on viral-sized particles signals independently of MYD88 and IRAK1/4, 
-but activates NF- κ B robustly in a manner that mimics T cell help. Together, 
-such biased signaling by particulate Ag promotes MYC expression and reduces the 
-threshold required for B cell proliferation relative to soluble Ag. These 
-findings uncover a molecular basis for highly sensitive B cell response to viral 
-Ag display and remarkable potency of virus-like particle vaccines that is not 
-merely accounted for by avidity and BCR cross-linking, and is independent of the 
-contribution of B cell nucleic acid-sensing machinery.","DOI: 10.1101/2023.02.15.528761
-PMCID: PMC9949087
-PMID: 36824873"
-"29. bioRxiv. 2023 Feb 8:2023.02.08.527716. doi: 10.1101/2023.02.08.527716.
-Preprint.",A Non-Canonical IRAK Signaling Pathway Triggered by DNA Damage.,"Li Y, Shah RB, Sarti S, Belcher AL, Lee BJ, Gorbatenko A, Nemati F, Yu I, 
-Stanley Z, Shao Z, Silva JM, Zha S, Sidi S.","Interleukin-1 receptor (IL-1R)-associated kinases (IRAKs) are core effectors of 
-Toll-like receptor (TLR) and IL-1R signaling, with no reported roles outside of 
-innate immunity. We find that vertebrate cells exposed to ionizing radiation 
-(IR) sequentially activate IRAK4 and IRAK1 through a phosphorylation cascade 
-mirroring that induced by TLR/IL-1R, resulting in a potent anti-apoptotic 
-response. However, IR-induced IRAK1 activation does not require the receptors or 
-the IRAK4/1 adaptor protein MyD88, and instead of remaining in the cytoplasm, 
-the activated kinase is immediately transported to the nucleus via a conserved 
-nuclear localization signal. We identify: double-strand DNA breaks (DSBs) as the 
-biologic trigger for this pathway; the E3 ubiquitin ligase Pellino1 as the 
-scaffold enabling IRAK4/1 activation in place of TLR/IL-1R-MyD88; and the 
-pro-apoptotic PIDDosome (PIDD1-RAIDD-caspase-2) as a critical downstream target 
-in the nucleus. The data delineate a non-canonical IRAK signaling pathway 
-derived from, or ancestral to, TLR signaling. This DSB detection pathway, which 
-is also activated by genotoxic chemotherapies, provides multiple actionable 
-targets for overcoming tumor resistance to mainstay cancer treatments.","DOI: 10.1101/2023.02.08.527716
-PMCID: PMC9934671
-PMID: 36798275"
-"50. Int Immunopharmacol. 2021 Nov;100:107946. doi: 10.1016/j.intimp.2021.107946. 
-Epub 2021 Aug 4.","Expression of concern: ""MicroRNA-206 promotes lipopolysaccharide-induced 
-inflammation injury via regulation of IRAK1 in MRC-5 cells"" [International 
-Immunopharmacology 73 (2019) 590-598].",[No authors listed],"Expression of concern for
-    Int Immunopharmacol. 2019 Aug;73:590-598.","DOI: 10.1016/j.intimp.2021.107946
-PMID: 34702572"
-"72. Onco Targets Ther. 2019 Jul 5;12:5375. doi: 10.2147/OTT.S212592. eCollection 
-2019.","The role of IRAK1 in breast cancer patients treated with neoadjuvant 
-chemotherapy [Corrigendum].",[No authors listed],"Erratum for
-    Onco Targets Ther. 2019 Mar 25;12:2171-2180.","DOI: 10.2147/OTT.S212592
-PMCID: PMC6616134
-PMID: 31308703"
-"94. Rev Bras Hematol Hemoter. 2018 Jan-Mar;40(1):92-95. doi: 
-10.1016/j.bjhh.2017.10.001. Epub 2017 Nov 28.","IRAK1 expression in bone marrow cells does not impact patient outcomes in 
-myelodysplastic syndromes.","de Melo Campos P(1), Machado-Neto JA(2), Lorand-Metze I(1), Costa FF(1), Olalla 
-Saad ST(1), Traina F(3).","Author information:
-(1)Instituto Nacional de Ciência e Tecnologia do Sangue da Universidade Estadual 
-de Campinas (Hemocentro/Unicamp), Campinas, SP, Brazil.
-(2)Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo 
-(FMRP/USP), Ribeirão Preto, SP, Brazil.
-(3)Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo 
-(FMRP/USP), Ribeirão Preto, SP, Brazil. Electronic address: ftraina@fmrp.usp.br.","DOI: 10.1016/j.bjhh.2017.10.001
-PMCID: PMC6003099
-PMID: 29519376"
-97. J Tradit Chin Med. 2017 Feb;37(1):116-23. doi: 10.1016/s0254-6272(17)30035-3.,"Mechanism studies of Xinfeng capsule on improving cardiovascular function though 
-toll-like receptor 4/nuclear factor kappa B pathway in a rat model of adjuvant 
-arthritis.","Wang Y, Liu J, Huang C, Sun Y, Zhang W, Wan L, Zong R, Wang Y.","OBJECTIVE: To observe the impact of Xinfeng capsule (XFC) on cardiovascular 
-function in adjuvant arthritis (AA) model rats and investigate the mechanism 
-though toll-like receptor 4 (TLR4)/nuclear factor kappa B (NF-κB) signaling 
-pathway.
-METHODS: Seventy rats were randomly divided into seven groups: normal control 
-(NC), model control (MC), tripterygium glycosides tablet (TPT), methotrexate 
-(MTX), high, moderate and low dose XFC group. The administration began from day 
-19 after modeling for 30 day. Paw swelling, arthritic index (AI), cardiac 
-function indexes and myocardial pathological pattern were detected. The 
-expression of TLR4, myeloid differentiation factor (MyD) 88, interleukin-1 
-receptor-associated kinase (IRAK) 1, tumor necrosis factor receptor associated 
-factor (TRAF) 6, NF-κB, tumor necrosis factor-alpha (TNF-α) proteins in 
-myocardial tissue were determined by western blot method.
-RESULTS: Paw swelling and AI in MC group increased in MC group (P < 0.01), and 
-decreased in high and moderate dose XFC groups (P < 0.01 or P > 0.05). Left 
-ventricular systolic pressure (LVSP), left ventricular end-diastolic pressure 
-(LVEDP), heart rate (HR) were elevated in MC group (P < 0.01), and ± dp/dtmax 
-and CI were reduced (P < .01); while LVSP, LVEDP and HR declined and ±dp/ dtmax, 
-CI improved in high dose XFC group (P < 0.05 or P < 0.01). LVSP in high dose XFC 
-group were reduced more than other treatment groups (P < 0.05 or P < 0.01). The 
-improvements on LVEDP, dp/ dt-max were superior to MTX and low dose XFC group, 
-and the improvement on CI was better than low dose XFC group (P < 0.05 or P < 
-0.01). Myocardial fibers arranged irregular in MC group with intracellular edema 
-and mitochondria damage. The modifications on myocardial structural were shown 
-in each treatment group, but more prominent in TPT, high and moderate dose XFC 
-group. The proteins of TLR4, MyD88, IRAK1, TRAF6, NF-κB, TNF-α were highly 
-expressed in MC group, and those proteins declined in high and moderate dose XFC 
-group (P < 0.05 or P < 0.01). High dose XFC group was superior to MTX and low 
-dose XFC group on reducing TLR4, NF-κB, TNF-α (P < 0.05).
-CONCLUSION: XFC can not only inhibit the excessive activation of TLR4/NF-κB 
-signaling pathway and the increased inflammatory mediators, but also reduce the 
-damage of myocardial tissue and cells.","DOI: 10.1016/s0254-6272(17)30035-3
-PMID: 29957982 [Indexed for MEDLINE]"
-17. J Biol Chem. 2016 Nov 18;291(47):24802. doi: 10.1074/jbc.A109.098137.,"IRAK1 and IRAK4 promote phosphorylation, ubiquitination, and degradation of 
-MyD88 adaptor-like (Mal).","Dunne A, Carpenter S, Brikos C, Gray P, Strelow A, Wesche H, Morrice N, O'Neill 
-LAJ.","Erratum for
-    J Biol Chem. 2010 Jun 11;285(24):18276-82.","DOI: 10.1074/jbc.A109.098137
-PMCID: PMC5114429
-PMID: 27864528"
-18. Biol Chem. 2017 Apr 1;398(4):499-507. doi: 10.1515/hsz-2016-0211.,"Hypoxia-induced microRNA-146a represses Bcl-2 through Traf6/IRAK1 but not Smad4 
-to promote chondrocyte autophagy.","Chen G, Gao X, Wang J, Yang C, Wang Y, Liu Y, Zou W, Liu T.","It has been shown that hypoxia stimulation promotes chondrocytes autophagy 
-partly through HIF-1α, miR-146a and Bcl-2 progressively, and this mechanism 
-represented the connection among hypoxia, miR-146a and autophagy, and provides a 
-possible therapeutic strategy for osteoarthritis. However, the interaction 
-between miR-146a and Bcl-2 is still unclear. Here in a hypoxic environment, we 
-quantified the three reported miR-146a targets: two inflammation related targets 
-Traf6, IRAK1; and the only reported target in chondrocytes Smad4. We confirmed 
-the regulative function of miR-146a between hypoxia and these genes, and 
-explored the Bcl-2 expression and autophagy level under extrinsic up-regulation 
-of these three gene separately. All the three genes were down-regulated by 
-hypoxia. Surprisingly, Traf6 and IRAK, but not the unique Smad4 in chondrocytes, 
-were restored by antagomiR-146a. Both Ad-Traf6 and Ad-IRAK1 reinstated hypoxia 
-or miR-146a repressed Bcl-2. However, Ad-Smad4 did not affect Bcl-2 in hypoxia 
-or normoxia. The autophagy level showed a reverse variability compared to Bcl-2. 
-Taken together, our results provided evidence that Smad4, the unique reported 
-target for miR-146a in chondrocytes is unusually not involved in the 
-chondrocytes autophagy, while the Traf6 and IRAK1 are the new targets for 
-miR-146a in chondrocytes during autophagy.","DOI: 10.1515/hsz-2016-0211
-PMID: 27845876 [Indexed for MEDLINE]"
-24. Pharmazie. 2016 Oct 1;71(10):583-587. doi: 10.1691/ph.2016.6512.,"TAK-242 suppresses lipopolysaccharide-induced inflammation in human coronary 
-artery endothelial cells.","Wei Z, Sun X, Xu Q, Zhang Y, Tian F, Sun H, Zheng H, Dai J.","TAK-242 (resatorvid), a novel small-molecule cyclohexene derivative, inhibits 
-TLR4 signaling selectively. TAK-242 blocked the Toll-like receptor (TLR) 
-4-triggered inflammatory signaling by binding directly to a specific amino acid 
-Cys747 in the intracellular domain of TLR4. The present study was designed to 
-examine the effects of TAK-242 on vascular inflammatory responses in human 
-coronary artery endothelial cells (HCAECs) challenged by lipopolysaccharide 
-(LPS, a TLR4 ligand). The results show that TAK-242 attenuated the LPS-induced 
-expression of interleukin (IL)-6, IL-8 and monocyte chemoattractant protein 1 
-both at the transcription and translation levels in HCAECs. LPS-induced 
-endothelial cell adhesion molecules, intercellular adhesion molecular-1 and 
-vascular cell adhesion molecule-1 expressions were also reduced by treatment 
-with TAK-242. In addition, coincubation with TAK-242 did not effect the 
-expression of TLR4 in LPS-activated HCAECs. Furthermore, TAK-242 efficiently 
-suppressed LPS-induced phosphorylation of nuclear factor κB (NF-κB) and IL-1 
-associated kinase-1 (IRAK-1) in HCAECs. These findings show that TAK-242 can 
-suppress endothelial cell inflammation, suggesting that TAK-242 might be 
-suitable for development as a therapeutic agent for inflammatory cardiovascular 
-disease.","DOI: 10.1691/ph.2016.6512
-PMID: 29441926 [Indexed for MEDLINE]"
-34. Bratisl Lek Listy. 2016;117(7):376-80. doi: 10.4149/bll_2016_074.,"The role of miR-146a on NF-κB expression level in human umbilical vein 
-endothelial cells under hyperglycemic condition.","Kamali K, Korjan ES, Eftekhar E, Malekzadeh K, Soufi FG.","Emerging studies have been shown that the expression of micrRNA-146a (miR-146a, 
-as a regulator of nuclear factor κB (NF-κB)), is changed in diabetic patients 
-and animals. This study was designed to evaluate the possible role of miR-146a 
-in the pathogenesis of diabetes-related microvascular complications. Concurrent 
-with the creation of cellular hyperglycemia (25 mmol/L for 24 h), human 
-umbilical vein endothelial cells (HUVECs) were transfected with 20 nmol/L of 
-hsa-miR-146a antagomir or scramble using HiPerFect reagent (Qiagen). D-mannitol 
-was used as osmotic control. Hyperglycemia increased the NF-κB gene expression 
-and protein activity (as an inflammation index) in cultured HUVECs. Moreover, 
-the gene expression level of miR-146a, and its target proteins, tumor necrosis 
-factor receptor-associated factor 6 (TRAF6) and interleukin-1 
-receptor-associated kinase 1 (IRAK1) were increased under hyperglycemic 
-condition. The knockdown of miR-146a by transfection of miR-146a antagomir 
-notably increased the NF-κB activity and decreased the NF-κB mRNA in 
-hyperglycemic HUVECs. Furthermore, miR-146a antagomir significantly increased 
-IRAK1 and TRAF6 mRNA levels under hyperglycemic condition. These results 
-demonstrate that the expression of miR-146a is upregulated in HUVECs during 
-early phase of hyperglycemic condition possibly to regulate the NF-κB activity 
-through inhibition of IRAK1 and TRAF6 (Fig. 4, Ref. 32).","DOI: 10.4149/bll_2016_074
-PMID: 27546538 [Indexed for MEDLINE]"
-"68. Br J Haematol. 2017 Jun;177(5):808-813. doi: 10.1111/bjh.14103. Epub 2016 Apr
- 13.",Targeting Myddosome Assembly in Waldenstrom Macroglobulinaemia.,"Liu X(1)(2), Hunter ZR(1)(2), Xu L(1), Chen J(1), Chen JG(1), Tsakmaklis N(1), 
-Patterson CJ(1), Castillo JJ(1)(2), Buhrlage S(3), Gray N(3), Treon SP(1)(2), 
-Yang G(1)(2).","Author information:
-(1)Bing Center for Waldenstrom's Macroglobulinemia, Dana Farber Cancer 
-Institute, Boston, MA, USA.
-(2)Department of Medicine, Harvard Medical School, Boston, MA, USA.
-(3)Department of Cancer Biology, Harvard Medical School, Boston, MA, USA.","DOI: 10.1111/bjh.14103
-PMID: 27073043 [Indexed for MEDLINE]"
-77. Bratisl Lek Listy. 2016;117(3):166-70. doi: 10.4149/bll_2016_031.,MicroRNA-146a and its adapter proteins are affected by diabetes in rat's heart.,"Eftekhar E, Doustaki Zaboli M, Katebi M, Soufi FG.","OBJECTIVES: This study was conducted to explore whether microRNA-146a and its 
-adapter proteins (TNF-α receptor-associated factor 6 (TRAF6) and interleukin-1 
-receptor-associated kinase 1 (IRAK1)) are affected by diabetes in the rat heart.
-METHODS: Twelve male Sprague-Dawley rats were randomized into control and 
-diabetic groups (n = 6). Streptozotocin-nicotinamide experimental model was used 
-to induce type 2 diabetes. The gene expression of MicroRNA-146a, nuclear 
-factor-κB (NF-κB), IRAK1 and TRAF6, as well as NF-κB activity, IRAK1 and TRAF6 
-protein levels were measured. Moreover, NF-κB activity was measured in response 
-to miR-146a mimic transfection (20 nmol) in human umbilical vein endothelial 
-cells (HUVECs) under hyperglycemic condition (25 mM D-glucose for 24 h).
-RESULTS: The expression of MicroRNA-146a was increased in the heart tissue, 2 
-months after diabetes induction and in HUVECs. Also, the mRNA and protein levels 
-of NF-κB, IRAK1 and TRAF6 were increased in the heart of diabetic rats. 
-Moreover, transfection of miR-146a mimic prevented from a significant increase 
-of NF-κB activity in hyperglycemic HUVECs.
-CONCLUSION: Presumably, a defect in the regulation of IRAK1 and TRAF6 can weaken 
-miR-146a regulatory effect and provides a situation for sustained activation of 
-NF-κB and its targets to promote cardiac cells toward abnormalities (Fig. 3, 
-Ref. 28).","DOI: 10.4149/bll_2016_031
-PMID: 26925748 [Indexed for MEDLINE]"
-93. Nat Commun. 2015 Nov 20;6:10054. doi: 10.1038/ncomms10054.,"Corrigendum: IRAK1 is a therapeutic target that drives breast cancer metastasis 
-and resistance to paclitaxel.","Wee ZN, Yatim SMJM, Kohlabauer VK, Feng M, Goh JY, Bao Y, Lee PL, Zhang S, Wang 
-PP, Lim E, Tam WL, Cai Y, Ditzel HJ, Hoon DSB, Tan EY, Yu Q.","Erratum for
-    Nat Commun. 2015;6:8746. Yi, Bao [Corrected to Bao, Yi].","DOI: 10.1038/ncomms10054
-PMCID: PMC7188469
-PMID: 26585835"
-"4. J Clin Invest. 2015 Nov 2;125(11):4239-54. doi: 10.1172/JCI81203. Epub 2015
-Oct  12.","STK4 regulates TLR pathways and protects against chronic inflammation-related 
-hepatocellular carcinoma.","Li W, Xiao J, Zhou X, Xu M, Hu C, Xu X, Lu Y, Liu C, Xue S, Nie L, Zhang H, Li 
-Z, Zhang Y, Ji F, Hui L, Tao W, Wei B, Wang H.","Hepatocellular carcinoma (HCC) is frequently associated with pathogen 
-infection-induced chronic inflammation. Large numbers of innate immune cells are 
-present in HCCs and can influence disease outcome. Here, we demonstrated that 
-the tumor suppressor serine/threonine-protein kinase 4 (STK4) differentially 
-regulates TLR3/4/9-mediated inflammatory responses in macrophages and thereby is 
-protective against chronic inflammation-associated HCC. STK4 dampened 
-TLR4/9-induced proinflammatory cytokine secretion but enhanced TLR3/4-triggered 
-IFN-β production via binding to and phosphorylating IL-1 receptor-associated 
-kinase 1 (IRAK1), leading to IRAK1 degradation. Notably, macrophage-specific 
-Stk4 deletion resulted in chronic inflammation, liver fibrosis, and HCC in mice 
-treated with a combination of diethylnitrosamine (DEN) and CCl4, along with 
-either LPS or E. coli infection. STK4 expression was markedly reduced in 
-macrophages isolated from human HCC patients and was inversely associated with 
-the levels of IRAK1, IL-6, and phospho-p65 or phospho-STAT3. Moreover, serum 
-STK4 levels were specifically decreased in HCC patients with high levels of 
-IL-6. In STK4-deficient mice, treatment with an IRAK1/4 inhibitor after DEN 
-administration reduced serum IL-6 levels and liver tumor numbers to levels 
-similar to those observed in the control mice. Together, our results suggest 
-that STK4 has potential as a diagnostic biomarker and therapeutic target for 
-inflammation-induced HCC.","DOI: 10.1172/JCI81203
-PMCID: PMC4639976
-PMID: 26457732 [Indexed for MEDLINE]"
-"51. Proc Natl Acad Sci U S A. 2015 May 5;112(18):E2412. doi: 
-10.1073/pnas.1505880112. Epub 2015 Apr 16.","Correction for Yang et al., Interleukin 1 receptor-associated kinase 1 (IRAK1) 
-mutation is a common, essential driver for Kaposi sarcoma herpesvirus lymphoma.",[No authors listed],"Erratum for
-    Proc Natl Acad Sci U S A. 2014 Nov 4;111(44):E4762-8.","DOI: 10.1073/pnas.1505880112
-PMCID: PMC4426447
-PMID: 25883263"
-58. Acta Virol. 2015 Mar;59(1):64-77. doi: 10.4149/av_2015_01_64.,"Indole derivatives inhibit hepatitis C virus replication through induction of 
-pro-inflammatory cytokines.","Lee S, Jin G, Kim D, Son S, Lee K, Lee C.","Previously, we discovered a series of indole derivatives as a new class of 
-hepatitis C virus (HCV) replication inhibitors by using a target-free chemical 
-genetic strategy. Through a structure-activity relationship study, the compound 
-12e was identified as the most potent inhibitor of this class (EC50 = 1.1 
-μmol/l) with minimal cytotoxicity (CC50 = 61.8 μmol/l). In order to gain insight 
-into its detailed antiviral mechanism of action, we performed PCR array analyses 
-and found that 12e was able to activate transcription of a number of 
-pro-inflammatory as well as antiviral cytokine genes including CXCL-8, IL-1α, 
-TNF-α, IL-3, IRAK-1, and DDX58. Their induction by 12e was verified by 
-individual RT-PCR analyses. In addition, 12e was found to stimulate secretion of 
-soluble factors with anti-HCV replication activity. Among the 12e-induced 
-pro-inflammatory cytokines, CXCL-8 showed a strong positive correlation between 
-its transcriptional activation and antiviral potency. Interestingly, a 
-recombinant CXCL-8 protein also reduced HCV replication, though only moderately. 
-In conclusion, we found a novel mode of action of indole derivatives in 
-inhibiting HCV replication, particularly the induction of pro-inflammatory 
-cytokines.","DOI: 10.4149/av_2015_01_64
-PMID: 25790053 [Indexed for MEDLINE]"
-67. Tuberculosis (Edinb). 2015 Jan;95(1):60-7. doi: 10.1016/j.tube.2014.10.011.,"MicroRNA profiling of the bovine alveolar macrophage response to Mycobacterium 
-bovis infection suggests pathogen survival is enhanced by microRNA regulation of 
-endocytosis and lysosome trafficking.","Vegh P, Magee DA, Nalpas NC, Bryan K, McCabe MS, Browne JA, Conlon KM, Gordon 
-SV, Bradley DG, MacHugh DE, Lynn DJ.","Mycobacterium bovis, the causative agent of bovine tuberculosis, a major problem 
-for global agriculture, spreads via an airborne route and is taken up by 
-alveolar macrophages (AM) in the lung. Here, we describe the first 
-next-generation sequencing (RNA-seq) approach to temporally profile miRNA 
-expression in primary bovine AMs post-infection with M. bovis. One, six, and 
-forty miRNAs were identified as significantly differentially expressed at 2, 24 
-and 48 h post-infection, respectively. The differential expression of three 
-miRNAs (bta-miR-142-5p, bta-miR-146a, and bta-miR-423-3p) was confirmed by 
-RT-qPCR. Pathway analysis of the predicted mRNA targets of differentially 
-expressed miRNAs suggests that these miRNAs preferentially target several 
-pathways that are functionally relevant for mycobacterial pathogenesis, 
-including endocytosis and lysosome trafficking, IL-1 signalling and the TGF-β 
-pathway. Over-expression studies using a bovine macrophage cell-line (Bomac) 
-reveal the targeting of two key genes in the innate immune response to M. bovis, 
-IL-1 receptor-associated kinase 1 (IRAK1) and TGF-β receptor 2 (TGFBR2), by 
-miR-146. Taken together, our study suggests that miRNAs play a key role in 
-tuning the complex interplay between M. bovis survival strategies and the host 
-immune response.","DOI: 10.1016/j.tube.2014.10.011
-PMID: 25692199 [Indexed for MEDLINE]"
-"69. J Clin Invest. 2015 Mar 2;125(3):1081-97. doi: 10.1172/JCI75821. Epub 2015
-Feb  2.","Inhibition of IRAK1/4 sensitizes T cell acute lymphoblastic leukemia to 
-chemotherapies.","Li Z, Younger K, Gartenhaus R, Joseph AM, Hu F, Baer MR, Brown P, Davila E.","Signaling via the MyD88/IRAK pathway in T cells is indispensable for cell 
-survival; however, it is not known whether this pathway functions in the 
-progression of T acute lymphoblastic leukemia (T-ALL). Here, we determined that 
-compared with thymic and peripheral T cells, T-ALL cells from patients have 
-elevated levels of IRAK1 and IRAK4 mRNA as well as increased total and 
-phosphorylated protein. Targeted inhibition of IRAK1 and IRAK4, either with 
-shRNA or with a pharmacological IRAK1/4 inhibitor, dramatically impeded 
-proliferation of T-ALL cells isolated from patients and T-ALL cells in a murine 
-leukemia model; however, IRAK1/4 inhibition had little effect on cell death. We 
-screened several hundred FDA-approved compounds and identified a set of drugs 
-that had enhanced cytotoxic activity when combined with IRAK inhibition. 
-Administration of an IRAK1/4 inhibitor or IRAK knockdown in combination with 
-either ABT-737 or vincristine markedly reduced leukemia burden in mice and 
-prolonged survival. IRAK1/4 signaling activated the E3 ubiquitin ligase TRAF6, 
-increasing K63-linked ubiquitination and enhancing stability of the 
-antiapoptotic protein MCL1; therefore, IRAK inhibition reduced MCL1 stability 
-and sensitized T-ALL to combination therapy. These studies demonstrate that 
-IRAK1/4 signaling promotes T-ALL progression through stabilization of MCL1 and 
-suggest that impeding this pathway has potential as a therapeutic strategy to 
-enhance chemotherapeutic efficacy.","DOI: 10.1172/JCI75821
-PMCID: PMC4362243
-PMID: 25642772 [Indexed for MEDLINE]"
-80. Cell Commun Signal. 2014 Dec 7;12:77. doi: 10.1186/s12964-014-0077-3.,The structure function of the death domain of human IRAK-M.,"Du J, Nicolaes GA, Kruijswijk D, Versloot M, van der Poll T, van 't Veer C.","BACKGROUND: IRAK-M is an inhibitor of Toll-like receptor signaling that acts by 
-re-directing IRAK-4 activity to TAK1 independent NF-κB activation and by 
-inhibition of IRAK-1/IRAK-2 activity. IRAK-M is expressed in 
-monocytes/macrophages and lung epithelial cells. Lack of IRAK-M in mice greatly 
-improves the resistance to nosocomial pneumonia and lung tumors, which entices 
-IRAK-M as a potential therapeutic target. IRAK-M consists of an N-terminal death 
-domain (DD), a dysfunctional kinase domain and unstructured C-terminal domain. 
-Little is known however on IRAK-M's structure-function relationships.
-RESULTS: Since death domains provide the important interactions of IRAK-1, 
-IRAK-2 and IRAK-4 molecules, we generated a 3D structure model of the human 
-IRAK-M-DD (residues C5-G119) to guide mutagenesis studies and predict 
-protein-protein interaction points. First we identified the DD residues involved 
-in the endogenous capacity of IRAK-M to activate NF-κB that is displayed upon 
-overexpression in 293T cells. W74 and R97, at distinct interfaces of the 
-IRAK-M-DD, were crucial for this endogenous NF-κB activating capacity, as well 
-as the C-terminal domain (S445-E596) of IRAK-M. Resulting anti-inflammatory A20 
-and pro-inflammatory IL-8 transcription in 293T cells was W74 dependent, while 
-IL-8 protein expression was dependent on R97 and the TRAF6 binding motif at 
-P478. The IRAK-M-DD W74 and R97 binding interfaces are predicted to interact 
-with opposite sides of IRAK-4-DD's. Secondly we identified DD residues important 
-for the inhibitory action of IRAK-M by stable overexpression of mutants in THP-1 
-macrophages and H292 lung epithelial cells. IRAK-M inhibited TLR2/4-mediated 
-cytokine production in macrophages in a manner that is largely dependent on W74. 
-R97 was not involved in inhibition of TNF production but was engaged in IL-6 
-down-regulation by IRAK-M. Protein-interactive residues D19-A23, located in 
-between W74 and R97, were also observed to be crucial for inhibition of TLR2/4 
-mediated cytokine induction in macrophages. Remarkably, IRAK-M inhibited TLR5 
-mediated IL-8 production by lung epithelial cells independent of W74 and R97, 
-but dependent on D19-A23 and R70, two surface-exposed regions that harbor 
-predicted IRAK-2-DD interaction points of IRAK-M.
-CONCLUSION: IRAK-M employs alternate residues of its DD to inhibit the different 
-inflammatory mediators induced by varying TLRs and cells.","DOI: 10.1186/s12964-014-0077-3
-PMCID: PMC4273448
-PMID: 25481771 [Indexed for MEDLINE]"
-"7. J Clin Invest. 2014 Sep;124(9):3945-59. doi: 10.1172/JCI74572. Epub 2014 Jul
-25.","Shifting FcγRIIA-ITAM from activation to inhibitory configuration ameliorates 
-arthritis.","Ben Mkaddem S, Hayem G, Jönsson F, Rossato E, Boedec E, Boussetta T, El Benna J, 
-Launay P, Goujon JM, Benhamou M, Bruhns P, Monteiro RC.","Rheumatoid arthritis-associated (RA-associated) inflammation is mediated through 
-the interaction between RA IgG immune complexes and IgG Fc receptors on immune 
-cells. Polymorphisms within the gene encoding the human IgG Fc receptor IIA 
-(hFcγRIIA) are associated with an increased risk of developing RA. Within the 
-hFcγRIIA intracytoplasmic domain, there are 2 conserved tyrosine residues 
-arranged in a noncanonical immunoreceptor tyrosine-based activation motif 
-(ITAM). Here, we reveal that inhibitory engagement of the hFcγRIIA ITAM either 
-with anti-hFcγRII F(ab')2 fragments or intravenous hIgG (IVIg) ameliorates 
-RA-associated inflammation, and this effect was characteristic of previously 
-described inhibitory ITAM (ITAMi) signaling for hFcαRI and hFcγRIIIA, but only 
-involves a single tyrosine. In hFcγRIIA-expressing mice, arthritis induction was 
-inhibited following hFcγRIIA engagement. Moreover, hFcγRIIA ITAMi-signaling 
-reduced ROS and inflammatory cytokine production through inhibition of guanine 
-nucleotide exchange factor VAV-1 and IL-1 receptor-associated kinase 1 (IRAK-1), 
-respectively. ITAMi signaling was mediated by tyrosine 304 (Y304) within the 
-hFcγRIIA ITAM, which was required for recruitment of tyrosine kinase SYK and 
-tyrosine phosphatase SHP-1. Anti-hFcγRII F(ab')2 treatment of inflammatory 
-synovial cells from RA patients inhibited ROS production through induction of 
-ITAMi signaling. These data suggest that shifting constitutive hFcγRIIA-mediated 
-activation to ITAMi signaling could ameliorate RA-associated inflammation.","DOI: 10.1172/JCI74572
-PMCID: PMC4151227
-PMID: 25061875 [Indexed for MEDLINE]"
-16. Oncotarget. 2014 Apr 15;5(7):1699-700. doi: 10.18632/oncotarget.1880.,IRAK1: oncotarget in MDS and AML.,"Beverly LJ(1), Starczynowski DT.","Author information:
-(1)Department of Cancer and Cell Biology, University of Cincinnati, Division of 
-Experimental Hematology and Cancer Biology, Cincinnati Children's Hospital 
-Medical Center, Cincinnati, OH, USA.","DOI: 10.18632/oncotarget.1880
-PMCID: PMC4039125
-PMID: 24880611 [Indexed for MEDLINE]"
-21. Endocr Regul. 2014 Apr;48(2):103-8. doi: 10.4149/endo_2014_02_103.,"MicroRNA-146a expression and its intervention in NF-кB signaling pathway in 
-diabetic rat aorta.","Emadi SS, Soufi FG, Khamaneh AM, Alipour MR.","OBJECTIVE: The present study was designed to evaluate whether microRNA-146a, as 
-an NF-кB regulating factor and its adapter proteins (TRAF6 and IRAK1), are 
-affected by diabetes in rat aorta.
-METHODS: Male Wistar rats were randomly divided into control and diabetic groups 
-(n=6 in each). Diabetes was induced by a single injection of streptozotocin (55 
-mg/kg; i.p.) in 12 h fasted rats. The gene expression of microRNA-146a, NF-κB, 
-IRAK1, and TRAF6 were determined by real time PCR.
-RESULTS: The expression of microRNA-146a was down-regulated in diabetic aorta 
-when compared with the control group (p<0.05). The mRNA expression levels of 
-NF-кB, TRAF6 and IRAK1 also increased in the diabetic rat aorta when compared 
-with their control counterparts (p<0.01 for all comparisons).
-CONCLUSION: These results suggest that down-regulation of microRNA-146a may lead 
-to derangement in NF-кB negative feedback loop, propelling the aorta toward 
-inflammation.","DOI: 10.4149/endo_2014_02_103
-PMID: 24824805 [Indexed for MEDLINE]"
-55. Biochem J. 2014 Jan 1;457(1):227. doi: 10.1042/bj4570227.,"Retraction. IRAK1-independent pathways required for the interleukin-1-stimulated 
-activation of the Tpl2 catalytic subunit and its dissociation from ABIN2.",[No authors listed],"Retraction of
-    Handoyo H, Stafford MJ, McManus E, Baltzis D, Peggie M, Cohen P. Biochem J. 
-2009 Nov 15;424(1):109-18.","DOI: 10.1042/bj4570227
-PMID: 24325551"
-"11. Nat Rev Rheumatol. 2013 Apr;9(4):197. doi: 10.1038/nrrheum.2013.38. Epub 2013
- Mar 12.","Connective tissue diseases: The MECP2/IRAK1 locus modulates SLE risk via 
-epigenetics.",Woodman I.,"Comment on
-    J Autoimmun. 2013 Mar;41:168-74.","DOI: 10.1038/nrrheum.2013.38
-PMID: 23478492"
-"41. Rheumatol Int. 2013 Dec;33(12):3069-70. doi: 10.1007/s00296-012-2579-x. Epub 
-2012 Nov 5.","IRAK1, a potential therapeutic target for rheumatoid arthritis?","Xie Q(1), Wang SC, Li J.","Author information:
-(1)School of Pharmacy, Anhui Medical University, 81 Meishan Road, Hefei, 230032, 
-Anhui, People's Republic of China.","DOI: 10.1007/s00296-012-2579-x
-PMID: 23124737 [Indexed for MEDLINE]"
+28. Eur J Heart Fail. 2023 Jun 20. doi: 10.1002/ejhf.2933. Online ahead of print.,"Combating Therapeutic Inertia: Optimizing Iron Deficiency Treatment in Heart 
+Failure.",Girerd N(1).,"Author information:
+(1)Centre Hospitalier Universitaire de Nancy, Rue du Morvan, 
+Vandoeuvre-les-Nancy, France, 54500.","DOI: 10.1002/ejhf.2933
+PMID: 37337935"
+"33. Int J Gynaecol Obstet. 2023 Jun 20. doi: 10.1002/ijgo.14934. Online ahead of 
+print.","Different impact of COVID-19 on symptomatic pregnant and postpartum women in 
+low-income countries and low- and middle-income countries.","Mahajan NN(1), Ansari M(1), Munshi H(2), More P(1), Gajbhiye RK(2).","Author information:
+(1)Department of Obstetrics and Gynecology, Topiwala National Medical College & 
+BYL Nair Charitable Hospital, Mumbai, India.
+(2)Department of Clinical Research Laboratory, ICMR-National Institute for 
+Research in Reproductive and Child Health, Mumbai, India.","DOI: 10.1002/ijgo.14934
+PMID: 37337930"
+"40. J Am Med Inform Assoc. 2023 Jun 20;30(7):1225-1226. doi:
+10.1093/jamia/ocad091.",AI in health: keeping the human in the loop.,Bakken S(1).,"Author information:
+(1)School of Nursing, Department of Biomedical Informatics, and Data Science 
+Institute, Columbia University, New York, New York, USA.","DOI: 10.1093/jamia/ocad091
+PMID: 37337923"
+"50. Int Health. 2023 Jun 20:ihad043. doi: 10.1093/inthealth/ihad043. Online ahead
+of  print.",A year of One Health and neglected tropical diseases.,Laing G(1).,"Author information:
+(1)Unlimit Health, Edinburgh House, 170 Kennington Lane, London SE11 5DP, UK.","DOI: 10.1093/inthealth/ihad043
+PMID: 37337913"
+52. Cell Biol Int. 2023 Jun 20. doi: 10.1002/cbin.12059. Online ahead of print.,Saw Palmetto may fight prostate cancer.,Goldmann WH(1).,"Author information:
+(1)Department of Biophysics, Friedrich-Alexander-University, Erlangen-Nuremberg, 
+Erlangen, Germany.","DOI: 10.1002/cbin.12059
+PMID: 37337911"
+"55. J Econ Entomol. 2023 Jun 20:toad124. doi: 10.1093/jee/toad124. Online ahead
+of  print.","Correction to: Comparative analysis of 3 pollen sterilization methods for 
+feeding bumble bees.",[No authors listed],"Erratum for
+    J Econ Entomol. 2023 Jun 13;116(3):662-673.","DOI: 10.1093/jee/toad124
+PMID: 37337908"
+"58. Clin Infect Dis. 2023 Jun 20:ciad367. doi: 10.1093/cid/ciad367. Online ahead
+of  print.",SARS-CoV-2 Antibody Replacement Therapy for Immunocompromised Patients.,"Senefeld JW(1)(2), Joyner MJ(1)(2).","Author information:
+(1)Department of Anesthesiology and Perioperative Medicine, Mayo Clinic, 
+Rochester, Minnesota.
+(2)Department of Physiology and Biomedical Engineering, Mayo Clinic, Rochester, 
+Minnesota.","DOI: 10.1093/cid/ciad367
+PMID: 37337905"
+"69. Circ Heart Fail. 2023 Jun 20:e010704. doi:
+10.1161/CIRCHEARTFAILURE.123.010704.  Online ahead of print.",Shifting the Shadow of Death.,"Brinkley DM(1), Stevenson LW(1).","Author information:
+(1)Division of Cardiovascular Medicine, Vanderbilt University Medical Center, 
+Nashville, TN.","DOI: 10.1161/CIRCHEARTFAILURE.123.010704
+PMID: 37337894"
+1. Acta Ophthalmol. 2023 Jun 20. doi: 10.1111/aos.15728. Online ahead of print.,"Fundus autofluorescence lifetime might predict progression of AMD to geographic 
+atrophy, but not to choroidal neovascularization.","Hammer M(1)(2), Meller D(1).","Author information:
+(1)Department of Ophthalmology, University Hospital Jena, Jena, Germany.
+(2)Center for Medical Optics and Photonics, University of Jena, Jena, Germany.","DOI: 10.1111/aos.15728
+PMID: 37337863"
+"24. Pediatrics. 2023 Jun 20:e2023061264. doi: 10.1542/peds.2023-061264. Online
+ahead  of print.","Encouraging Strengths in Parents and Youth to Promote Positive Childhood 
+Experiences.",Frankowski BL.,"DOI: 10.1542/peds.2023-061264
+PMID: 37337840","Conflict of interest statement: CONFLICT OF INTEREST DISCLOSURES: The author has 
+indicated she has no conflicts of interest relevant to this article to disclose."
+28. New Phytol. 2023 Jun 20. doi: 10.1111/nph.19057. Online ahead of print.,PloiDB: The plant ploidy database.,"Halabi K(1), Shafir A(1), Mayrose I(1).","Author information:
+(1)School of Plant Sciences and Food Security, George S. Wise Faculty of Life 
+Sciences, Tel Aviv University, Tel Aviv-Yafo, 69978, Israel.","DOI: 10.1111/nph.19057
+PMID: 37337836"
+"29. Basic Clin Pharmacol Toxicol. 2023 Jun 20. doi: 10.1111/bcpt.13916. Online
+ahead  of print.",Temporary Like Achilles: pre-emptive germline pharmacogenetic testing.,"Damkier P(1)(2), Andersen MA(3).","Author information:
+(1)Department of Clinical Pharmacology, Odense University Hospital.
+(2)Department of Clinical Research, University of Southern Denmark.
+(3)Bispebjerg Hospital, Clinical Pharmacology.","DOI: 10.1111/bcpt.13916
+PMID: 37337835"
+48. Clin Otolaryngol. 2023 Jun 20. doi: 10.1111/coa.14079. Online ahead of print.,In reply to Mehanna H et al.,"Somay E(1), Topkan E(2), Pehlivan B(3), Selek U(4).","Author information:
+(1)Department of Oral and Maxillofacial Surgery, Faculty of Dentistry, Baskent 
+University, Ankara, Turkey.
+(2)Department of Radiation Oncology, Faculty of Medicine, Baskent University, 
+Adana, Turkey.
+(3)Department of Radiation Oncology, Faculty of Medicine, Bahcesehir University, 
+Istanbul, Turkey.
+(4)Department of Radiation Oncology, Faculty of Medicine, Koc University, 
+Istanbul, Turkey.","DOI: 10.1111/coa.14079
+PMID: 37337816"
+"62. J Diabetes Investig. 2023 Jun 20. doi: 10.1111/jdi.14043. Online ahead of
+print.","Diet and exercise are a fundamental part of comprehensive care for type 2 
+diabetes.","Yeh YK(1), Yen FS(2), Hwu CM(1)(3).","Author information:
+(1)Section of Endocrinology and Metabolism, Department of Medicine, Taipei 
+Veterans General Hospital, Taipei, Taiwan.
+(2)Dr Yen's Clinic, Taoyuan, Taiwan.
+(3)Faculty of Medicine, National Yang-Ming Chiao Tung University School of 
+Medicine, Taipei, Taiwan.","DOI: 10.1111/jdi.14043
+PMID: 37337794"
+65. Liver Int. 2023 Jun 20. doi: 10.1111/liv.15652. Online ahead of print.,Corrigendum.,[No authors listed],"Erratum for
+    Liver Int. 2023 Apr;43(4):773-784.","DOI: 10.1111/liv.15652
+PMID: 37337791"
+72. Cell Prolif. 2023 Jun;56(6):e13421. doi: 10.1111/cpr.13421.,Corrigendum.,[No authors listed],"Erratum for
+    Cell Prolif. 2022 Dec;55(12):e13318.","DOI: 10.1111/cpr.13421
+PMID: 37337784"
+96. J Food Sci. 2023 Jun;88(6):2251-2256. doi: 10.1111/1750-3841.16670.,Tanner Awards for the Most-Cited Articles of 2020.,[No authors listed],"DOI: 10.1111/1750-3841.16670
+PMID: 37337760"
+97. J Food Sci. 2023 Jun;88(6):2257-2260. doi: 10.1111/1750-3841.16671.,Industrial applications of selected JFS articles.,[No authors listed],"DOI: 10.1111/1750-3841.16671
+PMID: 37337759"
+"6. Leuk Lymphoma. 2023 Jun 20:1-4. doi: 10.1080/10428194.2023.2226278. Online
+ahead  of print.","Estimating the impact of early bendamustine failure on feasibility of subsequent 
+CAR-T cell therapy in mantle cell lymphoma.","Puckrin R(1), Owen C(1), Street L(1), Perry S(1), Peters A(2), Stewart D(1).","Author information:
+(1)Tom Baker Cancer Centre, and University of Calgary, Calgary, Canada.
+(2)Cross Cancer Institute and University of Alberta, Edmonton, Canada.","DOI: 10.1080/10428194.2023.2226278
+PMID: 37337751"
+"30. J Am Psychiatr Nurses Assoc. 2023 Jun 20:10783903231180187. doi: 
+10.1177/10783903231180187. Online ahead of print.","Accessible Mental Health Care is Available, Approachable, and Affordable.",Okoli CZ(1).,"Author information:
+(1)Chizimuzo (Zim) Okoli, PhD, MPH, MSN, PMHNP-BC, FAAN, American Psychiatric 
+Nurses Association, Falls Church, VA, USA.","DOI: 10.1177/10783903231180187
+PMID: 37337727"
+66. J Viral Hepat. 2023 Jun 20. doi: 10.1111/jvh.13858. Online ahead of print.,"Response to letter to editor: Potential impact of Helicobacter pylori infection 
+on hepatic steatosis and metabolic risk factors among patients with chronic 
+hepatitis B.","Leow YW(1), Chan WK(1).","Author information:
+(1)Gastroenterology and Hepatology Unit, Department of Medicine, Faculty of 
+Medicine, University of Malaya, Kuala Lumpur, Malaysia.","DOI: 10.1111/jvh.13858
+PMID: 37337691"
+"68. Australas Psychiatry. 2023 Jun;31(3):413-414. doi:
+10.1177/10398562231169833e.",New Fellows.,[No authors listed],"DOI: 10.1177/10398562231169833e
+PMID: 37337689"
+69. Australas Psychiatry. 2023 Jun;31(3):413. doi: 10.1177/10398562231169833d.,Upcoming RANZCP conferences.,[No authors listed],"DOI: 10.1177/10398562231169833d
+PMID: 37337688"
+"70. Australas Psychiatry. 2023 Jun;31(3):411-412. doi:
+10.1177/10398562231169833c.","Obituary: Vale Dr Carlyle Perera: 1938 - 2022: Reflections on a life devoted to 
+public psychiatry.",[No authors listed],"DOI: 10.1177/10398562231169833c
+PMID: 37337687"
+71. Australas Psychiatry. 2023 Jun;31(3):410. doi: 10.1177/10398562231169833b.,Obituary: Professor Barry Nurcombe AM.,[No authors listed],"DOI: 10.1177/10398562231169833b
+PMID: 37337686"
+72. Australas Psychiatry. 2023 Jun;31(3):409. doi: 10.1177/10398562231169833a.,From the CEO.,[No authors listed],"DOI: 10.1177/10398562231169833a
+PMID: 37337685"
+73. Australas Psychiatry. 2023 Jun;31(3):408. doi: 10.1177/10398562231169833.,From the President.,[No authors listed],"DOI: 10.1177/10398562231169833
+PMID: 37337684"
+78. Headache. 2023 Jun;63(6):707-709. doi: 10.1111/head.14540.,Basic Science Prize Award 2022.,"Bharadwaj VN(1), Pradhan AA(2), Akerman S(3).","Author information:
+(1)Department of Anesthesiology, Perioperative and Pain Medicine, School of 
+Medicine, Stanford University, Stanford, California, USA.
+(2)Department of Anesthesiology, Washington University School of Medicine, St. 
+Louis, Missouri, USA.
+(3)Department of Neural and Pain Sciences, University of Maryland Baltimore, 
+Baltimore, Maryland, USA.","DOI: 10.1111/head.14540
+PMID: 37337679"
+"81. Psychiatr Serv. 2023 Jun 20:appips20230010. doi: 10.1176/appi.ps.20230010. 
+Online ahead of print.","Postmarket Surveillance for Effective Regulation of Digital Mental Health 
+Treatments.","Mohr DC(1), Meyerhoff J(1), Schueller SM(1).","Author information:
+(1)Center for Behavioral Intervention Technologies, Department of Preventive 
+Medicine, Feinberg School of Medicine, Northwestern University, Chicago (Mohr, 
+Meyerhoff); Department of Psychological Science, School of Ecology, University 
+of California, Irvine, Irvine (Schueller).","DOI: 10.1176/appi.ps.20230010
+PMID: 37337676"
+"85. Eur J Cardiovasc Nurs. 2023 Jun 20:zvad058. doi: 10.1093/eurjcn/zvad058.
+Online  ahead of print.","Response to the letter to the editor-'Amiodarone-induced phlebitis: incidence 
+and adherence to a clinical practice guideline' by Jafari et al.","Brørs G(1), Gjeilo KH(1)(2), Mjølstad OC(1)(3).","Author information:
+(1)Clinic of Cardiology, St. Olavs hospital, Trondheim University Hospital, 
+Prinsesse Kristinas gate 3, 7030 Trondheim, Norway.
+(2)Department of Public Health and Nursing, Norwegian University of Science and 
+Technology, Trondheim, Norway.
+(3)Department of Circulation and Medical Imaging, Norwegian University of 
+Science and Technology, Trondheim, Norway.","DOI: 10.1093/eurjcn/zvad058
+PMID: 37337672"
+"92. Europace. 2023 Jun 20:euad167. doi: 10.1093/europace/euad167. Online ahead of
+ print.","Appropriate and inappropriate therapies in remotely monitored patients with 
+Brugada syndrome. What to expect?","Dendramis G(1)(2), Brugada P(2).","Author information:
+(1)Cardiovascular Department, Clinical and Interventional Arrhythmology. ARNAS 
+Ospedale Civico Di Cristina Benfratelli, Palermo, Italy.
+(2)Heart Rhythm Management Centre, UZ Brussel-VUB, Brussels, Belgium.","DOI: 10.1093/europace/euad167
+PMID: 37337665"
+"93. Eur J Anaesthesiol. 2023 Jun 21. doi: 10.1097/EJA.0000000000001842. Online
+ahead  of print.","Sustainability in anaesthesia and intensive care - an obligation to turn danger 
+into opportunity.","Bentzer P(1), Talbot A, Hemberg L.","Author information:
+(1)From the Lund University, Department of Clinical Sciences Lund, 
+Anaesthesiology and Intensive Care, Lund, Sweden (PB), Department of Anaesthesia 
+and Intensive Care, Helsingborg Hospital, Helsingborg, Sweden (PB), Lund 
+University, Department of Clinical Sciences Lund, Anaesthesiology and Intensive 
+Care, Lund, Sweden (AT), Department of Anaesthesia and Intensive Care, 
+Helsingborg Hospital, Sweden (AT), Lund University, Department of Clinical 
+Sciences Lund, Anaesthesiology and Intensive Care, Lund, Sweden (LB), Lund 
+University Agenda 2030 Graduate School, Lund, Sweden (LH).","DOI: 10.1097/EJA.0000000000001842
+PMID: 37337664"
+"13. Clin Pediatr (Phila). 2023 Jun 19:99228231179598. doi: 
+10.1177/00099228231179598. Online ahead of print.","Early Diagnosis of B-Acute Lymphoblastic Leukemia in a Child Masquerading as 
+Osteomyelitis.","Zelaya HM(1), Picache D(1), Ward ND(2), Yan Z(3), Glasser CL(4).","Author information:
+(1)Department of Pediatrics, NYU Langone Hospital Long Island, Mineola, NY, USA.
+(2)Department of Hematopathology, NYU Langone Hospital, New York, NY, USA.
+(3)Department of Radiology, NYU Langone Hospital, New York, NY, USA.
+(4)Department of Pediatric Hematology/Oncology, NYU Langone Hospital Long 
+Island, Mineola, NY, USA.","DOI: 10.1177/00099228231179598
+PMID: 37337644"
+"21. Acta Biochim Biophys Sin (Shanghai). 2023 Jun 19. doi: 10.3724/abbs.2023114. 
+Online ahead of print.","Exploring the underlying biology of cancer and potential therapeutic strategies: 
+a special issue focused on mechanism-based studies.","Gao D(1)(2), Ge G(1), Editors G.","Author information:
+(1)State Key Laboratory of Cell Biology, Shanghai Institute of Biochemistry and 
+Cell Biology, CAS Center for Excellence in Molecular Cell Science, Chinese 
+Academy of Sciences, Shanghai 200031, China.
+(2)Key Laboratory of Systems Health Science of Zhejiang Province, School of Life 
+Science, Hangzhou Institute for Advanced Study, University of Chinese Academy of 
+Sciences, Hangzhou 310024, China.","DOI: 10.3724/abbs.2023114
+PMID: 37337636"
+"22. Acta Biochim Biophys Sin (Shanghai). 2023 Jun 19. doi: 10.3724/abbs.2023102. 
+Online ahead of print.","Identification and preliminary study of a novel interacting protein SCRIB with 
+fibroblast activation protein in OSCC.","Liu S(1), Wang P(2), Ye L(1), Liu C(1), Xiao W(1), Gao C(2), Huang X(2), Gao 
+J(1).","Author information:
+(1)Center for Plastic & Reconstructive Surgery, Cancer Center, Department of 
+Dental Medicine, Zhejiang Provincial People's Hospital (Affiliated People's 
+Hospital, Hangzhou Medical College), Hangzhou 310014, China.
+(2)College of Animal Science and Technology, Zhejiang A&F University, Hangzhou 
+311300, China.","DOI: 10.3724/abbs.2023102
+PMID: 37337635"
+30. Cytopathology. 2023 Jun 19. doi: 10.1111/cyt.13258. Online ahead of print.,COVID-19 and cytopathology: The many faces of the pandemic's impact 3 years on.,"Mahadeva U(1), Vigliar E(2).","Author information:
+(1)Department of Cellular Pathology, Guy's & St Thomas' NHS Foundation Trust, 
+London, UK.
+(2)Department of Public Health, University of Naples Federico II, Naples, Italy.","DOI: 10.1111/cyt.13258
+PMID: 37337627"
+"35. Int J Rheum Dis. 2023 Jun 19. doi: 10.1111/1756-185X.14785. Online ahead of 
+print.",Tofacitinib as a biologic response modifier in VEXAS syndrome: A case series.,"Salehi T(1), Callisto A(1)(2), Beecher MB(2), Hissaria P(1)(2).","Author information:
+(1)Central Adelaide Local Health Network, Adelaide, South Australia, Australia.
+(2)Adelaide Medical School, The University of Adelaide, Adelaide, South 
+Australia, Australia.","DOI: 10.1111/1756-185X.14785
+PMID: 37337622"
+53. Anaesthesia. 2023 Jun 19. doi: 10.1111/anae.16074. Online ahead of print.,"Carbon dioxide detection always trumps clinical examination when excluding 
+oesophageal intubation.","Chrimes N(1), Higgs A(2), Cook TM(3).","Author information:
+(1)Monash Medical Centre, Melbourne, Australia.
+(2)Warrington Teaching Hospitals NHS Foundation Trust, Warrington, UK.
+(3)Royal United Hospitals Bath NHS Foundation Trust, Bath, UK.","DOI: 10.1111/anae.16074
+PMID: 37337467"
+57. Anaesthesia. 2023 Jun 19. doi: 10.1111/anae.16065. Online ahead of print.,"Analgesia nociception index for intra-operative remifentanil dose and pain after 
+gynaecological laparotomy.","Hickey A(1), O'Gara Á(1), Lavelle A(1).","Author information:
+(1)St James's Hospital, Dublin, Ireland.","DOI: 10.1111/anae.16065
+PMID: 37337463"
+"70. Clin Exp Dermatol. 2023 Jun 20:llad199. doi: 10.1093/ced/llad199. Online
+ahead  of print.","Two Novel Mutations in SASH1 Identified in Familial and Sporadic Generalized 
+Lentiginosis Phenotype in Koreans.","Kim JY(1), Kwon IJ(1), Lee SE(1).","Author information:
+(1)Department of Dermatology, Gangnam Severance Hospital, Cutaneous Biology 
+Research Institute, Yonsei University College of Medicine, Seoul, Korea.","DOI: 10.1093/ced/llad199
+PMID: 37337450"
+"89. J Magn Reson Imaging. 2023 Jun 19. doi: 10.1002/jmri.28850. Online ahead of 
+print.","Editorial for ""MRI for Hepatitis B-Associated Intrahepatic Cholangiocarcinoma: A 
+Multicenter Comparative Study"".","Wei H(1)(2), Yoon JH(1)(3).","Author information:
+(1)Department of Radiology, Seoul National University Hospital, Seoul, Republic 
+of Korea.
+(2)Department of Radiology, West China Hospital, Sichuan University, Chengdu, 
+Sichuan, China.
+(3)Department of Radiology, Seoul National University College of Medicine, 
+Seoul, Republic of Korea.","DOI: 10.1002/jmri.28850
+PMID: 37337430"
+92. Anaesthesia. 2023 Jun 19. doi: 10.1111/anae.16064. Online ahead of print.,PROSPECT guideline for elective caesarean section: an update.,Geoghegan J(1).,"Author information:
+(1)Birmingham Women's Hospital, Birmingham, UK.","DOI: 10.1111/anae.16064
+PMID: 37337427"
+94. Anaesthesia. 2023 Jun 19. doi: 10.1111/anae.16066. Online ahead of print.,"Carbetocin vs. oxytocin at elective caesarean delivery: challenges and 
+complexities in performing and interpreting a non-inferiority trial.","Hughes IP(1), Butler S(1).","Author information:
+(1)Gold Coast Hospital and Health Services, Southport, Australia.","DOI: 10.1111/anae.16066
+PMID: 37337425"
+11. Cancer. 2023 Jun 19. doi: 10.1002/cncr.34896. Online ahead of print.,"Guidelines for surveillance of patients with von Hippel-Lindau disease: 
+Consensus statement of the International VHL Surveillance Guidelines Consortium 
+and VHL Alliance.","Daniels AB(1)(2), Tirosh A(3), Huntoon K(4), Mehta GU(5), Spiess PE(6), Friedman 
+DL(2)(7), Waguespack SG(8), Kilkelly JE(9), Rednam S(10), Pruthi S(11), Jonasch 
+EA(12), Baum L(13), Chahoud J(6); International VHL Surveillance Guidelines 
+Consortium.","Author information:
+(1)Division of Ocular Oncology and Pathology, Department of Ophthalmology & 
+Visual Sciences, Vanderbilt University Medical Center, Nashville, Tennessee, 
+USA.
+(2)Vanderbilt-Ingram Cancer Center, Vanderbilt University Medical Center, 
+Nashville, Tennessee, USA.
+(3)Neuroendocrine Tumors Service, Sheba Medical Center and Sackler Faculty of 
+Medicine, Tel Aviv University, Tel Aviv, Israel.
+(4)Department of Neurosurgery, The University of Texas MD Anderson Cancer 
+Center, Houston, Tennessee, USA.
+(5)The House Clinic, Los Angeles, California, USA.
+(6)Department of Genitourinary Oncology, Moffitt Cancer Center, Tampa, Florida, 
+USA.
+(7)Division of Hematology/Oncology, Department of Pediatrics, Vanderbilt 
+University Medical Center, Nashville, Texas, USA.
+(8)Department of Endocrine Neoplasia and Hormonal Disorders, The University of 
+Texas MD Anderson Cancer Center, Houston, Texas, USA.
+(9)Division of Pediatric Anesthesia, Department of Anesthesiology, Vanderbilt 
+University Medical Center, Nashville, Tennessee, USA.
+(10)Division of Pediatric Hematology-Oncology, Department of Pediatrics, Baylor 
+College of Medicine, Houston, Texas, USA.
+(11)Division of Pediatric Neuroradiology, Department of Radiology, Vanderbilt 
+University Medical Center, Nashville, Tennessee, USA.
+(12)Department of Genitourinary Medical Oncology, Division of Cancer Medicine, 
+The University of Texas MD Anderson Cancer Center, Houston, Texas, USA.
+(13)Division of Hematology/Oncology, Department of Internal Medicine, Vanderbilt 
+University Medical Center, Nashville, Tennessee, USA.","DOI: 10.1002/cncr.34896
+PMID: 37337409"
+"14. Cancer Commun (Lond). 2023 Jun 19. doi: 10.1002/cac2.12444. Online ahead of 
+print.","Loss of CDKN1B induces an age-related clonal hematopoietic disorder via Notch2 
+activity dysregulation.","Segatto I(1), Rampioni Vinciguerra GL(1)(2), Pellarin I(1), Dall'Acqua A(1), 
+Berton S(1), Citron F(1), D'Andrea S(1), Mungo G(1), Viotto D(1), Musco L(1), Di 
+Napoli A(2), Aloe Spiriti MA(2), Canzonieri V(3), Gattei V(4), Vecchione A(2), 
+Belletti B(1), Baldassarre G(1).","Author information:
+(1)Division of Molecular Oncology, Centro di Riferimento Oncologico di Aviano 
+(CRO), Istituto di Ricovero e Cura a Carattere Scientifico (IRCCS), National 
+Cancer Institute, Aviano (PN), Italy.
+(2)Department of Clinical and Molecular Medicine, University of Rome ""La 
+Sapienza"", Santo Andrea Hospital, Rome, Italy.
+(3)Division of Pathology, Centro di Riferimento Oncologico di Aviano (CRO), 
+Istituto di Ricovero e Cura a Carattere Scientifico (IRCCS), National Cancer 
+Institute, Aviano (PN), Italy.
+(4)Division of Clinical and Experimental Onco-Hematology, Centro di Riferimento 
+Oncologico di Aviano (CRO), Istituto di Ricovero e Cura a Carattere Scientifico 
+(IRCCS), National Cancer Institute, Aviano (PN), Italy.","DOI: 10.1002/cac2.12444
+PMID: 37337406"
+"32. Int J STD AIDS. 2023 Jun 19:9564624231183018. doi: 10.1177/09564624231183018.
+ Online ahead of print.","Extragenital gonorrhoea culture and test of cure at Western Sydney Sexual Health 
+Centre.","Comninos NB(1)(2), Varghese S(1), Power M(1).","Author information:
+(1)Western Sydney Sexual Health Centre, Parramatta, New South Wales, Australia.
+(2)Westmead Clinical School, Faculty of Medicine and Health, University of 
+Sydney, Westmead, Westmead, Sydney, New South Wales, Australia.","DOI: 10.1177/09564624231183018
+PMID: 37337387"
+"46. Korean J Fam Med. 2023 Jun 20. doi: 10.4082/kjfm.23.0017. Online ahead of
+print.","Enhancement of Virtues: Key to a Healthy Lifestyle against Chronic Diseases and 
+Future Health Crisis.",Cordero DA Jr(1).,"Author information:
+(1)Department of Theology and Religious Education, De La Salle University, 
+Manila, Philippines.","DOI: 10.4082/kjfm.23.0017
+PMID: 37337373"
+"47. Dev Med Child Neurol. 2023 Jun 19. doi: 10.1111/dmcn.15680. Online ahead of 
+print.","Patient perspectives in pediatric neurology: A critical shift in the paradigm of 
+outcome measurement.",[No authors listed],"DOI: 10.1111/dmcn.15680
+PMID: 37337372"
+"67. Int J Toxicol. 2023 Jun 19:10915818231184350. doi: 10.1177/10915818231184350.
+ Online ahead of print.","Corrigendum to: ""Toxicology Certification: The Need, the Value, and an Evolving 
+Landscape"".",[No authors listed],"Erratum for
+    Int J Toxicol. 2023 Apr 28;:10915818231171834.","DOI: 10.1177/10915818231184350
+PMID: 37337351"
+95. Chin Med Sci J. 2023 Jun 19. doi: 10.24920/004270. Online ahead of print.,"Strengthening the Disciplinary Construction of History of Medicine: A Call for 
+Action by Chinese Academy of Medical Sciences & Peking Union Medical College.","Yao JH(1), Zhang DQ(2), Yu XZ(3), Zhang SJ(4), Zhang YA(5), Yang XY(6), He Z(1), 
+Liu H(1), Wang Y(1), Jin YY(1).","Author information:
+(1)School of Medical Humanities and Social Sciences, Peking Union Medical 
+College & Chinese Academy of Medical Sciences, Beijing 100730, China.
+(2)School of Medical Humanities, Peking University, Beijing 100191, China.
+(3)Faculty of History, Nankai University, Tianjin 300072, China.
+(4)Institute of Chinese Medical Literature and Culture, Shandong University of 
+Traditional Chinese Medicine, Jinan 250355, China.
+(5)College of Liberal Arts, Shanghai University, Shanghai 200444, China.
+(6)School of History, Renmin University of China, Beijing 100086, China.","DOI: 10.24920/004270
+PMID: 37337322"
+"14. Epidemiol Infect. 2023 Jun 20:1-4. doi: 10.1017/S0950268823000997. Online
+ahead  of print.",Responding to Africa's burden of disease: accelerating progress.,"Impouma B, Kalu AA, Makubalo L, Gasasira A, Cabore J, Moeti M.","DOI: 10.1017/S0950268823000997
+PMID: 37337304"
+32. Crit Care. 2023 Jun 19;27(1):242. doi: 10.1186/s13054-023-04499-2.,"Volume of oxygen administered during mechanical ventilation predicts mortality 
+in ICU patients.","Grim CCA(1)(2), van der Wal LI(3), Bouwens JA(4), van Westerloo DJ(3), de Jonge 
+E(3), Helmerhorst HJF(5).","Author information:
+(1)Department of Intensive Care, Leiden University Medical Center, Leiden, The 
+Netherlands. c.c.a.grim@lumc.nl.
+(2)Department of Anesthesiology, Leiden University Medical Center, Leiden, The 
+Netherlands. c.c.a.grim@lumc.nl.
+(3)Department of Intensive Care, Leiden University Medical Center, Leiden, The 
+Netherlands.
+(4)PrioCura Psychiatry, Rotterdam, The Netherlands.
+(5)Department of Anesthesiology, Leiden University Medical Center, Leiden, The 
+Netherlands.","DOI: 10.1186/s13054-023-04499-2
+PMID: 37337286"
+86. Virol J. 2023 Jun 19;20(1):127. doi: 10.1186/s12985-023-02030-1.,"Comparative phylogenetic analysis and transcriptomic profiling of Dengue (DENV-3 
+genotype I) outbreak in 2021 in Bangladesh.","Sarkar MMH(#)(1), Rahman MS(#)(2), Islam MR(3), Rahman A(4), Islam MS(5), Banu 
+TA(6), Akter S(6), Goswami B(6), Jahan I(6), Habib MA(6), Uddin MM(6), Mia 
+MZ(5), Miah MI(3), Shaikh AA(6), Khan MS(7).","Author information:
+(1)Bangladesh Council of Scientific and Industrial Research (BCSIR), Dhaka, 
+Bangladesh. murshed_mbdu@yahoo.com.
+(2)Department of Microbiology, Jashore University of Science and Technology, 
+Jashore, Bangladesh.
+(3)Department of Microbiology, University of Dhaka, Dhaka, Bangladesh.
+(4)Department of Microbiology, Noakhali Science and Technology University, 
+Noakhali, Bangladesh.
+(5)Department of Microbiology, Jagannath University, Dhaka, Bangladesh.
+(6)Bangladesh Council of Scientific and Industrial Research (BCSIR), Dhaka, 
+Bangladesh.
+(7)Bangladesh Council of Scientific and Industrial Research (BCSIR), Dhaka, 
+Bangladesh. k2salim@yahoo.com.
+(#)Contributed equally","DOI: 10.1186/s12985-023-02030-1
+PMID: 37337232"
+42. BMC Neurol. 2023 Jun 19;23(1):234. doi: 10.1186/s12883-023-03270-y.,Hypoxia treatment of Parkinson's disease may disrupt the circadian system.,"Coste O(1), Touitou Y(2).","Author information:
+(1)Hôpital d'Instruction des Armées, Pathologie du Sommeil, Lyon, France.
+(2)Unité de Chronobiologie, Fondation Rothschild, 75019, Paris, France. 
+yvan.touitou@chronobiology.fr.","DOI: 10.1186/s12883-023-03270-y
+PMID: 37337177"
+59. BMC Med. 2023 Jun 19;21(1):217. doi: 10.1186/s12916-023-02917-4.,Balancing access to ADHD medication.,B.M.C. Medicine.,"DOI: 10.1186/s12916-023-02917-4
+PMID: 37337160"
+"66. Acta Oncol. 2023 Jun 19:1-6. doi: 10.1080/0284186X.2023.2224508. Online ahead
+of  print.","Unusual cases of sinonasal malignancies: a letter to the editor on HPV-positive 
+sinonasal squamous cell carcinomas.","Lauritzen BB(1), Sjöstedt S(2)(3), Jensen JM(1), Kiss K(4), von Buchwald C(1).","Author information:
+(1)Department of Otorhinolaryngology, Head and Neck Surgery and Audiology, 
+Copenhagen University Hospital, Copenhagen, Denmark.
+(2)Centre of Functional and Diagnostic Imaging and Research, Department of 
+Clinical Physiology and Nuclear Medicine 260, Copenhagen University Hospital 
+Hvidovre, Denmark.
+(3)Department of Clinical Physiology and Nuclear Medicine, Copenhagen University 
+Hospital, Copenhagen, Denmark.
+(4)Department of Pathology, Copenhagen University Hospital, Copenhagen, Denmark.","DOI: 10.1080/0284186X.2023.2224508
+PMID: 37337153"
+72. BMC Neurol. 2023 Jun 19;23(1):235. doi: 10.1186/s12883-023-03281-9.,"Reply to: Hypoxia treatment of Parkinson's disease may disrupt the circadian 
+system.","Janssen Daalen JM(1)(2)(3), Meinders MJ(4)(5)(6), Straatsma IR(7), Ainslie 
+PN(8), Thijssen DHJ(7), Bloem BR(4)(5).","Author information:
+(1)Center of Expertise for Parkinson & Movement Disorders, Nijmegen, The 
+Netherlands. jules.m.janssendaalen@radboudumc.nl.
+(2)Department of Neurology, Radboud University Medical Center, Donders Institute 
+for Brain, Cognition and Behavior, Nijmegen, The Netherlands. 
+jules.m.janssendaalen@radboudumc.nl.
+(3)Department of Physiology, Department of Medical BioSciences, Radboud 
+University Medical Center, Nijmegen, The Netherlands. 
+jules.m.janssendaalen@radboudumc.nl.
+(4)Center of Expertise for Parkinson & Movement Disorders, Nijmegen, The 
+Netherlands.
+(5)Department of Neurology, Radboud University Medical Center, Donders Institute 
+for Brain, Cognition and Behavior, Nijmegen, The Netherlands.
+(6)IQ Healthcare, Radboud Institute for Health Sciences, Radboud University 
+Medical Center, Nijmegen, The Netherlands.
+(7)Department of Physiology, Department of Medical BioSciences, Radboud 
+University Medical Center, Nijmegen, The Netherlands.
+(8)Center for Heart, Lung and Vascular Health, School of Health and Exercise 
+Sciences, University of British Columbia, Kelowna, Canada.","DOI: 10.1186/s12883-023-03281-9
+PMID: 37337147"
+"92. Nat Metab. 2023 Jun 19. doi: 10.1038/s42255-023-00823-w. Online ahead of
+print.","Weight versus weight-independent effects of Roux-en-Y gastric bypass on type 2 
+diabetes.","Klein S(1)(2), Seeley RJ(3).","Author information:
+(1)Center for Human Nutrition, Washington University, St. Louis, Missouri, USA.
+(2)Sansum Diabetes Research Institute, Santa Barbara, CA, USA.
+(3)Department of Surgery, University of Michigan, Ann Arbor, MI, USA. 
+seeleyrj@med.umich.edu.","DOI: 10.1038/s42255-023-00823-w
+PMID: 37337127"
+"95. Nat Metab. 2023 Jun 19. doi: 10.1038/s42255-023-00810-1. Online ahead of
+print.",Maintenance of adipose progenitors in adipogenesis.,"Wang G(1), Wang QA(2)(3).","Author information:
+(1)Department of Molecular & Cellular Endocrinology, Arthur Riggs Diabetes and 
+Metabolism Research Institute, City of Hope Medical Center, Duarte, CA, USA.
+(2)Department of Molecular & Cellular Endocrinology, Arthur Riggs Diabetes and 
+Metabolism Research Institute, City of Hope Medical Center, Duarte, CA, USA. 
+qwang@coh.org.
+(3)Comprehensive Cancer Center, Beckman Research Institute, City of Hope Medical 
+Center, Duarte, CA, USA. qwang@coh.org.","DOI: 10.1038/s42255-023-00810-1
+PMID: 37337124"
+"98. Nat Metab. 2023 Jun 19. doi: 10.1038/s42255-023-00824-9. Online ahead of
+print.",Brown fat has a sweet tooth.,"Lemmer IL(1)(2), Bartelt A(3)(4)(5)(6).","Author information:
+(1)Institute for Cardiovascular Prevention (IPEK), Ludwig Maximilians University 
+Munich, Munich, Germany.
+(2)Institute for Diabetes and Cancer (IDC), Helmholtz Center Munich, Neuherberg, 
+Germany.
+(3)Institute for Cardiovascular Prevention (IPEK), Ludwig Maximilians University 
+Munich, Munich, Germany. alexander.bartelt@med.uni-muenchen.de.
+(4)Institute for Diabetes and Cancer (IDC), Helmholtz Center Munich, Neuherberg, 
+Germany. alexander.bartelt@med.uni-muenchen.de.
+(5)German Center for Cardiovascular Research, Partner Site Munich Heart 
+Alliance, Munich, Germany. alexander.bartelt@med.uni-muenchen.de.
+(6)Department of Molecular Metabolism, Sabri Ülker Center for Metabolic 
+Research, Harvard T. H. Chan School of Public Health, Boston, MA, USA. 
+alexander.bartelt@med.uni-muenchen.de.","DOI: 10.1038/s42255-023-00824-9
+PMID: 37337121"
+6. Nat Chem. 2023 Jun 19. doi: 10.1038/s41557-023-01253-7. Online ahead of print.,ChatGPT saves the day.,Francl M(1)(2).,"Author information:
+(1)Department of Chemistry, Bryn Mawr College, Bryn Mawr, PA, USA. 
+mfrancl@brynmawr.edu.
+(2)Vatican Observatory, Vatican City, Vatican City State. mfrancl@brynmawr.edu.","DOI: 10.1038/s41557-023-01253-7
+PMID: 37337114"
+7. Nat Chem. 2023 Jun 19. doi: 10.1038/s41557-023-01262-6. Online ahead of print.,Five mutually orthogonal aaRS-tRNA pairs for genetic code expansion.,[No authors listed],"DOI: 10.1038/s41557-023-01262-6
+PMID: 37337113"
+"12. Nat Genet. 2023 Jun 19. doi: 10.1038/s41588-023-01427-6. Online ahead of
+print.",Cross-ancestry genetic discovery for hippocampal volumetric traits.,[No authors listed],"DOI: 10.1038/s41588-023-01427-6
+PMID: 37337108"
+"16. Nat Immunol. 2023 Jun 19. doi: 10.1038/s41590-023-01531-z. Online ahead of 
+print.",Defining macrophages in the lactating murine mammary gland and human milk.,[No authors listed],"DOI: 10.1038/s41590-023-01531-z
+PMID: 37337104"
+"18. Nat Immunol. 2023 Jun 19. doi: 10.1038/s41590-023-01539-5. Online ahead of 
+print.",Two-birds-one-stone approach to combine protein and mRNA vaccines for COVID-19.,Gao GF(1).,"Author information:
+(1)CAS Key Laboratory of Pathogen Microbiology and Immunology, Institute of 
+Microbiology, Chinese Academy of Sciences (CAS), Beijing, China. gaof@im.ac.cn.","DOI: 10.1038/s41590-023-01539-5
+PMID: 37337102"
+"20. Nat Biotechnol. 2023 Jun 19. doi: 10.1038/s41587-023-01848-y. Online ahead of
+ print.",Democratizing knowledge representation with BioCypher.,"Lobentanzer S(1), Aloy P(2)(3), Baumbach J(4), Bohar B(5)(6), Carey VJ(7), 
+Charoentong P(8)(9), Danhauser K(10), Doğan T(11)(12), Dreo J(13)(14), Dunham 
+I(15)(16), Farr E(17), Fernandez-Torras A(2), Gyori BM(18), Hartung M(4), Hoyt 
+CT(18), Klein C(10), Korcsmaros T(5)(19)(20), Maier A(4), Mann M(21)(22), Ochoa 
+D(15)(16), Pareja-Lorente E(2), Popp F(23), Preusse M(24), Probul N(4), 
+Schwikowski B(13), Sen B(11)(12), Strauss MT(21), Turei D(17), Ulusoy E(11)(12), 
+Waltemath D(25), Wodke JAH(25), Saez-Rodriguez J(26).","Author information:
+(1)Heidelberg University, Faculty of Medicine, and Heidelberg University 
+Hospital, Institute for Computational Biomedicine, Bioquant, Heidelberg, 
+Germany. sebastian.lobentanzer@uni-heidelberg.de.
+(2)Institute for Research in Biomedicine (IRB Barcelona), the Barcelona 
+Institute of Science and Technology, Barcelona, Spain.
+(3)Institució Catalana de Recerca i Estudis Avançats (ICREA), Barcelona, Spain.
+(4)Institute for Computational Systems Biology, University of Hamburg, Hamburg, 
+Germany.
+(5)Earlham Institute, Norwich, UK.
+(6)Biological Research Centre, Szeged, Hungary.
+(7)Channing Division of Network Medicine, Mass General Brigham, Harvard Medical 
+School, Boston, MA, USA.
+(8)Centre for Quantitative Analysis of Molecular and Cellular Biosystems 
+(Bioquant), Heidelberg University, Heidelberg, Germany.
+(9)Department of Medical Oncology, National Centre for Tumour Diseases (NCT), 
+Heidelberg University Hospital (UKHD), Heidelberg, Germany.
+(10)Department of Pediatrics, Dr. von Hauner Children's Hospital, University 
+Hospital, LMU Munich, Munich, Germany.
+(11)Biological Data Science Lab, Department of Computer Engineering, Hacettepe 
+University, Ankara, Turkey.
+(12)Department of Bioinformatics, Graduate School of Health Sciences, Hacettepe 
+University, Ankara, Turkey.
+(13)Computational Systems Biomedicine Lab, Department of Computational Biology, 
+Institut Pasteur, Université Paris Cité, Paris, France.
+(14)Bioinformatics and Biostatistics Hub, Institut Pasteur, Université Paris 
+Cité, Paris, France.
+(15)European Molecular Biology Laboratory, European Bioinformatics Institute 
+(EMBL-EBI), Wellcome Genome Campus, Hinxton, UK.
+(16)Open Targets, Wellcome Genome Campus, Hinxton, UK.
+(17)Heidelberg University, Faculty of Medicine, and Heidelberg University 
+Hospital, Institute for Computational Biomedicine, Bioquant, Heidelberg, 
+Germany.
+(18)Laboratory of Systems Pharmacology, Harvard Medical School, Boston, MA, USA.
+(19)Imperial College London, London, UK.
+(20)Quadram Institute Bioscience, Norwich, UK.
+(21)Proteomics Program, Novo Nordisk Foundation Centre for Protein Research, 
+University of Copenhagen, Copenhagen, Denmark.
+(22)Department of Proteomics and Signal Transduction, Max Planck Institute of 
+Biochemistry, Martinsried, Germany.
+(23)Applied Tumour Immunity Clinical Cooperation Unit, National Centre for 
+Tumour Diseases (NCT), German Cancer Research Centre (DKFZ), Heidelberg, 
+Germany.
+(24)German Centre for Diabetes Research (DZD), Neuherberg, Germany.
+(25)Medical Informatics Laboratory, University Medicine Greifswald, Greifswald, 
+Germany.
+(26)Heidelberg University, Faculty of Medicine, and Heidelberg University 
+Hospital, Institute for Computational Biomedicine, Bioquant, Heidelberg, 
+Germany. pub.saez@uni-heidelberg.de.","DOI: 10.1038/s41587-023-01848-y
+PMID: 37337100"
+"22. Pediatr Blood Cancer. 2023 Jun 19:e30508. doi: 10.1002/pbc.30508. Online
+ahead  of print.","Pediatric erythroblastic transformation of JAK2-mutated prefibrotic primary 
+myelofibrosis with concurrent PHF6 mutations.","Oshiro T(1), Hamada S(1), Kiyuna S(1), Sakiyama H(1), Hyakuna N(2), Tamaki T(3), 
+Muramatsu H(4), Nakanishi K(5).","Author information:
+(1)Department of Pediatrics, University of Ryukyus Hospital, Nakagami-gun, 
+Japan.
+(2)Okinawa Prefectural Red Cross Blood Center, Naha, Japan.
+(3)Department of Pathology and Oncology, Graduate School of Medicine, University 
+of Ryukyus, Nakagami-gun, Japan.
+(4)Department of Pediatrics, Graduate School of Medicine, University of Nagoya, 
+Nagoya, Japan.
+(5)Department of Pediatrics, Graduate School of Medicine, University of The 
+Ryukyus, Nakagami-gun, Japan.","DOI: 10.1002/pbc.30508
+PMID: 37337098"
+"24. Nat Hum Behav. 2023 Jun 19. doi: 10.1038/s41562-023-01611-y. Online ahead of 
+print.",Social relationships and mortality.,"Ren J(1), Mao C(2).","Author information:
+(1)Department of Epidemiology, School of Public Health, Southern Medical 
+University, Guangzhou, China.
+(2)Department of Epidemiology, School of Public Health, Southern Medical 
+University, Guangzhou, China. maochen9@smu.edu.cn.","DOI: 10.1038/s41562-023-01611-y
+PMID: 37337096"
+"37. Nat Food. 2023 Jun 19. doi: 10.1038/s43016-023-00784-z. Online ahead of
+print.",The Dublin Declaration of Scientists on the Societal Role of Livestock.,"Leroy F(1), Ederer P(2).","Author information:
+(1)Industrial Microbiology and Food Biotechnology (IMDO), Faculty of Sciences 
+and Bioengineering Sciences, Vrije Universiteit Brussel, Brussels, Belgium. 
+Frederic.Leroy@vub.be.
+(2)GOALSciences at Global Food and Agriculture Network, Rapperswil, Switzerland.","DOI: 10.1038/s43016-023-00784-z
+PMID: 37337083"
+"39. Nat Food. 2023 Jun 19. doi: 10.1038/s43016-023-00783-0. Online ahead of
+print.",Balancing rice supply and demand in Africa.,van Oort P(1).,"Author information:
+(1)Wageningen University & Research, Wageningen, Netherlands. 
+Pepijn.vanoort@wur.nl.","DOI: 10.1038/s43016-023-00783-0
+PMID: 37337081"
+"47. Pediatr Blood Cancer. 2023 Jun 19:e30519. doi: 10.1002/pbc.30519. Online
+ahead  of print.","Concurrent carcinocythemia, chest wall and right knee joint involvement in Ewing 
+sarcoma.","Zhang Y(1), Li X(2), Li X(3), Li X(1), Gan W(4), Li T(4).","Author information:
+(1)Department of Clinical Laboratory, The District People's Hospital of 
+Zhangqiu, Jinan, China.
+(2)Department of Medical Ultrasound, The District People's Hospital of Zhangqiu, 
+Jinan, China.
+(3)Department of Health Ward, The District People's Hospital of Zhangqiu, Jinan, 
+China.
+(4)Department of Laboratory Medicine, Beijing Ludaopei Hospital, Beijing, China.","DOI: 10.1002/pbc.30519
+PMID: 37337073"
+"50. Nat Mater. 2023 Jun 19. doi: 10.1038/s41563-023-01563-8. Online ahead of
+print.",Electrons lighter than ever.,"Seki S(1), Li Z(2).","Author information:
+(1)Department of Molecular Engineering, Kyoto University, Kyoto, Japan. 
+seki@moleng.kyoto-u.ac.jp.
+(2)Department of Molecular Engineering, Kyoto University, Kyoto, Japan.","DOI: 10.1038/s41563-023-01563-8
+PMID: 37337070"
+"59. Cardiovasc Intervent Radiol. 2023 Jun 19. doi: 10.1007/s00270-023-03482-2. 
+Online ahead of print.","Letter to the Editor: CT Guided Biopsy of a Right Ventricle Primary Cardiac 
+Lymphoma-A Case Report.","Vogl TJ(1), Martin SS(1), Koch V(1), Scholtz JE(1), Booz C(1), Leistner DM(2), 
+Fichtlscherer S(2), Biciusca T(3).","Author information:
+(1)Department of Diagnostic and Interventional Radiology, University Hospital 
+Frankfurt, 60590, Frankfurt, Germany.
+(2)Department of Cardiology and Angiology, University Hospital Frankfurt, 
+Frankfurt, Germany.
+(3)Department of Diagnostic and Interventional Radiology, University Hospital 
+Frankfurt, 60590, Frankfurt, Germany. teodora.biciusca@kgu.de.","DOI: 10.1007/s00270-023-03482-2
+PMID: 37337061"
+"62. Nat Nanotechnol. 2023 Jun 19. doi: 10.1038/s41565-023-01414-2. Online ahead
+of  print.",Voltage enables ferro-rotational domain switching.,Jin W(1).,"Author information:
+(1)Department of Physics, Auburn University, Auburn, AL, USA. wjin@auburn.edu.","DOI: 10.1038/s41565-023-01414-2
+PMID: 37337058"
+"91. Cell Res. 2023 Jun 19. doi: 10.1038/s41422-023-00838-8. Online ahead of
+print.",GPCRs and β-arrestins - an on-off relationship.,Thomsen ARB(1)(2).,"Author information:
+(1)Department of Molecular Pathobiology, New York University College of 
+Dentistry, New York, NY, USA. art8@nyu.edu.
+(2)NYU Pain Research Center, New York University College of Dentistry, New York, 
+NY, USA. art8@nyu.edu.","DOI: 10.1038/s41422-023-00838-8
+PMID: 37337029"
+"92. Cell Res. 2023 Jun 19. doi: 10.1038/s41422-023-00837-9. Online ahead of
+print.",6mA-METL-9 axis regulates innate immunity in C. elegans.,"Wu T(1)(2), He C(3)(4)(5).","Author information:
+(1)Department of Chemistry, The University of Chicago, Chicago, IL, USA.
+(2)Howard Hughes Medical Institute, The University of Chicago, Chicago, IL, USA.
+(3)Department of Chemistry, The University of Chicago, Chicago, IL, USA. 
+chuanhe@uchicago.edu.
+(4)Howard Hughes Medical Institute, The University of Chicago, Chicago, IL, USA. 
+chuanhe@uchicago.edu.
+(5)Department of Biochemistry and Molecular Biology, Institute for Biophysical 
+Dynamics, The University of Chicago, Chicago, IL, USA. chuanhe@uchicago.edu.","DOI: 10.1038/s41422-023-00837-9
+PMID: 37337028"
+"98. Nat Rev Cardiol. 2023 Jun 19. doi: 10.1038/s41569-023-00905-y. Online ahead
+of  print.",Unravelling the genetic heart-brain connection using MRI.,Huynh K(1).,"Author information:
+(1)Nature Reviews Cardiology, . nrcardio@nature.com.","DOI: 10.1038/s41569-023-00905-y
+PMID: 37337022"
+"16. Nat Ecol Evol. 2023 Jun 19. doi: 10.1038/s41559-023-02108-7. Online ahead of 
+print.",People-inspired names remain valuable.,"Antonelli A(1)(2)(3), Farooq H(4)(5)(6), Colli-Silva M(7), Araújo JPM(8), 
+Freitas AVL(9), Gardner EM(10), Grace O(11), Gu S(12)(13)(14), Marline 
+L(12)(15), Nesbitt M(12), Niskanen T(12), Onana JM(16)(17), Pérez-Escobar 
+OA(12), Taylor C(18), Knapp S(19).","Author information:
+(1)Royal Botanic Gardens, Kew, Richmond, UK. a.antonelli@kew.org.
+(2)Gothenburg Global Biodiversity Centre, Department of Biological and 
+Environmental Sciences, University of Gothenburg, Gothenburg, Sweden. 
+a.antonelli@kew.org.
+(3)Department of Biology, University of Oxford, Oxford, UK. a.antonelli@kew.org.
+(4)Gothenburg Global Biodiversity Centre, Department of Biological and 
+Environmental Sciences, University of Gothenburg, Gothenburg, Sweden.
+(5)Center for Macroecology, Evolution and Climate, Globe Institute, University 
+of Copenhagen, Copenhagen, Denmark.
+(6)Faculty of Natural Sciences, Lúrio University, Cabo Delgado, Mozambique.
+(7)Department of Botany, Institute of Biosciences, University of São Paulo, São 
+Paulo, Brazil.
+(8)Institute of Systematic Botany, The New York Botanical Garden, Bronx, NY, 
+USA.
+(9)Department of Animal Biology, Institute of Biology, Unicamp, Campinas, 
+Brazil.
+(10)International Center for Tropical Botany at The Kampong, Florida 
+International University, Miami, FL, USA.
+(11)Royal Botanic Garden Edinburgh, Edinburgh, UK.
+(12)Royal Botanic Gardens, Kew, Richmond, UK.
+(13)South China Botanical Garden, Chinese Academy of Sciences, Guangzhou, China.
+(14)University of the Chinese Academy of Sciences, Beijing, China.
+(15)Kew Madagascar Conservation Centre, Antananarivo, Madagascar.
+(16)National Herbarium of Cameroon, IRAD, Yaoundé, Cameroon.
+(17)Department of Plant Biology, Faculty of Science, University of Yaoundé I, 
+Yaoundé, Cameroon.
+(18)Missouri Botanical Garden, St Louis, MO, USA.
+(19)Natural History Museum, London, UK. s.knapp@nhm.ac.uk.","DOI: 10.1038/s41559-023-02108-7
+PMID: 37337005"
+"17. Nat Ecol Evol. 2023 Jun 19. doi: 10.1038/s41559-023-02105-w. Online ahead of 
+print.",Disrupting the epistemic empire is necessary for a decolonial ecology.,"Mabele MB(1), Kiwango WA(2), Mwanyoka I(2).","Author information:
+(1)Department of Geography and Environmental Studies, University of Dodoma, 
+Dodoma, Tanzania. mathew.bukhi@udom.ac.tz.
+(2)Department of Geography and Environmental Studies, University of Dodoma, 
+Dodoma, Tanzania.","DOI: 10.1038/s41559-023-02105-w
+PMID: 37337004"
+"18. Nat Ecol Evol. 2023 Jun 19. doi: 10.1038/s41559-023-02106-9. Online ahead of 
+print.","Some, but not all, eponyms should be disallowed.",Thiele K(1).,"Author information:
+(1)School of Biological Sciences, The University of Western Australia, Crawley, 
+Western Australia, Australia. kevin.thiele@uwa.du.au.","DOI: 10.1038/s41559-023-02106-9
+PMID: 37337003"
+"19. Nat Ecol Evol. 2023 Jun 19. doi: 10.1038/s41559-023-02104-x. Online ahead of 
+print.",Change in biological nomenclature is overdue and possible.,"Roksandic M(1)(2), Musiba C(3), Radović P(4)(5)(6), Lindal J(4)(7), Wu XJ(8), 
+Figueiredo E(9), Smith GF(9), Roksandic I(4), Bae CJ(10).","Author information:
+(1)Department of Anthropology, University of Winnipeg, Winnipeg, Manitoba, 
+Canada. m.roksandic@uwinnipeg.ca.
+(2)Department of Anthropology, University of Manitoba, Winnipeg, Manitoba, 
+Canada. m.roksandic@uwinnipeg.ca.
+(3)Department of Anthropology, University of Colorado Denver, Denver, CO, USA.
+(4)Department of Anthropology, University of Winnipeg, Winnipeg, Manitoba, 
+Canada.
+(5)Department of Archaeology, Faculty of Philosophy, University of Belgrade, 
+Belgrade, Serbia.
+(6)National Museum Kraljevo, Kraljevo, Serbia.
+(7)Department of Anthropology, University of Manitoba, Winnipeg, Manitoba, 
+Canada.
+(8)Key Laboratory of Vertebrate Evolution and Human Origins, Institute of 
+Vertebrate Paleontology and Paleoanthropology, Chinese Academy of Sciences, 
+Beijing, China.
+(9)Ria Olivier Herbarium, Department of Botany, Nelson Mandela University, 
+Gqeberha, South Africa.
+(10)Department of Anthropology, University of Hawai'i at Manoa, Honolulu, HI, 
+USA. cjbae@hawaii.edu.","DOI: 10.1038/s41559-023-02104-x
+PMID: 37337002"
+"20. Nat Ecol Evol. 2023 Jun 19. doi: 10.1038/s41559-023-02103-y. Online ahead of 
+print.",Inclusive and productive ways forward needed for species-naming conventions.,"Orr MC(1)(2), Hughes AC(3), Carvajal OT(4), Ferrari RR(5)(6), Luo A(5), Rajaei 
+H(7), Ron SR(4), Warrit N(8), Zamani A(9), Zhang YM(10), Zhu CD(11)(12)(13).","Author information:
+(1)Key Laboratory of Zoological Systematics and Evolution, Institute of Zoology, 
+Chinese Academy of Sciences, Beijing, China. michael.christopher.orr@gmail.com.
+(2)Entomologie, Staatliches Museum für Naturkunde Stuttgart, Stuttgart, Germany. 
+michael.christopher.orr@gmail.com.
+(3)School of Biological Sciences, University of Hong Kong, Hong Kong, China.
+(4)Pontifical Catholic University of Ecuador, School of Biology, Museum of 
+Zoology, Quito, Ecuador.
+(5)Key Laboratory of Zoological Systematics and Evolution, Institute of Zoology, 
+Chinese Academy of Sciences, Beijing, China.
+(6)Environmental Science Training Center, Federal University of Southern Bahia, 
+Porto Seguro, Brazil.
+(7)Entomologie, Staatliches Museum für Naturkunde Stuttgart, Stuttgart, Germany.
+(8)Center of Excellence in Entomology and Department of Biology, Faculty of 
+Science, Chulalongkorn University, Bangkok, Thailand.
+(9)Zoological Museum, Biodiversity Unit, Faculty of Science, University of 
+Turku, Turku, Finland.
+(10)Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, UK.
+(11)Key Laboratory of Zoological Systematics and Evolution, Institute of 
+Zoology, Chinese Academy of Sciences, Beijing, China. zhucd@ioz.ac.cn.
+(12)State Key Laboratory of Integrated Pest Management, Institute of Zoology, 
+Chinese Academy of Sciences, Beijing, China. zhucd@ioz.ac.cn.
+(13)College of Life Sciences, University of Chinese Academy of Sciences, 
+Beijing, China. zhucd@ioz.ac.cn.","DOI: 10.1038/s41559-023-02103-y
+PMID: 37337001"
+"21. Nat Ecol Evol. 2023 Jun 19. doi: 10.1038/s41559-023-02102-z. Online ahead of 
+print.",Eponyms are important tools for biologists in the Global South.,"Jost L(1)(2)(3), Yanez-Muñoz MH(4), Brito J(4), Reyes-Puig C(4)(5), Reyes-Puig 
+JP(6)(4), Guayasamín JM(7), Ron SR(8), Quintana C(9), Iturralde G(10)(11), 
+Baquero L(10)(11), Monteros M(6)(4)(11)(12), Freire-Fierro A(13)(14)(15)(16), 
+Fernández D(17), Mendieta-Leiva G(18), Morales JF(19), Karremans AP(20), 
+Vázquez-García JA(21), Salazar GA(22), Hágsater E(23)(24), Solano R(25), 
+Fernández-Concha GC(26), Arana M(27).","Author information:
+(1)Fundación EcoMinga, Quito, Ecuador. loujost@gmail.com.
+(2)Population Biology Foundation, Grand Junction, CO, USA. loujost@gmail.com.
+(3)Instituto Nacional de Biodiversidad (INABIO), Quito, Ecuador. 
+loujost@gmail.com.
+(4)Instituto Nacional de Biodiversidad (INABIO), Quito, Ecuador.
+(5)Instituto IBIOTROP, Museo de Zoología & Laboratorio de Zoología Terrestre, 
+Colegio de Ciencias Biológicas y Ambientales COCIBA, Universidad San Francisco 
+de Quito, Cumbayá, Ecuador.
+(6)Fundación EcoMinga, Quito, Ecuador.
+(7)Instituto Biósfera USFQ, Laboratorio de Biología Evolutiva, Universidad San 
+Francisco de Quito, Cumbayá, Ecuador.
+(8)Museo de Zoología, Escuela de Biología, Pontificia Universidad Católica del 
+Ecuador, Quito, Ecuador.
+(9)Facultad de Ciencias Exactas y Naturales, Escuela de Ciencias Biológicas, 
+Pontificia Universidad Católica del Ecuador, Quito, Ecuador.
+(10)Grupo de Investigación en Medio Ambiente y Salud BIOMAS, Carrera de 
+Ingeniería Agroindustrial y Alimentos, Facultad de Ingeniería y Ciencias 
+Agropecuarias, Universidad de Las Américas, Quito, Ecuador.
+(11)Grupo Científico Calaway Dodson: Investigación y Conservación de Orquídeas 
+del Ecuador, Quito, Ecuador.
+(12)Reserva: The Youth Land Trust, Washington, DC, USA.
+(13)UTCEC Herbarium-CAREN/Universidad Técnica de Cotopaxi, Latacunga, Ecuador.
+(14)Smithsonian Institution, Washington, DC, USA.
+(15)Missouri Botanical Garden, St Louis, MO, USA.
+(16)Universidad Regional Amazónica Ikiam, Tena, Ecuador.
+(17)Unidad de Investigacion, Herbario Nacional del Ecuador Instituto Nacional de 
+Biodiversidad, Quito, Ecuador.
+(18)Philipps University Marburg, Marburg, Germany.
+(19)National Herbarium of Trinidad and Tobago, Department of Life Sciences, 
+Faculty of Life Sciences, University of West Indies, St Augustine, Trinidad and 
+Tobago.
+(20)Lankester Botanical Garden, University of Costa Rica, Cartago, Costa Rica.
+(21)Herbario IBUG, Instituto de Botánica, Departamento de Botánica y Zoología, 
+Universidad de Guadalajara, Centro Universitario de Ciencias Biológicas, 
+Agropecuarias y Ambientales, Nextipac, Zapopan, Mexico.
+(22)Departamento de Botánica, Instituto de Biología, Universidad Nacional 
+Autónoma de México, Mexico City, Mexico.
+(23)Herbamo, Mexico City, Mexico.
+(24)HUH Harvard University Herbaria, Cambridge, MA, USA.
+(25)Centro Interdisciplinario de Investigación para el Desarrollo Integral 
+Regional unidad Oaxaca, Instituto Politécnico Nacional, Oaxaca, México.
+(26)Centro de Investigación Científica de Yucatán A. C. (CICY), Mérida, México.
+(27)Grupo GIVE, Departamento de Ciencias Naturales, Facultad de Ciencias 
+Exactas, Físico-Químicas y Naturales, Instituto ICBIA (UNRC-CONICET), 
+Universidad Nacional de Río Cuarto, Córdoba, Argentina.","DOI: 10.1038/s41559-023-02102-z
+PMID: 37337000"
+"22. Nat Ecol Evol. 2023 Jun 19. doi: 10.1038/s41559-023-02110-z. Online ahead of 
+print.",Michael W. Bruford (1963-2023).,"Hoban S(1), Segelbacher G(2), Vernesi C(3), Russo IM(4).","Author information:
+(1)Center for Tree Science, The Morton Arboretum, Lisle, IL, USA. 
+shoban@mortonarb.org.
+(2)Wildlife Ecology and Management, University Freiburg, Freiburg im Breisgau, 
+Germany. gernot.segelbacher@wildlife.uni-freiburg.de.
+(3)Research and Innovation Centre, Fondazione Edmund Mach, San Michele 
+all'Adige, Italy. cristiano.vernesi@fmach.it.
+(4)School of Biosciences, Cardiff University, Cardiff, UK. 
+russoim@cardiff.ac.uk.","DOI: 10.1038/s41559-023-02110-z
+PMID: 37336999"
+28. Nat Struct Mol Biol. 2023 Jun;30(6):721. doi: 10.1038/s41594-023-01025-4.,Perfect match: PET ligand fits snugly into folded Tau filaments.,Savastano A(1).,"Author information:
+(1)Associate Editor, Nature Communications, . adriana.savastano@nature.com.","DOI: 10.1038/s41594-023-01025-4
+PMID: 37336993"
+29. Nat Struct Mol Biol. 2023 Jun;30(6):720. doi: 10.1038/s41594-023-01024-5.,Autophagy counteracts Mycobacterium tuberculosis infection at early stages.,Typas D(1).,"Author information:
+(1)Associate Editor for Nature Structural & Molecular Biology, . 
+dimitrios.typas@nature.com.","DOI: 10.1038/s41594-023-01024-5
+PMID: 37336992"
+"34. Nat Cancer. 2023 Jun 19. doi: 10.1038/s43018-023-00574-3. Online ahead of
+print.","A co-stimulatory domain increases CAR T cell therapy efficacy in mice with solid 
+tumors.",[No authors listed],"DOI: 10.1038/s43018-023-00574-3
+PMID: 37336987"
+36. Nature. 2023 Jun 19. doi: 10.1038/d41586-023-01986-y. Online ahead of print.,Global 'pandemic treaty': nations wrestle with how to fairly share virus data.,Lenharo M.,"DOI: 10.1038/d41586-023-01986-y
+PMID: 37336985"
+37. Nature. 2023 Jun 19. doi: 10.1038/d41586-023-01983-1. Online ahead of print.,Life in the cosmos: JWST hints at lower number of habitable planets.,Witze A.,"DOI: 10.1038/d41586-023-01983-1
+PMID: 37336984"
+"40. Nat Rev Neurosci. 2023 Jun 19. doi: 10.1038/s41583-023-00719-4. Online ahead
+of  print.",Unpicking the antidepressant actions of psychedelics.,Whalley K(1).,"Author information:
+(1)Nature Reviews Neuroscience, . nrn@nature.com.","DOI: 10.1038/s41583-023-00719-4
+PMID: 37336981"
+"43. Nat Chem Biol. 2023 Jun 19. doi: 10.1038/s41589-023-01351-0. Online ahead of 
+print.",Basket of sweets.,Dorfmueller HC(1).,"Author information:
+(1)School of Life Sciences, University of Dundee, Dundee, UK. 
+hczdorfmueller@dundee.ac.uk.","DOI: 10.1038/s41589-023-01351-0
+PMID: 37336978"
+53. Nature. 2023 Jun;618(7966):683-685. doi: 10.1038/d41586-023-01935-9.,Rarely used strained molecules step up for organic synthesis.,"Idiris FIM, Jones CR.","DOI: 10.1038/d41586-023-01935-9
+PMID: 37336968"
+54. Nature. 2023 Jun;618(7966):878. doi: 10.1038/d41586-023-01981-3.,Teaching robots how to touch.,Mitchell Crow J.,"DOI: 10.1038/d41586-023-01981-3
+PMID: 37336967"
+55. Nature. 2023 Jun;618(7966):871-873. doi: 10.1038/d41586-023-01908-y.,Coming out at work: transgender scientists share their stories.,Chen S.,"DOI: 10.1038/d41586-023-01908-y
+PMID: 37336966"
+56. Nature. 2023 Jun;618(7966):667-668. doi: 10.1038/d41586-023-01977-z.,Is 'speciesism' as bad as racism or sexism?,Birch J.,"DOI: 10.1038/d41586-023-01977-z
+PMID: 37336965"
+62. Commun Chem. 2023 Jun 19;6(1):127. doi: 10.1038/s42004-023-00931-4.,"Metal-free initiators pave the way for chemically recyclable polymers with 
+industrially relevant properties.","Sangroniz A(1), Sardon H(2).","Author information:
+(1)POLYMAT, University of the Basque Country UPV/EHU, Joxe Mari Korta Center, 
+Avda. Tolosa 72, 20018, Donostia-San Sebastian, Spain.
+(2)POLYMAT, University of the Basque Country UPV/EHU, Joxe Mari Korta Center, 
+Avda. Tolosa 72, 20018, Donostia-San Sebastian, Spain. haritz.sardon@ehu.eus.","DOI: 10.1038/s42004-023-00931-4
+PMID: 37336959"
+"71. Nat Methods. 2023 Jun 19. doi: 10.1038/s41592-023-01905-z. Online ahead of 
+print.","Genome architecture mapping detects transcriptionally active, multiway chromatin 
+contacts.",[No authors listed],"DOI: 10.1038/s41592-023-01905-z
+PMID: 37336950"
+"77. Nat Rev Neurol. 2023 Jun 19. doi: 10.1038/s41582-023-00843-w. Online ahead of
+ print.",Myelin damage links brain ageing to amyloid-β deposition.,Wood H(1).,"Author information:
+(1)Nature Reviews Neurology, . nrneuro@nature.com.","DOI: 10.1038/s41582-023-00843-w
+PMID: 37336944"
