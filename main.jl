@@ -23,7 +23,7 @@ slicedmdf = slicematrix(mdf)
 genelist = slicedmdf
 
 # File Import
-filelist = readdir("articles/")
+filelist = readdir("articles_by_date/")
 popfirst!(filelist)
 
 # CSV Exporting
@@ -38,7 +38,7 @@ function searchgenes(files, genes, resultsname, csvname) # searchgenes(array of 
     searchdate = string(Dates.now())
     write(resultsfile, "\n SearchGenes function ran on ", searchdate,"\n")
     # GO FOR FILES
-    cd("../articles/")
+    cd("../articles_by_date/")
     # PER FILE
     global f = 1
     global run_data = [] # run results array
@@ -108,7 +108,7 @@ function searchgenes(files, genes, resultsname, csvname) # searchgenes(array of 
         global f += 1
         #articledf = matrixtodf(article_data)
         #println(articledf) # matrix is here to be used when needed
-        cd("../articles")
+        cd("../articles_by_date")
     end
     global f = 1
     close(resultsfile)

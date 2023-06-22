@@ -90,7 +90,7 @@ with open("abstract_downloading/abstracts.csv", "wt") as abstracts_file, open ("
 
 # From here onwards, my code to extract only the abstracts and turn them into a .txt file for Lektor reading
 file_name = input ("Enter your the name for your file (without .txt): ")
-file_query = "articles/" + file_name + ".txt"
+file_query = "articles_by_date/" + file_name + ".txt"
 
 from collections import defaultdict
 
