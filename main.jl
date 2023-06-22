@@ -108,7 +108,7 @@ function searchgenes(files, genes, resultsname, csvname) # searchgenes(array of 
         global f += 1
         #articledf = matrixtodf(article_data)
         #println(articledf) # matrix is here to be used when needed
-        cd("../articles_by_date")
+        cd("../articles_by_date/")
     end
     global f = 1
     close(resultsfile)
